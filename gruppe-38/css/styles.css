@@ -1,0 +1,277 @@
+/* STYLESHEET STYRINGSDOKUMENT GRUPPE 38 */
+/* ------------------------------------- */
+/*
+Struktur:
+
+html
+  body
+	#container
+	  #header
+	  #main
+		#sidebar
+		#content
+	  #push
+	  #footer
+		#footerspace
+		#footercontent
+		  #totop
+		  #validators
+
+
+/* Farger: #EBF8FF, #DFEBF2, #C0CBD1, #323243*/
+
+/* STRUKTUR */
+
+*{
+	margin: 0;
+}
+
+html{
+	height: 100%;
+}
+
+body{
+	background-color: #EBF8FF; /* EBF8FF, E5E5E5 */  
+	color:#323243;
+	font-family: Arial,sans-serif;
+/*  letter-spacing: 0.066em;*/
+	height: 100%;
+}
+
+#wrapper{
+	margin: auto;
+	height: 100%;
+	width: 900px;
+}
+
+#container{
+	min-height: 100%;
+	height: auto !important;
+	height: 100%;
+	margin: 0 auto -4em; /* Marginen "-*"  viser til høyden på #footer. */
+	background-color:#DFEBF2;
+}
+
+#header{
+	width: 900px;
+	height: 80px;
+	text-align: center;
+	background-color:#C0CBD1;
+}
+
+#main{
+	width: 900px;
+}
+
+#sidebar{
+	width: 164px;
+	padding: 4px;
+	float: left;
+	line-height: 200%;
+	font-weight: 200;
+}
+
+#content{
+	width: 716px;
+	padding: 12px 2px; /* margin: 18px 2px; */
+	float: right;
+}
+
+#push{
+	height: 4em; /* Viser til høyden på #footer, se også #container */
+	clear: both; /* IE */
+}
+
+#footer{
+	height: 4em;
+	width: 900px;
+	background-color: #C0CBD1;
+	clear: both; /* IE */	
+}
+
+/* #footer innhold */
+
+#footerspace{
+	float: left;
+	width: 90px;
+	height: auto;
+}
+img.g38logo{
+	padding: 4px;
+}
+#footercontent{
+	width: 750px;
+	float: right;
+}
+#totop{
+	width:900px;
+	margin-left: -150px;
+	height: 1.8em;
+	text-align: center;
+	
+}
+#copyright{
+	width: 900px;
+	float: left;
+	text-align: center;
+	height: 1.5em;
+	margin: 0 auto;
+	margin-left: -150px;
+	margin-right: -250px;
+}
+#validators{
+	float: right;
+	text-align: right;
+	width: 250px;
+	height: 1.5em;
+}
+
+
+/* ANDRE BLOKKELEMENTER */
+
+h1{
+	text-align: center;
+	font-size: 2.5em;
+	font-weight: 300;
+	letter-spacing: 0.25em;
+	padding: 12px 0px 12px 4px;
+	height: auto;
+}
+h2{
+	font-size: 1.25em;
+	padding: 14px 4px 8px 4px;
+}
+h3{
+	font-size: 1em;
+	padding: 12px 4px 6px 4px;
+}
+h4{
+	font-size: 13px;
+	font-weight: 600;
+	padding: 6px 4px 6px 4px;
+	
+}
+
+p{
+	font-size: 0.85em;
+	padding: 2px 4px 8px 4px;
+}
+p.small{
+	font-size: 0.75em;
+	padding: 2px 2px 2px 2px;
+}
+p.tiny{
+	font-size:0.5em;
+	font-weight: 100;
+	padding: 0;
+}
+
+
+hr{
+	margin: 4px 0px 0px;
+	
+}
+hr.bottom{
+	padding: 0;
+}
+
+ul{
+	padding: 2px 0px 8px 20px;
+	font-size: 13px;
+}
+ol{
+	padding: 2px 0px 8px 20px;
+	font-size: 13px;
+}
+
+/* GENERELL LENKESTYLING: */
+
+a{
+	font-weight: 200;
+}
+a:link{
+	text-decoration: none;
+	color:#323243;
+}
+a:visited{
+	color:#5F5F5F;
+}
+a:hover{
+	text-decoration: underline;
+}
+a:active{
+	text-decoration: underline;
+}
+
+.active{
+	font-weight: 600;
+}
+
+/* KONSTANT LENKESTYLING: */
+
+a:link.constantlink {
+	text-decoration: none;
+	color:#323243;
+}
+a:visited.constantlink {
+	color:#323243;
+}
+a:hover.constantlink{
+	text-decoration: underline;
+}
+a:active.constantlink{
+	text-decoration: underline;
+}
+
+/* TABELLER: */
+
+table{
+	background-color: #323243;
+	font-size: 0.75em;
+}
+table{
+	width: 100%;
+}
+td,th{
+	background-color:#DFEBF2;
+	padding: 2px;
+	text-align: left;
+}
+td.column-1{
+	width: 10%;
+}
+td.column-2{
+	width:10%;
+}
+td.column-3{
+	width:80%;
+}
+table.indextable{
+	background-color: #DFEBF2;
+	
+}
+
+/* BOKSER ./gruppemedlemmer.html */
+
+#erlend-box{
+	float: left;
+	width: 356px;
+	height: 333px;
+}
+#nicolai-box{
+	float: right;
+	width: 356px;
+	height: 333px;
+	
+}
+#mathias-box{
+	float: left;
+	width: 356px;
+	height: 333px;
+	
+}
+#martin-box{
+	float: right;
+	width: 356px;
+	height: 333px;
+}
