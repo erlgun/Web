@@ -2,3 +2,4 @@ Kode
 Hei Hei
 
 Ny test
+Test nr 3
