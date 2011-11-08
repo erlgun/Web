@@ -12,7 +12,7 @@ include '../inc/sidebar.inc.php';
 </ul>
 <p>
 	Første møtet ble avholdt i 4 etasje i P52 bygget. Vi hadde fått e-post at Mathias ikke kunne møte opp pga. sykdom. Vi startet litt uformelt for å bli kjent med hverandre før vi begynte en brainstorm om hva vi skulle ha på siden vår. Brainstormen resulterte i følgende ideer:
-</p>	
+</p>
 <ul>
 	<li>Sauer</li>
 	<li>Comfort (hmm..?)</li>
@@ -89,7 +89,7 @@ include '../inc/sidebar.inc.php';
 	<li>Erlend Gunnesen</li>
 </ul>
 <p>
-	Fullført milepælsplan. Avtalte nytt møte fredag. Har i tilleg definert at vi har fast møte hver onsdag. Møtekordinator: Nicolai satt opp møteplan for neste 2 ukene. Skrevet milepælsplan. Gjort endringer på ansvarskart.  Brukerterningkast. Planla anmeldelser til siden. At det er noe vi kan jobbe med når man har tid. Diskuterte muligheter for ekskursjon. Alle skal lage en designskisse til hovedsiden før møtet på fredag.  
+	Fullført milepælsplan. Avtalte nytt møte fredag. Har i tilleg definert at vi har fast møte hver onsdag. Møtekordinator: Nicolai satt opp møteplan for neste 2 ukene. Skrevet milepælsplan. Gjort endringer på ansvarskart.  Brukerterningkast. Planla anmeldelser til siden. At det er noe vi kan jobbe med når man har tid. Diskuterte muligheter for ekskursjon. Alle skal lage en designskisse til hovedsiden før møtet på fredag.
 </p>
 <h2>Møtereferat 21/10/11</h2>
 <h3>Oppmøte:</h3>
@@ -100,7 +100,7 @@ include '../inc/sidebar.inc.php';
 	<li>Erlend Gunnesen</li>
 </ul>
 <p>
-	Første 15 minuttene ble brukt til å få satt i HDMI kabelen. Som vi ikke fikk igang da tven var defekt. Mens vi gjorde det brainstormet vi litt mer om innholdet på siden. Brainstorming anngående navn på siden. Diskuterte punktene til første innleveringen. Ingen av oss hadde hatt tid til å ha forslag til design. Så dette punktet ble utsatt til neste møte på onsdag. Målet med onsdagen er å ha design bestemt. 
+	Første 15 minuttene ble brukt til å få satt i HDMI kabelen. Som vi ikke fikk igang da tven var defekt. Mens vi gjorde det brainstormet vi litt mer om innholdet på siden. Brainstorming anngående navn på siden. Diskuterte punktene til første innleveringen. Ingen av oss hadde hatt tid til å ha forslag til design. Så dette punktet ble utsatt til neste møte på onsdag. Målet med onsdagen er å ha design bestemt.
 </p>
 <h2>Møtereferat 26/10/11</h2>
 <h3>Oppmøte:</h3>
@@ -122,7 +122,7 @@ include '../inc/sidebar.inc.php';
 	<li>Erlend Gunnesen</li>
 </ul>
 <p>
-	Bestemt at vi skal endre prosjekt. Fått ordnet opp i ansvarskart som vi ikke fikk godkjent til oblig1. Diskuterte aktivitetsplan. Gått gjennom ny samarbeidsavtale.  
+	Bestemt at vi skal endre prosjekt. Fått ordnet opp i ansvarskart som vi ikke fikk godkjent til oblig1. Diskuterte aktivitetsplan. Gått gjennom ny samarbeidsavtale.
 </p>
 <h2>Møtereferat 03/11/11</h2>
 <h3>Oppmøte:</h3>
@@ -152,3 +152,4 @@ include '../inc/footer.inc.php';
 	referatet her
 </p>
 -->
+Her har jeg lagt til tekst
