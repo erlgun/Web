@@ -10,5 +10,5 @@ include './inc/sidebar.inc.php';
 include './inc/footer.inc.php';
 ?>
 
-Test
+Test2
 
