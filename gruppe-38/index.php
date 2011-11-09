@@ -11,4 +11,3 @@ include './inc/footer.inc.php';
 ?>
 
 
-kake
