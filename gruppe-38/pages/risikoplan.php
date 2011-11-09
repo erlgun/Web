@@ -80,6 +80,7 @@ include '../inc/sidebar.inc.php';
 <p>
     <strong>Tiltak:</strong> Vi lagrer alt på Dropbox. Alle har backup på sine personlige datamaskiner.
 </p>
+<!-- TEST -->
 
 <?php
 include '../inc/footer.inc.php';
