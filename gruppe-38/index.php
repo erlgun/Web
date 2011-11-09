@@ -5,8 +5,10 @@ include './inc/sidebar.inc.php';
 ?>
 <p>
 	Dette er prosjektsiden for gruppe 38 i Webprosjekt, HiOA.
-</p>				
+</p>
 <?php
 include './inc/footer.inc.php';
 ?>
 
+
+kake
