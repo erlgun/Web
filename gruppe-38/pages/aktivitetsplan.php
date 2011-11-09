@@ -13,44 +13,44 @@ include '../inc/sidebar.inc.php';
 							
 						</tr>
 						<tr>
-							<td>Uke 40</td>
-							<td>Prosjektvalg</td>
+							<td>40</td>
+							<td>Prosjektvalg. Bli kjent. Fordele arbeidsoppgaver.</td>
 						
 						</tr>
 						
 						<tr>
-							<td>Uke 41</td>
-							<td>Fullføre Styringsdokumenter og  gruppesiden</td>
+							<td>41</td>
+							<td>Skrive styringsdokumenter og kode gruppesiden.</td>
 						
 						</tr>
 						<tr>
-							<td>Uke 43</td>
-							<td>Design/skisse av produktsiden</td>
+							<td>43</td>
+							<td>Design/skisse av produktsiden. Skrive midtrapport.</td>
 						
 						</tr>
 						<tr>
-							<td>Uke 44</td>
-							<td>Lese seg opp på WKAG,Søkemotoroptimalisering og PHP. Skrive midtrapport og egen-rapporter. Oppdatere styringsdokumenter før leveranse 2. Lage første utkast til nettsted</td>
+							<td>44</td>
+							<td>Lese seg opp på WCAG,Søkemotoroptimalisering og PHP. Skrive individuelle rapporter. Oppdatere styringsdokumenter for Leveranse 2. Lage skisse til ferdig nettsted.</td>
 						
 						</tr>
 						<tr>
-							<td>Uke 45</td>
-							<td>Jobbe med universell utforming av nettstedet. Få nettstedet opp på web. Innføring i GIT</td>
+							<td>45</td>
+							<td>Jobbe med universell utforming av nettstedet. Koding av nettsted. Innføring i GIT. Innføring i PHP.</td>
 							
 						</tr>
 						<tr>
-							<td>Uke 46</td>
-							<td>Øve inn presentasjon av nettsted. Videre arbeid med innhold på nettsted. Alle styringsdokumenter skal være ferdig. Nicolai gir oss innføring i PHP</td>
+							<td>46</td>
+							<td>Få første utkast av nettsted opp på web. Øve inn presentasjon av nettsted. Videre arbeid med innhold på nettsted. Alle styringsdokumenter skal være ferdig. Lese seg opp på plattformoptimalisering.</td>
 							
 						</tr>
 						<tr>
-							<td>Uke 47</td>
-							<td>Jobbe med sluttrapport. Jobbe med validering av nettstedet. Finishing touches.</td>
+							<td>47</td>
+							<td>Jobbe med sluttrapport. Jobbe med validering av nettstedet. Plattformoptimalisering.</td>
 							
 						</tr>
 						<tr>
-							<td>Uke 48</td>
-							<td>Se over sluttrapport</td>
+							<td>48</td>
+							<td>Se over sluttrapport. Finpusse prosjektsiden. Evaluere hele prosjektet.</td>
 							
 						</tr>							
 					</table>

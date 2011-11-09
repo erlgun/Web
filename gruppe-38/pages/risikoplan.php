@@ -5,69 +5,82 @@ include '../inc/sidebar.inc.php';
 ?>
 <h2>Risikoskala for gruppe 38:</h2>
 <p>
-	Vi har rangert risiko etter følgende skala: lav: Lite sannsynlig; middels: middels sannsynlig; høy: sansynlig.
+	Vi har rangert risiko etter følgende skala:
 </p>
-<table>
+<ul>
+	<li>1: lite sannsynlig</li>
+	<li>2: middels sannsynlig</li>
+	<li>3: sannsynlig</li>
+	
+</ul>
+
+<table class="risiko">
 	<tr>
 		<th>Scenario</th><th>Risiko</th>
 	</tr>
 	<tr>
-		<td>Sykdom:</td><td>Middels</td>
+		<td>Sykdom</td><td>3</td>
 	</tr>
 	<tr>
-		<td>Manglende oppmøte:</td><td>Lav</td>
+		<td>Manglende oppmøte</td><td>1</td>
 	</tr>
 	<tr>
-		<td>Medlem som slutter:</td><td>Lav</td>
+		<td>Medlem som slutter</td><td>1</td>
 	</tr>
 	<tr>
-		<td>Ikke holde avtaler:</td><td>Lav</td>
+		<td>Ikke holde avtaler</td><td>1</td>
 	</tr>
 	<tr>
-		<td>Misnøye:</td><td>Middels</td>
+		<td>Uenigheter i gruppen</td><td>1</td>
 	</tr>
 	<tr>
-		<td>Tap av data:</td><td>Lav</td>
+		<td>Tap av data:</td><td>2</td>
 	</tr>
 </table>
 <h3>Sykdom</h3>
 <p>
-	Faren for sykdom eller andre skader hvor gruppemedlemmet ville måtte slutte å bidra er alltid til stede. Tiltak for å holde oss friske er å spise sunt og ha god håndhygiene. Vi har begynt å jobbe to og to, skulle den ene bli syk, vil den andre kunne nok om temaet slik at vi kan holde på som før. Skulle det skje ville vi kanskje ha måtte legge om fordelingen av arbeidet.
+    Faren for sykdom der et gruppemedlem ikke kan bidra er alltid til stede.
 </p>
-<p><strong>Tiltak:</strong> For å holde oss friske skal vi spise sunt og ha god håndhygiene.</p>
+<p>
+    <strong>Tiltak:</strong> Omfordele oppgaver. Holde kontakt via Skype, telefon og/eller e-post.
+</p>
 
 <h3>Manglende oppmøte</h3>
 <p>
-	Manglende oppmøte forsøker vi å forhindre via vår samarbeidsavtale hvor vi har skrevet under på gitte krav for å være i gruppen. 
+    Manglende oppmøte hindrer fremgang i prosjektet, i tillegg til at vi ikke får diskutert arbeidet vi har gjort.
 </p>
-<p><strong>Tiltak:</strong> Gjenntatt manglende oppmøte vil føre til ekskludering fra gruppen i følge samarbeidsavtalen.</p>
+<p>
+    <strong>Tiltak:</strong> Gjenntatt manglende oppmøte vil føre til ekskludering fra gruppen i følge <a href="./samarbeidsavtale.php">samarbeidsavtalen</a>.
+</p>
 
 <h3>Medlem som slutter i Web-prosjekt</h3>
 <p>
 	Anser vi som lavt da alle har et høyt ambisjonsnivå. 
 </p>
-<p><strong>Tiltak:</strong> Skulle en person slutte, måtte vi ha omfordelt arbeidet og skrevet ansvarskartet på nytt.</p>
+<p><strong>Tiltak:</strong> Skulle en person slutte, må vi ha omfordele arbeidet og skrive ansvarskartet på nytt.</p>
 
 <h3>Ikke holde avtaler</h3>
 <p>
-	Vi prøver å forhindre at medlemmene ikke holder avtaler ved at vi ikke gir for store oppgaver til hver gang, samt også at vi forteller hvor stor arbeidskapasitet vi har til neste gruppemøte. Slik at vi ikke påtar oss mer arbeid enn vi kan klare. 
+    Å ikke holde avtaler vil gå ut over andre medlemmene i gruppen og til slutt produktet vi skal utvikle i fellesskap.
 </p>
-<p><strong>Tiltak</strong>: Vi har også en <a href="samarbeidsavtale.php">samarbeidsavtale</a> som sier at gruppemedlemme kan bli ekskludert hvis personen ikke holder avtaler.</p>
-<h3>Misnøye</h3>
 <p>
-	Misnøye kan oppstå da vi er fire forskjellige mennesker uten kjennskap til hverandre fra før av. Vi prøver å forhindre misnøye ved å:
+    <strong>Tiltak</strong>: Vi har en <a href="samarbeidsavtale.php">samarbeidsavtale</a> som sier at man kan bli ekskludert hvis man ikke holder avtaler.
 </p>
-<ul>
-	<li>Være saklige</li>
-	<li>Fordele arbeidsoppgaver likt</li>
-</ul>
-<p><strong>Tiltak:</strong> Skulle en person alikevel være misfornøyd vil vi prate sammen og forsøke å løse misnøyen.</p>
-
+<h3>Uenigheter i gruppen</h3>
+<p>
+    Det kan oppstå uenigheter i gruppen da vi kan ha forskjellig oppfatning av hvordan vi vil utforme sluttproduktet.
+</p>
+<p>
+    <strong>Tiltak:</strong> Skulle det oppstå uenigheter vil vi diskutere problemstillingen mellom gruppemedlemmene og komme frem til den beste løsningen i fellesskap.
+</p>
 <h3>Tap av data</h3>
 <p>
-	Tap av data ville være katastrofalt for oss derfor har vi gjort visse tiltak for å forhindre dette. Vi lagrer alt på Dropbox, samt på våre egne harddisker. Vi kan også vurdere å lagre dataene på minnepenner.
+    Tap av data vil ha store konsekvenser og vil forsinke arbeidet og i verste fall må vi starte på nytt. Sannsynligheten for at alle data relatert til prosjektet går tapt er tilnærmet lik null, allikevel har vi tiltak for å unngå de minste tap av data.
 </p>
-<p><strong>Tiltak:</strong> Vi lagrer alt på Dropbox, samt på våre egne harddisker. Vi kan også vurdere å lagre dataene på eksterne harddisker</p>
+<p>
+    <strong>Tiltak:</strong> Vi lagrer alt på Dropbox. Alle har backup på sine personlige datamaskiner.
+</p>
+
 <?php
 include '../inc/footer.inc.php';
 ?>

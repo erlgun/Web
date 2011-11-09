@@ -6,7 +6,7 @@ include '../inc/sidebar.inc.php';
 <h2>Prosjektbeskrivelse</h2>
 <h3>Bakgrunn for prosjektet</h3>
 <p>
-	Kulturfestivalen Kulquinox i Sandvika trenger en ny og moderne webside. <a href="http://www.kulquinox.no">Den eksisterende</a> er vanskelig å navigere og tilgangen til relevant informasjon er dårlig organisert. Festivalen arrangeres  to ganger i året, med støtte av kommunen, og med en ny webløsning på plass vil festivalen potensielt få flere betalende gjester og større kommersiell suksess.
+	Kulturfestivalen Kulquinox/Kulturjevndøgn i Sandvika trenger en ny og moderne webside. <a href="http://www.kulquinox.no">Den eksisterende</a> er vanskelig å navigere og tilgangen til relevant informasjon er dårlig organisert. Festivalen arrangeres  to ganger i året, med støtte av kommunen, og med en ny webløsning på plass vil festivalen potensielt få flere gjester og større sannsynlighet for å fortsette.
 </p>
 <h3>Problemstilling</h3>
 <p>
