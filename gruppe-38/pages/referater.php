@@ -131,6 +131,28 @@ include '../inc/sidebar.inc.php';
 <p>
 	Mathias kunne ikke komme på møtet fordi han måtte vente på internettleverandør hjemme. Gjøre klar leveranse 1. Alle installerte XAMPP. Bestemt at Mathias og Nicolai skal samarbeide om design. Erlend og Martin skal ta seg av milepælsplan.
 </p>
+<h2>Møtereferat 04/11/11 </h2>
+<h3>Oppmøte:</h3>
+<ul>
+	<li>Mathias Santiago Groven</li>
+	<li>Martin Johan Grini</li>
+	<li>Nicolai Grøndahl</li>
+	<li>Erlend Gunnesen</li>
+</ul>
+<p>
+	Hele møtet gikk med på å gjøre siste finishing touches til leveranse 2. Ble også bestemt at vi skulle ha en med ansvar for platformoptimalisering. 
+</p>
+<h2>Møtereferat 09/11/11 </h2>
+<h3>Oppmøte:</h3>
+<ul>
+	<li>Mathias Santiago Groven</li>
+	<li>Martin Johan Grini</li>
+	<li>Nicolai Grøndahl</li>
+	<li>Erlend Gunnesen</li>
+</ul>
+<p>
+	Møte gikk hovedsaklig med på at Erlend skulle gi innføring i GIT og at alle skulle få satt opp GIT klienten på sin bærbare. Etter en suksessrik innføring gikk vi over til å smådiskutere presentasjon 18 november. Vi bestemte oss for å se på presentasjoner mandag 14 november for inspirasjon og øve inn presentasjon våres på møtet onsdag 16 november.
+</p>
 
 <?php
 include '../inc/footer.inc.php';
