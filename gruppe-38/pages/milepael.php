@@ -33,3 +33,7 @@ include '../inc/footer.inc.php';
     <td class="column-3"></td>
 </tr>
 -->
+
+<!--
+veldig bra, veldig bra.
+-->
