@@ -9,4 +9,6 @@ include './inc/sidebar.inc.php';
 <?php
 include './inc/footer.inc.php';
 ?>
-
+<!--
+Test
+-->
