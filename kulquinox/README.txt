@@ -1,7 +1,7 @@
-README
-------
+README v.0.2
+------------
 
-Denne README tar for seg strukturen og konvensjonene vi skal følge i koding og hvor forskjellige filer skal plasseres.
+Denne README tar for seg strukturen og konvensjonene vi skal følge i HTML, CSS og PHP og hvor forskjellige filer skal plasseres.
 
 Viktige punkter:
 ----------------
@@ -21,7 +21,7 @@ FILTRE
 ./pages/
 	::Inneholder de forskjellige valgene i #mainmenu (hovedmenyen på siden)
    	-/program/
-   		::Inneholder programmenyen i tillegg til programinnhol i respektive mapper
+   		::Inneholder programmenyen i tillegg til programinnhold i respektive mapper
 		-/artister/
 		-/film/
 		-/teater/
@@ -29,6 +29,6 @@ FILTRE
 	-/galleri/
 	-/nyttig_info/
 	-/kontakt/
-./styles/
+./css//
 	::Inneholder stilark
 ./index.php
