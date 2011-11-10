@@ -1,12 +1,12 @@
 README
 ------
 
-Denne README tar for seg strukturen og konvensjonene vi skal fÃ¸lge i koding og hvor forskjellige filer skal plasseres.
+Denne README tar for seg strukturen og konvensjonene vi skal følge i koding og hvor forskjellige filer skal plasseres.
 
 Viktige punkter:
 ----------------
-* Vi fÃ¸lger HTML5-standarden
-* Alle filer lagres i smÃ¥ bokstaver
+* Vi følger HTML5-standarden
+* Alle filer lagres i små bokstaver
 * Vi bruker '_' som mellomrom i fil- og mappenavn
 * Koding skal skrives i engelsk. I praksis betyr det hvordan vi navngir variabler i PHP og class/id i HTML/CSS
 
@@ -14,22 +14,21 @@ Viktige punkter:
 FILTRE
 ------
 
-/images
-  Ã:::Bilder/grafikk legges i denne mappen
-/inc
-  ::Inneholder include-filene
-/menu
-  ::Inneholder de forskjellige valgene i #mainmenu (hovedmenyen pÃ¥ siden)
-  -/program
-    -/artister
-    -/film
-    -/teater
-    -/utstilling
-  -/om_festivalen
-  -/galleri
-  -/nyttig_info
-  -/kontakt
-/styles
-  - Inneholder stilark
-
-/index.php
+./images/
+   ::Bilder/grafikk legges i denne mappen
+./inc/
+   ::Inneholder include-filene
+./pages/
+	::Inneholder de forskjellige valgene i #mainmenu (hovedmenyen på siden)
+   	-/program/
+   		::Inneholder programmenyen i tillegg til programinnhol i respektive mapper
+		-/artister/
+		-/film/
+		-/teater/
+	-/om_festivalen/
+	-/galleri/
+	-/nyttig_info/
+	-/kontakt/
+./styles/
+	::Inneholder stilark
+./index.php
