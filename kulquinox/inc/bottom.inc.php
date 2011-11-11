@@ -1,8 +1,11 @@
-				</div> <!-- END OF #content -->
-			</div> <!-- END OF #innerwrapper -->
+					</div> <!-- END OF #content -->
+				</div> <!-- END OF #innerwrapper -->
+			<div id="push"></div>
 		</div> <!-- END OF #outerwrapper -->
-		<div id="push"></div>
-		<div id="footer">	
+		<div id="footer">
+			<p>
+				Copyright &copy; <?php $date=getdate(); echo $date['year'];?> Kulquinox
+			</p>	
 		</div><!-- END OF #footer -->
 	</body>
 </html>

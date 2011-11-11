@@ -1,4 +1,4 @@
-README v.0.2.5
+README v.0.2.8
 --------------
 
 Denne README tar for seg strukturen og konvensjonene vi skal følge i HTML, CSS og PHP og hvor 
@@ -7,10 +7,11 @@ forskjellige filer skal plasseres.
 Viktige punkter:
 ----------------
 * Vi følger HTML5-standarden
-* Alle filer lagres i små bokstaver
+* Alle filer og mapper lagres i små bokstaver
 * Vi bruker '_' som mellomrom i fil- og mappenavn
 * Koding skal skrives i engelsk. I praksis betyr det hvordan vi navngir variabler i PHP og 
   class/id i HTML/CSS
+* Det skal være semantisk navngivning på id, class og variabler
 
 
 FILTRE

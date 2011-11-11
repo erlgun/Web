@@ -1,40 +1,103 @@
-html{
-	
+/** STYLESHEET KULQUINOX **/
+/**
+
+Struktur:
+---------
+
+body
+	#outerwrapper
+		#header
+		#innerwrapper
+			#mainmenu
+			#content
+		#push
+	#footer
+
+
+**/
+
+
+* {
+margin: 0;
 }
+
+html, body {
+	height: 100%;
+}
+
 
 body{
-	background-color: #23A300;
+	background-color: #6791BF;
+	color: black;
+	font-family: verdana, arial, sans-serif;
 }
 
+
+
 #outerwrapper{
-	
+	min-height: 100%;
+	height: auto !important;
+	height: 100%;
+	margin: 0 auto -4em;
 }
 
 
 #header{
-	
+	text-align: center;
+	background-color: #ABBF15;
+	height: 4em;
 }
 
 #innerwrapper{
-	
+	height: 100%;
+	background-color:#F2E49B;
 }
 
 #mainmenu{
-	
+	margin: auto;
+	height: 2.5em;
+	text-align: center;
+}
+#mainmenu li
+{
+	display: inline;
+	list-style-type: none;
+	padding-right: 20px;
 }
 
 #content{
 	
 }
 
-#contentmenu{
-	
+#programmenu  li
+{
+	display: inline;
+	list-style-type: none;
+	padding-right: 20px;
+}
+
+#programmenu{
+	background-color: #F07C6C;
+	margin: auto;
+	height: 2.5em;
+	text-align: center;
 }
 
 #push{
+	height: 4em;
+}
+
+#footer{
+	background-color: #ABBF15;
+	height: 4em;
+	text-align: center;
 	
 }
 
-#Footer{
-	
+.active{
+	background-color: white;
+}
+
+a:link{
+	text-decoration: none;
 }
