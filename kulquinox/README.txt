@@ -1,4 +1,4 @@
-README v.0.2.8
+README v.0.2.9
 --------------
 
 Denne README tar for seg strukturen og konvensjonene vi skal følge i HTML, CSS og PHP og hvor 
@@ -32,6 +32,12 @@ FILTRE
 	-/galleri/
 	-/nyttig_info/
 	-/kontakt/
-./css//
+./css/
 	::Inneholder stilark
 ./index.php
+
+
+KOMMENTARER I KODEN
+-------------------
+
+Det skal legges inn kommentar på endringer og tilføyelser i HTML, PHP og CSS.
