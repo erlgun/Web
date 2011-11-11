@@ -2,8 +2,9 @@
 <html>
 	<head>
 		<title>Kulquinox - <?php echo $current; ?></title>
-		<meta http-equiv="content-type" content="text/html; charset=utf-8">		
+		<meta http-equiv="content-type" content="text/html; charset=utf-8">	
 		<?php
+		# her velges riktig stilark med relativ url
 		switch ($current) {
 			case('Forsiden'):
 		?>		
