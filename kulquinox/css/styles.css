@@ -7,14 +7,16 @@
 
 html, body {
 	height: 100%;
-	font-family: "Helvetica Neue", arial, sans-serif;
-	
+	font-family: "Helvetica Neue", helvetica, arial, sans-serif;
 	background-color: ;
 }
 
 #wrap {
 	min-height: 100%;
 	width: 100%; 
+	background-image: url(../images/background_1.gif); 
+	background-repeat: repeat; 
+	background-color: #8FCBEB;
 	
 	
 }
