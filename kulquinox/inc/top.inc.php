@@ -30,6 +30,7 @@
 	</head>
 	<body>
 		<div id="wrap">
+			<div id="innerwrapper">
 			<div id="header">
 				<h1>
 					<?php

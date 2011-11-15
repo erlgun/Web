@@ -73,5 +73,5 @@
 	}
 	?>
 	</ul>
-</div><!-- END OF #mainmenu -->
+</div><!-- END OF #menu -->
 <div id="content">

@@ -12,16 +12,26 @@ html, body {
 
 #wrap {
 	min-height: 100%;
+	width: 100%; 
+	
+	
+}
+#innerwrapper {
+	width: 90%; /* Remember to set #footer as at same width! */
+	height: 100%;
+	background-color: #1e1e1e;
+	margin: 0 auto;
 }
 
 #header {
-	float: left;
+	float: center;
 	width: 100%;
+	background-color: #1e1e1e;
 }
 
 #header h1 {
-	float: left;
-	margin: 0;
+	float: center;
+	margin: 0 auto;
 	padding: 0;
 	width: 800px; /* Width of header image */
 }
@@ -29,10 +39,11 @@ html, body {
 #header h1 a {
 	padding: 0;
 	margin: 0;
-	width: 800px; /* Width of header image */
-	height: 221px; /* Height of header image */
+	width: 800px; /* Width of header image or site */
+	height: 180px; /* Height of header image */
 	display: block;
-	background: url(../images/kulquinox_header_800.jpg) no-repeat top left;
+	clear: both;
+	background: url(../images/kulquinox_header_compressed_height_800x180.jpg) no-repeat top left;
 }
 
 #header h1 a span {
@@ -42,9 +53,10 @@ html, body {
 #main {
 	overflow: auto;
 	clear: both;
-	width: 800px; /* Same as header width */
-	padding-bottom: 80px; /* Same as #bottom height */
-	background-color: #dddddd;
+	width: 90%; /* Same as header width */
+	padding-bottom: 80px; /* Same as #bottom height */ /* BELONGS TO #main! */
+	margin: 0 auto;
+	background-color: gray;
 	
 }
 
@@ -53,14 +65,21 @@ html, body {
 	margin-top: -80px; /* negative value of footer height */
 	height: 80px;
 	clear:both;
-	width: 800px; /* Same as header width */
-	background-color: #aaaaaa;
+	width: 90%; /* Same as innerwrapper width */
+	background-color: #1e1e1e;
+	margin: -80px auto 0 auto;
 }
-
+#innerfooter {
+	width: 90%; /* Same as #innerwrapper */
+	height: 80%;
+	margin: 0 auto;
+	background-color: gray;
+	
+}
 
 #menu{
 	margin: auto;
-	height: 1.5em;
+	height: 35px;
 	clear: both;
 	background-color: #1e1e1e;
 }
@@ -68,33 +87,36 @@ html, body {
 {
 	display: inline;
 	list-style-type: none;
-	padding-right: 10px;
+	padding: 4px 10px 2px 10px;
 	font-family: "Century Gothic";
 }
 #menu li.button{
-	background-color: #2a2a2a;
+	background-color: #3f3f3f;
 }
 #menu li.active{
 	background-color: #a2a2a2;
+	
 }
 #programmenu li.button{
-	background-color: #1e1e1e;
+	background-color: #3f3f3f;
 }
 #programmenu li.active{
 	background-color: #a2a2a2;
+	color: yellow;
+	
 }
 #programmenu {
 	/* Same as #menu */
 	margin: auto;
-	height: 1.5em;
+	height: 35px;
 	clear: both;
-	background-color: #2a2a2a;
+	background-color: orange;
 }
 #programmenu li {
 	/* Same as #menu li */
 	display: inline;
 	list-style-type: none;
-	padding-right: 20px;
+	padding: 4px 10px 2px 10px;
 	font-family: "Century Gothic";
 }
 
@@ -114,11 +136,26 @@ li.button a:visited {
 	color:white;
 }
 li.button a:hover{
-	color: #dddddd;
+	color: yellow;
 	text-decoration: none;
 }
 li.button a:active{
-	color: #a2a2a2;
+	color: orange;
+	text-decoration: none;
+}
+li.active a:link {
+	text-decoration: none;
+	color: yellow;
+}
+li.active a:visited {
+	color:yellow;
+}
+li.active a:hover{
+	color: yellow;
+	text-decoration: none;
+}
+li.active a:active{
+	color: orange;
 	text-decoration: none;
 }
 
