@@ -1,103 +1,125 @@
-/** STYLESHEET KULQUINOX **/
-/**
-
-Struktur:
----------
-
-body
-	#outerwrapper
-		#header
-		#innerwrapper
-			#mainmenu
-			#content
-		#push
-	#footer
-
-
-**/
-
+/**  MAIN STRUCTURAL STYLES **/
 
 * {
-margin: 0;
+	margin:0;
+	padding:0;
 }
 
 html, body {
 	height: 100%;
-}
-
-
-body{
-	background-color: #6791BF;
-	color: black;
 	font-family: verdana, arial, sans-serif;
 }
 
-
-
-#outerwrapper{
+#wrap {
 	min-height: 100%;
-	height: auto !important;
-	height: 100%;
-	margin: 0 auto -4em;
 }
 
-
-#header{
-	text-align: center;
-	background-color: #ABBF15;
-	height: 4em;
+#header {
+	float: left;
+	width: 100%;
 }
 
-#innerwrapper{
-	height: 100%;
-	background-color:#F2E49B;
+#header h1 {
+	float: left;
+	margin: 0;
+	padding: 0;
+	width: 800px; /* Width of header image */
 }
 
-#mainmenu{
-	margin: auto;
-	height: 2.5em;
-	text-align: center;
-}
-#mainmenu li
-{
-	display: inline;
-	list-style-type: none;
-	padding-right: 20px;
+#header h1 a {
+	padding: 0;
+	margin: 0;
+	width: 800px; /* Width of header image */
+	height: 221px; /* Height of header image */
+	display: block;
+	background: url(../images/kulquinox_header_800.jpg) no-repeat top left;
 }
 
-#content{
+#header h1 a span {
+	display: none;
+}
+
+#main {
+	overflow: auto;
+	clear: both;
+	width: 800px; /* Same as header width */
+	padding-bottom: 80px; /* Same as #bottom height */
+	background-color: #dddddd;
 	
 }
 
-#programmenu  li
+#footer {
+	position: relative;
+	margin-top: -80px; /* negative value of footer height */
+	height: 80px;
+	clear:both;
+	width: 800px; /* Same as header width */
+	background-color: #aaaaaa;
+}
+
+
+#menu{
+	margin: auto;
+	height: 1.5em;
+	clear: both;
+	background-color: #1e1e1e;
+}
+#menu li
 {
 	display: inline;
 	list-style-type: none;
-	padding-right: 20px;
+	padding-right: 10px;
+	font-family: "Century Gothic";
 }
-
-#programmenu{
-	background-color: #F07C6C;
+#menu li.button{
+	background-color: #2a2a2a;
+}
+#menu li.active{
+	background-color: #a2a2a2;
+}
+#programmenu li.button{
+	background-color: #1e1e1e;
+}
+#programmenu li.active{
+	background-color: #a2a2a2;
+}
+#programmenu {
+	/* Same as #menu */
 	margin: auto;
-	height: 2.5em;
-	text-align: center;
+	height: 1.5em;
+	clear: both;
+	background-color: #2a2a2a;
+}
+#programmenu li {
+	/* Same as #menu li */
+	display: inline;
+	list-style-type: none;
+	padding-right: 20px;
+	font-family: "Century Gothic";
 }
 
-#push{
-	height: 4em;
+li.button{
 }
 
-#footer{
-	background-color: #ABBF15;
-	height: 4em;
-	text-align: center;
-	
+#content {
 }
 
-.active{
-	background-color: white;
-}
+/** TYPOGRAPHY **/
 
-a:link{
+li.button a:link {
+	text-decoration: none;
+	color: white;
+}
+li.button a:visited {
+	color:white;
+}
+li.button a:hover{
+	color: #dddddd;
 	text-decoration: none;
 }
+li.button a:active{
+	color: #a2a2a2;
+	text-decoration: none;
+}
+
+

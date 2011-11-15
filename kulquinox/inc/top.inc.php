@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<title>Kulquinox - <?php echo $current; ?></title>
-		<meta http-equiv="content-type" content="text/html; charset=utf-8">	
+		<meta http-equiv="content-type" content="text/html; charset=utf-8">			
 		<?php
 		# her velges riktig stilark med relativ url
 		switch ($current) {
@@ -24,37 +24,37 @@
 		?>
 		<link rel="stylesheet" type="text/css" href="../css/styles.css">
 		<?php			
-		break;
+			break;
 		}
 		?>
-
-	
 	</head>
 	<body>
-		<div id="outerwrapper">
+		<div id="wrap">
 			<div id="header">
-				<?php
-				switch ($current) {
-					case('Forsiden'):
-				?>		
-				<h1><a href="./index.php">KULQUINOX</a></h1>
-				<?php
-					break;
-					case('Artister'):
-					case('Film'):
-					case('Teater'):
-					case('Utstilling'):
-					case('Tidsskjema'):
-				?>
-				<h1><a href="../../index.php">KULQUINOX</a></h1>
-			<?php
-				break;
-				default:
-			?>
-				<h1><a href="../index.php">KULQUINOX</a></h1>
-			<?php
-				break;
-			}
-			?>
+				<h1>
+					<?php
+					switch ($current) {
+						case('Forsiden'):
+					?>		
+					<a href="./index.php"><span>Kulquinox</span></a>
+					<?php
+						break;
+						case('Artister'):
+						case('Film'):
+						case('Teater'):
+						case('Utstilling'):
+						case('Tidsskjema'):
+					?>
+					<a href="../../index.php"><span>Kulquinox</span></a>
+					<?php
+						break;
+						default:
+					?>
+					<a href="../index.php"><span>Kulquinox</span></a>
+					<?php
+						break;
+					}
+					?>
+				</h1>
 			</div> <!-- END OF #header -->
-			<div id="innerwrapper">
+			<div id="main">

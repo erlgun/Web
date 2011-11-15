@@ -8,12 +8,12 @@ include './inc/main_menu.inc.php';
 </p>
 <div id="news">
 	<p>
-		Her legges siste nytt om Kulquinox.
+		Her legges siste nytt om Kulquinox. include med PHP.
 	</p>
 </div>
 <div id="programadditions">
 	<p>
-		Her legges nyeste bookinger av artister osv.
+		Her legges nyeste bookinger av artister osv. include med PHP.
 	</p>
 </div>
 <?php
