@@ -1,17 +1,19 @@
 <?php
-$current = 'Forsiden';
+$current = 'Home';
 include './inc/top.inc.php';
 include './inc/menu.inc.php';
 ?>
-
+<p>
+	This is Kulquinox' front page.
+</p>
 <div id="news">
 	<p>
-		Her legges siste nytt om Kulquinox. include med PHP.
+		News from Kulquinox, included by PHP.
 	</p>
 </div>
 <div id="programadditions">
 	<p>
-		Her legges nyeste bookinger av artister osv. include med PHP.
+		Latest artist bookings, include by PHP.
 	</p>
 </div>
 <?php

@@ -103,19 +103,6 @@ h1.banner span {
 	background-color: #1e1e1e;	
 }
 
-#news {
-	width: 45%;
-	float: left;
-	border: 2px dashed red;
-	
-}
-#programadditions {
-	width: 45%;
-	float: right;
-	border: 2px dashed red;
-	
-}
-
 .spacing{
 	padding: 10px;
 }
@@ -143,8 +130,6 @@ h1.banner span {
 	background-color: #cecece;
 	border: 2px dashed #1e1e1e;
 	width: 100%;
-	min-height: 100%;
-	height: 100%;
 }
 
 /** TYPOGRAPHY **/
