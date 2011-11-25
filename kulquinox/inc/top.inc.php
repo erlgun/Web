@@ -36,16 +36,16 @@ switch($folder) {
 # THIS SECTION CHOOSES RELATIVE URL OF index.php
 switch ($folder) {
 	case('0'):
-?><a href="./index"><span></span>Kulquinox</a><?php
+?><a href="./index.php"><span></span>Kulquinox</a><?php
 	break;
 	case('1'):
-?><a href="../index"><span></span>Kulquinox</a><?php
+?><a href="../index.php"><span></span>Kulquinox</a><?php
 	break;
 	case('2'):
-?><a href="../../index"><span></span>Kulquinox</a><?php
+?><a href="../../index.php"><span></span>Kulquinox</a><?php
 	break;
 	case('3'):
-?><a href="../../../index"><span></span>Kulquinox</a><?php
+?><a href="../../../index.php"><span></span>Kulquinox</a><?php
 	break;
 }
 ?></h1>

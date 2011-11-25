@@ -33,7 +33,6 @@ h1.banner {
 	width: 800px;
 	height: 180px;
 	position: relative;
-	margin: 0 auto;
 }
 h1.banner span {	
 	background: url("../images/kulquinox_header_compressed_height_800x180.jpg");
