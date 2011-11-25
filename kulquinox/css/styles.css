@@ -128,19 +128,23 @@ p {
 	font-size: 1em;
 }
 
-li.event_list {
+li.sidebar_link {
 	padding: 2px 2px;
 	list-style-type: none;
 }
 
-#artist_menu{
+li.active_sidebar_link {
+	padding: 2px 2px;
+	list-style-type: none;
+}
+
+#sidebar_menu {
 	float: left;
 	width:18%;
 	padding:15px 10px 15px 15px;
 	border-right: 2px dashed #1e1e1e;
-	
 }
-#artist_info{
+#artist_info {
 	float:left;
 	width: 75%;
 	padding:15px 10px 15px 15px;
@@ -183,35 +187,42 @@ li.active a:active{
 	text-decoration: none;
 }
 
-li.event_list a:link {
+li.sidebar_link a:link {
 	text-decoration: none;
 	color: #1e1e1e;
 }
-li.event_list a:visited {
-	text-decoration: none;
-	color: #1e1e1e;
-	
-}
-li.event_list a:hover{
+li.sidebar_link a:visited {
 	text-decoration: none;
 	color: #1e1e1e;
 }
-li.event_list a:active {
+li.sidebar_link a:hover{
+	text-decoration: none;
+	color: #1e1e1e;
+}
+li.sidebar_link a:active {
 	text-decoration: none;
 	color: #1e1e1e;
 }
 
-li.active_event a:link {
-	
+li.active_sidebar_link a:link {
+	text-decoration: none;
+	color:#f5cd72;
+	background-color: #1e1e1e;
 }
-li.active_event a:visited {
-	
+li.active_sidebar_link a:visited {
+	text-decoration: none;
+	color:#f5cd72;
+	background-color: #1e1e1e;
 }
-li.active_event a:hover{
-	
+li.active_sidebar_link a:hover{
+	text-decoration: none;
+	color:#f5cd72;
+	background-color: #1e1e1e;
 }
-li.active_event a:active {
-	
+li.active_sidebar_link a:active {
+	text-decoration: none;
+	color:#f5cd72;
+	background-color: #1e1e1e;
 }
 
 
@@ -255,7 +266,7 @@ body {
 	border: 2px dashed #00111c;
 }
 
-#artist_menu {
+#sidebar_menu {
 	background-color: #7f8d53;
 }
 
@@ -270,4 +281,4 @@ li.button{
 }
 li.active{
 	background-color: #1e1e1e;
-}
+}	
