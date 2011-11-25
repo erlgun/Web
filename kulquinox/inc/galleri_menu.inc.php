@@ -27,7 +27,7 @@ switch($gallery){
 ?>
 						<li class="sidebar_link"><a href="../../pages/galleri/host_2011.php">Høst 2011</a></li>
 						<li class="sidebar_link"><a href="../../pages/galleri/var_2011.php">Vår 2011</a></li>
-						<li class="active_sidebar_link"><a href="../pages/galleri/host_2010.php">Høst 2010</a></li>
+						<li class="active_sidebar_link"><a href="../../pages/galleri/host_2010.php">Høst 2010</a></li>
 						<li class="sidebar_link"><a href="../../pages/galleri/var_2010.php">Vår 2010</a></li>
 
 <?php
