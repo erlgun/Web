@@ -23,14 +23,25 @@ switch ($current) {
 <?php					
 	break;
 	case('Galleri'):
+		if ($folder == '2') {
 ?>
+						<li class="button"><a href="../pages/program_index.php">PROGRAM</a></li>
+						<li class="button"><a href="../../pages/om_kulquinox.php">OM KULQUINOX</a></li>
+						<li class="button active"><a href="../../pages/program_index.php">GALLERI</a></li>
+						<li class="button"><a href="../../pages/info_index.php">NYTTIG INFO</a></li>
+						<li class="button"><a href="../../pages/kontakt.php">KONTAKT</a></li>
+						<li class="button"><a href="../../pages/sitemap.php">SITEMAP</a></li>
+<?php
+	}	else {
+	?>
 						<li class="button"><a href="../pages/program_index.php">PROGRAM</a></li>
 						<li class="button"><a href="../pages/om_kulquinox.php">OM KULQUINOX</a></li>
 						<li class="button active"><a href="../pages/galleri_index.php">GALLERI</a></li>
 						<li class="button"><a href="../pages/info_index.php">NYTTIG INFO</a></li>
 						<li class="button"><a href="../pages/kontakt.php">KONTAKT</a></li>
 						<li class="button"><a href="../pages/sitemap.php">SITEMAP</a></li>
-	<?php					
+	<?php
+		}
 	break;
 	case('Nyttig informasjon'):
 ?>
