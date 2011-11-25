@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 $current = 'Galleri';
 $folder = '1';
 $gallery = 'main';
