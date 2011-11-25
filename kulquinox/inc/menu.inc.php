@@ -4,7 +4,6 @@
 // Add new underpages here
 switch ($current) {
 	case('Om Kulquinox'):
-	case('Galleri'):
 	case('Nyttig informasjon'):
 	case('Kontakt'):
 	case('Sitemap'):
@@ -21,6 +20,13 @@ switch ($current) {
 		} else {
 			include '../../inc/main_menu.inc.php';
 			include '../../inc/program_menu.inc.php';
+		}
+	break;
+	case('Galleri'):
+		if ($folder =='2') {
+			include '../../inc/main_menu.inc.php';
+		} else {
+			include '../inc/main_menu.inc.php';
 		}
 	break;
 	case('Film'):
