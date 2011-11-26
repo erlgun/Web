@@ -298,6 +298,20 @@ body {
 	color: #f5cd72;
 	border: 2px dashed #7f8d53;
 }
+div.image{
+  margin:2px;
+  height:153px;
+  width:230px;
+  float:left;
+  text-align:center;
+  }
+div.imagelarge{
+  margin:2px;
+  height:424px;
+  width:300px;
+  float:left;
+  text-align:center;
+  } 
 
 li.button{
 	background-color: #41342d;
