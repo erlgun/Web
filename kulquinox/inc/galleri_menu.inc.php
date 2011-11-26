@@ -66,4 +66,4 @@ switch($gallery){
 ?>
 					</ul>
 				</div>
-				<div id="artist_info">
+				<div id="inner_content">
