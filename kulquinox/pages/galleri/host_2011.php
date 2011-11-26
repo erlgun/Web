@@ -7,16 +7,15 @@ include '../../inc/menu.inc.php';
 include '../../inc/galleri_menu.inc.php';
 ?>
 <div class="image">
- <a target="_blank" href="../../images/gallery/bilde11.jpg"><img src="../../images/gallery/bilde11small.jpg" alt="Konsertbilde" width="100%" height="100%" /></a>
- 
+	<a target="_blank" href="../../images/gallery/bilde11.jpg"><img src="../../images/gallery/bilde11small.jpg" alt="Konsertbilde" width="100%" height="100%" /></a>
 </div>
+
 <div class="image">
- <a target="_blank" href="../../images/gallery/bilde12.jpg"><img src="../../images/gallery/bilde12small.jpg" alt="Konsertbilde" width="100%" height="100%" /></a>
- 
+	<a target="_blank" href="../../images/gallery/bilde12.jpg"><img src="../../images/gallery/bilde12small.jpg" alt="Konsertbilde" width="100%" height="100%" /></a>
 </div>
+
 <div class="image">
- <a target="_blank" href="../../images/gallery/bilde13.jpg"><img src="../../images/gallery/bilde13small.jpg" alt="Konsertbilde" width="100%" height="100%" /></a>
- 
+	<a target="_blank" href="../../images/gallery/bilde13.jpg"><img src="../../images/gallery/bilde13small.jpg" alt="Konsertbilde" width="100%" height="100%" /></a>
 </div>
 <div class="image">
  <a target="_blank" href="../../images/gallery/bilde14.jpg"><img src="../../images/gallery/bilde14small.jpg" alt="Konsertbilde" width="100%" height="100%" /></a>
@@ -46,6 +45,9 @@ include '../../inc/galleri_menu.inc.php';
  <a target="_blank" href="../../images/gallery/bilde5.jpg"><img src="../../images/gallery/bilde5small.jpg" alt="Konsertbilde" width="100%" height="100%" /></a>
  
 </div>
+
+</div> <!-- END OF -->
+
 <?php
 include '../../inc/bottom.inc.php';
 ?>

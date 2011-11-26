@@ -2,7 +2,7 @@
 
 				<div id="sidebar_menu">
 					<h3>Bildegallerier</h3>
-					<ul class="artist_menu_items">
+					<ul class="sidebar_menu_items">
 <?php
 switch($gallery){
 	case ('Høst 2011'):
