@@ -32,21 +32,31 @@ switch($folder) {
 	<body>
 		<div id="wrap">
 			<div id="header">
-				<h1 class="banner"><?php
-# THIS SECTION CHOOSES RELATIVE URL OF index.php
-switch ($folder) {
-	case('0'):
-?><a href="./index.php"><span></span>Kulquinox</a><?php
-	break;
-	case('1'):
-?><a href="../index.php"><span></span>Kulquinox</a><?php
-	break;
-	case('2'):
-?><a href="../../index.php"><span></span>Kulquinox</a><?php
-	break;
-	case('3'):
-?><a href="../../../index.php"><span></span>Kulquinox</a><?php
-	break;
-}
-?></h1>
+				<div id="header_banner">
+					<h1 class="banner"><?php
+	# THIS SECTION CHOOSES RELATIVE URL OF index.php
+	switch ($folder) {
+		case('0'):
+	?><a href="./index.php"><span></span>Kulquinox</a><?php
+		break;
+		case('1'):
+	?><a href="../index.php"><span></span>Kulquinox</a><?php
+		break;
+		case('2'):
+	?><a href="../../index.php"><span></span>Kulquinox</a><?php
+		break;
+		case('3'):
+	?><a href="../../../index.php"><span></span>Kulquinox</a><?php
+		break;
+	}
+	?></h1>
+				</div>
+				<div id="header_menu">
+					<p>
+						Be my beach.
+					</p>
+					<p>
+						Wanna pee in my afro?
+					</p>
+				</div>
 			</div> <!-- END OF #header -->
