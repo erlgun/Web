@@ -153,7 +153,84 @@ include '../inc/sidebar.inc.php';
 <p>
 	Møte gikk hovedsaklig med på at Erlend skulle gi innføring i GIT og at alle skulle få satt opp GIT klienten på sin bærbare. Etter en suksessrik innføring gikk vi over til å smådiskutere presentasjon 18 november. Vi bestemte oss for å se på presentasjoner mandag 14 november for inspirasjon og øve inn presentasjon våres på møtet onsdag 16 november.
 </p>
-
+<h2>Møtereferat 14/11/11 </h2>
+<h3>Oppmøte:</h3>
+<ul>
+	<li>Mathias Santiago Groven</li>
+	<li>Martin Johan Grini</li>
+	<li>Nicolai Grøndahl</li>
+	<li>Erlend Gunnesen</li>
+</ul>
+<p>
+	Nicolai var den eneste som så på presentasjoner idag.
+</p>
+<h2>Møtereferat 16/11/11 </h2>
+<h3>Oppmøte:</h3>
+<ul>
+	<li>Mathias Santiago Groven</li>
+	<li>Martin Johan Grini</li>
+	<li>Nicolai Grøndahl</li>
+	<li>Erlend Gunnesen</li>
+</ul>
+<p>
+	Startet på powerpoint presentasjonen som vi skal ha på fredag. Hadde møte med Kulqiunox.
+</p>
+<h2>Møtereferat 17/11/11 </h2>
+<h3>Oppmøte:</h3>
+<ul>
+	<li>Mathias Santiago Groven</li>
+	<li>Martin Johan Grini</li>
+	<li>Nicolai Grøndahl</li>
+	<li>Erlend Gunnesen</li>
+</ul>
+<p>
+	Fortsatte arbeidet på powerpoint presentasjonen. Bestemte oss får å korte ned på flere av settningene i presentasjonen.
+</p>
+<h2>Møtereferat 18/11/11</h2>
+<h3>Oppmøte:</h3>
+<ul>
+	<li>Mathias Santiago Groven</li>
+	<li>Martin Johan Grini</li>
+	<li>Nicolai Grøndahl</li>
+	<li>Erlend Gunnesen</li>
+</ul>
+<p>
+	Lite møte før presentasjonen hvor vi hadde generalprøve på presentasjonen.
+</p>
+<h2>Møtereferat 22/11/11</h2>
+<h3>Oppmøte:</h3>
+<ul>
+	<li>Mathias Santiago Groven</li>
+	<li>Martin Johan Grini?</li>
+	<li>Nicolai Grøndahl</li>
+	
+</ul>
+<p>
+	Spør etter møtereferat av Nicolai.
+</p>
+<h2>Møtereferat 23/11/11 </h2>
+<h3>Oppmøte:</h3>
+<ul>
+	<li>Mathias Santiago Groven</li>
+	<li>Martin Johan Grini</li>
+	<li>Nicolai Grøndahl</li>
+	<li>Erlend Gunnesen</li>
+</ul>
+<p>
+	Gjorde forberedende arbeid til leveranse 3. Erlend gikk tidlig fordi han måtte ha søvn.
+</p>
+<h2>Møtereferat 25/11/11</h2>
+<h3>Oppmøte:</h3>
+<ul>
+	<li>Mathias Santiago Groven</li>
+	<li>Martin Johan Grini</li>
+	<li>Nicolai Grøndahl</li>
+	<li>Erlend Gunnesen</li>
+</ul>
+<p>
+	Bestemt oss for hva folk skal jobbe med i helga og til uka når vi ferdigstiller prosjektet. Erlend skal gjøre ferdig galleriet, fylle inn sine poster i midtrapporten og oppdatere møtereferatene. Mathias skal fortsette å fylle innhold på siden
+	og drive med linkback sammen med Martin. 
+</p>
 <?php
 include '../inc/footer.inc.php';
 ?>

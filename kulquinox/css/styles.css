@@ -152,6 +152,31 @@ li.active_sidebar_link {
 #artist_text{
 	float:left;
 }
+div.image{
+  margin:2px;
+  height:153px;
+  width:230px;
+  float:left;
+  text-align:center;
+  }
+div.imagelarge{
+  margin:2px;
+  height:424px;
+  width:300px;
+  float:left;
+  text-align:center;
+  }  
+
+  
+  /*div.image image
+  {
+  display:inline;
+  margin:3px;
+  height:90px;
+  width:110px;
+  
+  }*/
+
 
 /* LINK STYLING */
 
