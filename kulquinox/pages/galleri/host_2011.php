@@ -46,7 +46,7 @@ include '../../inc/galleri_menu.inc.php';
  
 </div>
 
-</div> <!-- END OF -->
+</div> <!-- END OF #inner_content -->					
 
 <?php
 include '../../inc/bottom.inc.php';

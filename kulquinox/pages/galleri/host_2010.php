@@ -26,6 +26,7 @@ include '../../inc/galleri_menu.inc.php';
  <a target="_blank" href="../../images/gallery/bilde12.jpg"><img src="../../images/gallery/bilde12small.jpg" alt="Konsertbilde" width="100%" height="100%" /></a>
  
 </div>
+</div> <!-- END OF #inner_content -->					
 
 <?php
 include '../../inc/bottom.inc.php';
