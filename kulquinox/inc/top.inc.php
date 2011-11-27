@@ -52,11 +52,10 @@ switch($folder) {
 	?></h1>
 				</div>
 				<div id="header_menu">
-					<p>
-						Be my beach.
-					</p>
-					<p>
-						Wanna pee in my afro?
-					</p>
+					<ul>
+						<li><a href="">Samarbeidspartnere</a></li>
+						<li><a href="">Sitemap</a></li>
+						<li><a href="">English</a></li>
+					</ul>
 				</div>
 			</div> <!-- END OF #header -->
