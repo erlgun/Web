@@ -1,4 +1,3 @@
-
 			</div> <!-- END OF #content -->
 			<div id="footer">
 				<p>
