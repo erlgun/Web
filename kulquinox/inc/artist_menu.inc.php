@@ -242,7 +242,6 @@ switch($artist){
 						<li class="sidebar_link"><a href="program/artister/run_dog_run.php">Run Dog Run</a></li>
 						<li class="sidebar_link"><a href="program/artister/seville.php">Seville</a></li>
 						<li class="sidebar_link"><a href="program/artister/tuva_tariq.php">Tuva &amp; Tariq</a></li>
-
 <?php
 	break;
 	default:
@@ -262,7 +261,32 @@ switch($artist){
 						<li class="sidebar_link"><a href="../program/artister/tuva_tariq.php">Tuva &amp; Tariq</a></li>
 <?php
 }
+switch ($artist) {
+	case ('Assula'):
+	case ('Astro-Gastro-JAM'):
+	case ('Bollywood Bhangra'):
+	case ('DJ Ivaylo'):
+	case ('Haraldur'):
+	case ('Jon Schau'):
+	case ('Khanstrings'):
+	case ('Kong Sverre'):
+	case ('Lür'):
+	case ('Radio 9');
+	case ('Run Dog Run'):
+	case ('Seville'):
+	case ('Tuva & Tariq'):
 ?>
+
 					</ul>
 				</div>
 				<div id="inner_content">
+<?php
+	break;
+	default:
+?>
+					</ul>
+				</div>
+<?php
+	break;
+}
+?>

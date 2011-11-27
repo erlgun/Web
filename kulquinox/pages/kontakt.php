@@ -41,8 +41,6 @@ include '../inc/menu.inc.php';
 			</tr>
 		</table>
 	</form>
-
-
 <?php
 
 $_REQUEST['name']			=	$name;

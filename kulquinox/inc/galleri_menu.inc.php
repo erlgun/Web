@@ -1,4 +1,4 @@
-﻿
+
 
 				<div id="sidebar_menu">
 					<h3>Bildegallerier</h3>
