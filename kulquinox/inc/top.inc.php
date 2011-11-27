@@ -53,9 +53,38 @@ switch($folder) {
 				</div>
 				<div id="header_menu">
 					<ul class="header_menu_items">
-						<li><a href="">Samarbeidspartnere</a></li>
-						<li><a href="">Sitemap</a></li>
-						<li><a href="">English</a></li>
+<?php
+switch ($folder) {
+	case('0'):
+?>
+							<li><a href="./pages/sitemap.php">Sitemap</a></li>
+							<li><a href="./">Site in English</a></li>
+							<li><a href="./">Samarbeidspartnere</a></li>
+<?php
+	break;
+	case('1'):
+?>
+							<li><a href="../pages/sitemap.php">Sitemap</a></li>
+							<li><a href="../">Site in English</a></li>
+							<li><a href="../">Samarbeidspartnere</a></li>
+<?php
+	break;
+	case('2'):
+?>
+							<li><a href="../../pages/sitemap.php">Sitemap</a></li>
+							<li><a href="../../">Site in English</a></li>
+							<li><a href="../../">Samarbeidspartnere</a></li>
+<?php
+	break;
+	case('3'):
+?>
+							<li><a href="../../../pages/sitemap.php">Sitemap</a></li>
+							<li><a href="../../../">Site in English</a></li>
+							<li><a href="../../../">Samarbeidspartnere</a></li>
+<?php
+	break;
+}
+?>
 					</ul>
 				</div>
 			</div> <!-- END OF #header -->

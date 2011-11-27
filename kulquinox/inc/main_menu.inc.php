@@ -88,6 +88,15 @@ switch ($current) {
 						<li class="button"><a href="../kontakt.php">KONTAKT</a></li>
 <?php
 	break;
+	case('Sitemap'):
+?>
+						<li class="button"><a href="./program_index.php">PROGRAM</a></li>
+						<li class="button"><a href="./om_kulquinox.php">OM KULQUINOX</a></li>
+						<li class="button"><a href="./galleri_index.php">GALLERI</a></li>
+						<li class="button"><a href="./info_index.php">NYTTIG INFO</a></li>
+						<li class="button"><a href="./kontakt.php">KONTAKT</a></li>
+<?php
+	break;
 	default:
 ?>
 						<li class="button"><a href="./pages/program_index.php">PROGRAM</a></li>
