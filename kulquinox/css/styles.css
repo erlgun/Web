@@ -128,7 +128,16 @@ ul.header_menu_items {
 	padding-right: 10px;
 }
 
-
+#copyright {
+	float:left;
+	width: 30%;
+	padding-top: 40px;
+}
+#validators {
+	float:right;
+	width: 30%;
+	padding-top: 40px;
+}
 
 
 #content {
@@ -144,6 +153,12 @@ p {
 	letter-spacing: 0.05em;
 	padding: 12px 30px 6px 12px;
 	font-size: 1em;
+}
+
+#validators p{
+	letter-spacing: 0.05em;
+	font-size: 0.5em;
+	float: right;
 }
 
 
@@ -184,6 +199,41 @@ div.imagelarge{
 }
 
 /* LINK STYLING */
+
+a:link {
+	
+}
+a:visited {
+	
+}
+a:hover {
+	
+}
+a:active {
+	
+}
+a.static_link:link {
+	text-decoration: none;
+	color: #f5cd72;
+	
+	
+}
+a.static_link:visited {
+	text-decoration: none;
+	color: #f5cd72;
+	
+	
+}
+a.static_link:hover {
+	color: #f5cd72;
+	text-decoration: underline;
+	
+}
+a.static_link:active {
+	color: #f5cd72;
+	text-decoration: underline;
+	
+}
 
 li.button a:link {
 	text-decoration: none;
