@@ -45,8 +45,8 @@ h1.banner span {
 
 #header_menu {
 	float: right;
-	background-color: white;
 	width: 20%;
+	height: 180px;
 }
 
 #menu {
@@ -277,6 +277,10 @@ body {
 #header {
 	border: 2px dashed #7f8d53;
 	background-color: #41342d;
+}
+#header_menu {
+	background-color: #7f8d53;
+	border-left: 2px dashed #00111c;
 }
 
 #menu {
