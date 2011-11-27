@@ -112,10 +112,21 @@ h1.banner span {
 
 #sitemap li {
 	list-style-type: none;
- 	letter-spacing: 0.2em;
+ 	letter-spacing: 0.1em;
 	padding: 2px 5px;
 }
 
+#header_menu li {
+	list-style-type: none;
+	letter-spacing: 0.1em;
+	padding-top: 4px;
+	text-align: right;
+}
+
+ul.header_menu_items {
+	padding-top: 20px;
+	padding-right: 10px;
+}
 
 
 
@@ -135,12 +146,8 @@ p {
 	font-size: 1em;
 }
 
-li.sidebar_link {
-	padding: 2px 2px;
-	list-style-type: none;
-}
 
-li.active_sidebar_link {
+#sidebar_menu li {
 	padding: 2px 2px;
 	list-style-type: none;
 }

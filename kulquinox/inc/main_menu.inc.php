@@ -9,7 +9,6 @@ switch ($current) {
 						<li class="button"><a href="../pages/galleri_index.php">GALLERI</a></li>
 						<li class="button"><a href="../pages/info_index.php">NYTTIG INFO</a></li>
 						<li class="button"><a href="../pages/kontakt.php">KONTAKT</a></li>
-						<li class="button"><a href="../pages/sitemap.php">SITEMAP</a></li>
 <?php					
 	break;
 	case('Om Kulquinox'):
@@ -19,7 +18,6 @@ switch ($current) {
 						<li class="button"><a href="../pages/galleri_index.php">GALLERI</a></li>
 						<li class="button"><a href="../pages/info_index.php">NYTTIG INFO</a></li>
 						<li class="button"><a href="../pages/kontakt.php">KONTAKT</a></li>
-						<li class="button"><a href="../pages/sitemap.php">SITEMAP</a></li>
 <?php					
 	break;
 	case('Galleri'):
@@ -30,7 +28,6 @@ switch ($current) {
 						<li class="button active"><a href="../../pages/galleri_index.php">GALLERI</a></li>
 						<li class="button"><a href="../../pages/info_index.php">NYTTIG INFO</a></li>
 						<li class="button"><a href="../../pages/kontakt.php">KONTAKT</a></li>
-						<li class="button"><a href="../../pages/sitemap.php">SITEMAP</a></li>
 <?php
 	}	else {
 	?>
@@ -39,7 +36,6 @@ switch ($current) {
 						<li class="button active"><a href="../pages/galleri_index.php">GALLERI</a></li>
 						<li class="button"><a href="../pages/info_index.php">NYTTIG INFO</a></li>
 						<li class="button"><a href="../pages/kontakt.php">KONTAKT</a></li>
-						<li class="button"><a href="../pages/sitemap.php">SITEMAP</a></li>
 	<?php
 		}
 	break;
@@ -50,7 +46,6 @@ switch ($current) {
 						<li class="button"><a href="../pages/galleri_index.php">GALLERI</a></li>
 						<li class="button active"><a href="../pages/info_index.php">NYTTIG INFO</a></li>
 						<li class="button"><a href="../pages/kontakt.php">KONTAKT</a></li>
-						<li class="button"><a href="../pages/sitemap.php">SITEMAP</a></li>
 <?php					
 	break;
 	case('Kontakt'):
@@ -60,18 +55,6 @@ switch ($current) {
 						<li class="button"><a href="../pages/galleri_index.php">GALLERI</a></li>
 						<li class="button"><a href="../pages/info_index.php">NYTTIG INFO</a></li>
 						<li class="button active"><a href="../pages/kontakt.php">KONTAKT</a></li>
-						<li class="button"><a href="../pages/sitemap.php">SITEMAP</a></li>
-<?php
-	break;
-	case('Sitemap'):
-?>
-						<li class="button"><a href="../pages/program_index.php">PROGRAM</a></li>
-						<li class="button"><a href="../pages/om_kulquinox.php">OM KULQUINOX</a></li>
-						<li class="button"><a href="../pages/galleri_index.php">GALLERI</a></li>
-						<li class="button"><a href="../pages/info_index.php">NYTTIG INFO</a></li>
-						<li class="button"><a href="../pages/kontakt.php">KONTAKT</a></li>
-						<li class="button active"><a href="../pages/sitemap.php">SITEMAP</a></li>
-
 <?php
 	break;
 	case('Artister'):
@@ -82,7 +65,6 @@ switch ($current) {
 						<li class="button"><a href="../../galleri_index.php">GALLERI</a></li>
 						<li class="button"><a href="../../info_index.php">NYTTIG INFO</a></li>
 						<li class="button"><a href="../../kontakt.php">KONTAKT</a></li>
-						<li class="button"><a href="../../sitemap.php">SITEMAP</a></li>
 <?php
 		} else {
 ?>
@@ -91,7 +73,6 @@ switch ($current) {
 						<li class="button"><a href="../galleri_index.php">GALLERI</a></li>
 						<li class="button"><a href="../info_index.php">NYTTIG INFO</a></li>
 						<li class="button"><a href="../kontakt.php">KONTAKT</a></li>
-						<li class="button"><a href="../sitemap.php">SITEMAP</a></li>
 <?php
 		}
 	break;
@@ -105,7 +86,6 @@ switch ($current) {
 						<li class="button"><a href="../galleri_index.php">GALLERI</a></li>
 						<li class="button"><a href="../info_index.php">NYTTIG INFO</a></li>
 						<li class="button"><a href="../kontakt.php">KONTAKT</a></li>
-						<li class="button"><a href="../sitemap.php">SITEMAP</a></li>
 <?php
 	break;
 	default:
@@ -115,7 +95,6 @@ switch ($current) {
 						<li class="button"><a href="./pages/galleri_index.php">GALLERI</a></li>
 						<li class="button"><a href="./pages/info_index.php">NYTTIG INFO</a></li>
 						<li class="button"><a href="./pages/kontakt.php">KONTAKT</a></li>
-						<li class="button"><a href="./pages/sitemap.php">SITEMAP</a></li>
 <?php
 	break;
 }

@@ -52,7 +52,7 @@ switch($folder) {
 	?></h1>
 				</div>
 				<div id="header_menu">
-					<ul>
+					<ul class="header_menu_items">
 						<li><a href="">Samarbeidspartnere</a></li>
 						<li><a href="">Sitemap</a></li>
 						<li><a href="">English</a></li>
