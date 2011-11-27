@@ -90,14 +90,13 @@ h1.banner span {
 
 
 #news {
-	width: 45%;
+	width: 49%;
 	float: left;
-	border-right: 2px dashed red;	
 }
 #program_additions {
-	width: 45%;
-	float: right;
-	border: 2px dashed red;	
+	width: 49%;
+	float: left;
+	border-left: 2px dashed #1e1e1e;	
 }
 
 
