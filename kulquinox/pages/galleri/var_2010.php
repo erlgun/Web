@@ -22,6 +22,11 @@ include '../../inc/galleri_menu.inc.php';
 						<div class="image">
 							<a target="_blank" href="../../images/gallery/bilde10.jpg"><img src="../../images/gallery/bilde10small.jpg" alt="Konsertbilde" /></a>
 						</div>
+					<div class="image_copyright"
+					<p>
+					&copy; Johnny Vaet Nordskog 2011 - All rights reserved
+					</p>
+					</div>						
 					</div> <!-- END OF #inner_content -->					
 <?php
 include '../../inc/bottom.inc.php';

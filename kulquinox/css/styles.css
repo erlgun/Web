@@ -204,6 +204,12 @@ p {
 	float:left;
 }
 
+div.image_copyright{
+	float:left;
+	width: 75%;
+	padding:15px 10px 15px 15px;
+}
+
 div.image{
   margin:2px;
   height:153px;

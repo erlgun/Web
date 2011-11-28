@@ -6,7 +6,7 @@ switch ($current) {
 ?>
 						<li class="button active"><a href="../pages/program_index.php">PROGRAM</a></li>
 						<li class="button"><a href="../pages/om_kulquinox.php">OM KULQUINOX</a></li>
-						<li class="button"><a href="../pages/galleri_index.php">GALLERI</a></li>
+						<li class="button"><a href="../pages/galleri/host_2011.php">GALLERI</a></li>
 						<li class="button"><a href="../pages/info_index.php">NYTTIG INFO</a></li>
 						<li class="button"><a href="../pages/kontakt.php">KONTAKT</a></li>
 <?php					
@@ -15,7 +15,7 @@ switch ($current) {
 ?>
 						<li class="button"><a href="../pages/program_index.php">PROGRAM</a></li>
 						<li class="button active"><a href="../pages/om_kulquinox.php">OM KULQUINOX</a></li>
-						<li class="button"><a href="../pages/galleri_index.php">GALLERI</a></li>
+						<li class="button"><a href="../pages/galleri/host_2011.php">GALLERI</a></li>
 						<li class="button"><a href="../pages/info_index.php">NYTTIG INFO</a></li>
 						<li class="button"><a href="../pages/kontakt.php">KONTAKT</a></li>
 <?php					
@@ -25,7 +25,7 @@ switch ($current) {
 ?>
 						<li class="button"><a href="../../pages/program_index.php">PROGRAM</a></li>
 						<li class="button"><a href="../../pages/om_kulquinox.php">OM KULQUINOX</a></li>
-						<li class="button active"><a href="../../pages/galleri_index.php">GALLERI</a></li>
+						<li class="button active"><a href="../../pages/galleri/host_2011.php">GALLERI</a></li>
 						<li class="button"><a href="../../pages/info_index.php">NYTTIG INFO</a></li>
 						<li class="button"><a href="../../pages/kontakt.php">KONTAKT</a></li>
 <?php
@@ -33,7 +33,7 @@ switch ($current) {
 	?>
 						<li class="button"><a href="../pages/program_index.php">PROGRAM</a></li>
 						<li class="button"><a href="../pages/om_kulquinox.php">OM KULQUINOX</a></li>
-						<li class="button active"><a href="../pages/galleri_index.php">GALLERI</a></li>
+						<li class="button active"><a href="../pages/galleri/host_2011.php">GALLERI</a></li>
 						<li class="button"><a href="../pages/info_index.php">NYTTIG INFO</a></li>
 						<li class="button"><a href="../pages/kontakt.php">KONTAKT</a></li>
 	<?php
@@ -43,7 +43,7 @@ switch ($current) {
 ?>
 						<li class="button"><a href="../pages/program_index.php">PROGRAM</a></li>
 						<li class="button"><a href="../pages/om_kulquinox.php">OM KULQUINOX</a></li>
-						<li class="button"><a href="../pages/galleri_index.php">GALLERI</a></li>
+						<li class="button"><a href="../pages/galleri/host_2011.php">GALLERI</a></li>
 						<li class="button active"><a href="../pages/info_index.php">NYTTIG INFO</a></li>
 						<li class="button"><a href="../pages/kontakt.php">KONTAKT</a></li>
 <?php					
@@ -52,7 +52,7 @@ switch ($current) {
 ?>
 						<li class="button"><a href="../pages/program_index.php">PROGRAM</a></li>
 						<li class="button"><a href="../pages/om_kulquinox.php">OM KULQUINOX</a></li>
-						<li class="button"><a href="../pages/galleri_index.php">GALLERI</a></li>
+						<li class="button"><a href="../pages/galleri/host_2011.php">GALLERI</a></li>
 						<li class="button"><a href="../pages/info_index.php">NYTTIG INFO</a></li>
 						<li class="button active"><a href="../pages/kontakt.php">KONTAKT</a></li>
 <?php
@@ -62,7 +62,7 @@ switch ($current) {
 ?>
 						<li class="button active"><a href="../../program_index.php">PROGRAM</a></li>
 						<li class="button"><a href="../../om_kulquinox.php">OM KULQUINOX</a></li>
-						<li class="button"><a href="../../galleri_index.php">GALLERI</a></li>
+						<li class="button"><a href="../../galleri/host_2011.php">GALLERI</a></li>
 						<li class="button"><a href="../../info_index.php">NYTTIG INFO</a></li>
 						<li class="button"><a href="../../kontakt.php">KONTAKT</a></li>
 <?php
@@ -70,7 +70,7 @@ switch ($current) {
 ?>
 						<li class="button active"><a href="../program_index.php">PROGRAM</a></li>
 						<li class="button"><a href="../om_kulquinox.php">OM KULQUINOX</a></li>
-						<li class="button"><a href="../galleri_index.php">GALLERI</a></li>
+						<li class="button"><a href="../galleri/host_2011.php">GALLERI</a></li>
 						<li class="button"><a href="../info_index.php">NYTTIG INFO</a></li>
 						<li class="button"><a href="../kontakt.php">KONTAKT</a></li>
 <?php
@@ -83,7 +83,7 @@ switch ($current) {
 ?>
 						<li class="button active"><a href="../program_index.php">PROGRAM</a></li>
 						<li class="button"><a href="../om_kulquinox.php">OM KULQUINOX</a></li>
-						<li class="button"><a href="../galleri_index.php">GALLERI</a></li>
+						<li class="button"><a href="../galleri/host_2011.php">GALLERI</a></li>
 						<li class="button"><a href="../info_index.php">NYTTIG INFO</a></li>
 						<li class="button"><a href="../kontakt.php">KONTAKT</a></li>
 <?php
@@ -92,7 +92,7 @@ switch ($current) {
 ?>
 						<li class="button"><a href="./program_index.php">PROGRAM</a></li>
 						<li class="button"><a href="./om_kulquinox.php">OM KULQUINOX</a></li>
-						<li class="button"><a href="./galleri_index.php">GALLERI</a></li>
+						<li class="button"><a href="../pages/galleri/host_2011.php">GALLERI</a></li>
 						<li class="button"><a href="./info_index.php">NYTTIG INFO</a></li>
 						<li class="button"><a href="./kontakt.php">KONTAKT</a></li>
 <?php
@@ -101,7 +101,7 @@ switch ($current) {
 ?>
 						<li class="button"><a href="./pages/program_index.php">PROGRAM</a></li>
 						<li class="button"><a href="./pages/om_kulquinox.php">OM KULQUINOX</a></li>
-						<li class="button"><a href="./pages/galleri_index.php">GALLERI</a></li>
+						<li class="button"><a href="../pages/galleri/host_2011.php">GALLERI</a></li>
 						<li class="button"><a href="./pages/info_index.php">NYTTIG INFO</a></li>
 						<li class="button"><a href="./pages/kontakt.php">KONTAKT</a></li>
 <?php
