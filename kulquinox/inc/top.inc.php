@@ -51,36 +51,38 @@ switch($folder) {
 	}
 	?></h1>
 				</div>
+				
 				<div id="header_menu">
+					<div id="face">
+						<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.kulquinox.no">
+						</iframe>
+					</div>
+					
 					<ul class="header_menu_items">
 <?php
 switch ($folder) {
 	case('0'):
 ?>
-							<li><a href="./pages/sitemap.php">Sitemap</a></li>
-							<li><a href="./">Site in English</a></li>
 							<li><a href="./">Samarbeidspartnere</a></li>
+							<li><a href="./">English</a></li>
 <?php
 	break;
 	case('1'):
 ?>
-							<li><a href="../pages/sitemap.php">Sitemap</a></li>
-							<li><a href="../">Site in English</a></li>
-							<li><a href="../">Samarbeidspartnere</a></li>
+							<li><a href="../">Samarabeidspartnere</a></li>
+							<li><a href="../">English</a></li>
 <?php
 	break;
 	case('2'):
 ?>
-							<li><a href="../../pages/sitemap.php">Sitemap</a></li>
-							<li><a href="../../">Site in English</a></li>
 							<li><a href="../../">Samarbeidspartnere</a></li>
+							<li><a href="../../">English</a></li>
 <?php
 	break;
 	case('3'):
 ?>
-							<li><a href="../../../pages/sitemap.php">Sitemap</a></li>
-							<li><a href="../../../">Site in English</a></li>
 							<li><a href="../../../">Samarbeidspartnere</a></li>
+							<li><a href="../../../">English</a></li>
 <?php
 	break;
 }

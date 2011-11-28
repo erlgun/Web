@@ -124,8 +124,22 @@ h1.banner span {
 }
 
 ul.header_menu_items {
-	padding-top: 80px;
+	padding-top: 100px;
 	padding-right: 10px;
+	font-size: 0.8em;
+}
+
+#face {
+	width: 100%;
+	border-bottom: 2px dashed #1e1e1e;
+	height: 90px;
+	float: left;
+}
+iframe {
+	width: 80%;
+	height: 60px;
+	padding: 15px 12px 15px 24px;
+	border: none;
 }
 
 #copyright {
@@ -172,6 +186,14 @@ p {
 	width:18%;
 	padding:15px 10px 15px 15px;
 	border-right: 2px dashed #1e1e1e;
+}
+
+#sidebar {
+	float: left;
+	width:18%;
+	padding:15px 10px 15px 15px;
+	border-right: 2px dashed #1e1e1e;
+	
 }
 #inner_content {
 	float:left;
@@ -352,6 +374,15 @@ body {
 
 #sidebar_menu {
 	background-color: #7f8d53;
+}
+
+iframe {
+	background-color: #d8dfea;
+	
+}
+#face {
+	background-color: #d8dfea;
+	
 }
 
 #footer {

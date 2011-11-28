@@ -108,5 +108,5 @@ switch ($current) {
 	break;
 }
 ?>
-					</ul>
+					</ul>					
 				</div><!-- END OF #main_menu -->
