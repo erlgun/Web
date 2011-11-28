@@ -27,20 +27,23 @@ body {
 	margin-bottom: 20px;
 	margin-top: 20px;
 	
+	
 }
 #header_banner {
+	background: url("../images/kulquinox_header_600.gif");
 	float: left;
+	width: 600px;
+	height: 180px;
+	
 }
 h1.banner {
-	width: 614px;
-	height: 180px;
-	position: relative;
-}
-h1.banner span {	
-	background: url("../images/kulquinox_logo_transparent_f5cd72_2.gif");
-	position: absolute;
-	width: 100%;
-	height: 100%;
+	position: left;
+	padding-left: 25px;
+	padding-top: 50px;
+	font-family: "Century Gothic", arial, sans-serif;
+	font-size: 60px;
+	letter-spacing: 0.2em;
+	
 }
 
 #header_menu {
@@ -419,15 +422,21 @@ li.active{
 }
 
 h1.banner a:link {
-	color: #41342d;
+	color: #f5cd72;
+	text-decoration: none;
+	
 	
 }
 h1.banner a:visited {
-	color: #41342d;	
+	color: #f5cd72;	
+	text-decoration: none;
+	
 }
 h1.banner a:hover {
-		color: #41342d;
+		color: #f5cd72;
+		text-decoration: underline;
 }
 h1.banner a:active {
-		color: #41342d;
+		color: #f5cd72;
+		text-decoration: none;
 }
