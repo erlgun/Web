@@ -6,7 +6,7 @@ include '../../inc/menu.inc.php';
 ?>
 
 <p>
-	Dette er tidsskjema til neste Kulquinox.
+	Her program med scener og tider.
 </p>
 <?php
 include '../../inc/bottom.inc.php';
