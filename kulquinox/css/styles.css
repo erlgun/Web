@@ -1,11 +1,19 @@
+/* STYLESHEET FOR KULQUINOX.NO */
+/*
+	This stylesheet is written by Gruppe 38 Webprosjekt @ HiOA, autumn 2011.
+*/
+
+
+/* MAIN ELEMENT STYLING */
+/* 
+	This section contains general styling of main elements and div elements.
+*/
+
 * {
 	margin:0;
 	padding:0;
 }
 
-html, body {
-	font-family: "Helvetica Neue", helvetica, arial, sans-serif;
-}
 body {
 	background-repeat: repeat; 
 	overflow-y: scroll;
@@ -26,21 +34,19 @@ body {
 	margin-right: 20px;
 	margin-bottom: 20px;
 	margin-top: 20px;
-	
-	
 }
+
 #header_banner {
 	background: url("../images/kulquinox_header_600.gif");
 	float: left;
 	width: 600px;
 	height: 180px;
-	
 }
+
 h1.banner {
 	position: left;
 	padding-left: 25px;
 	padding-top: 50px;
-	
 }
 
 #header_menu {
@@ -48,74 +54,6 @@ h1.banner {
 	width: 20%;
 	height: 180px;
 }
-
-#menu {
-	width: 100%;
-	padding: 10px 0 5px;
-	float: left;
-	margin-right: 20px;
-	margin-bottom: 20px;
-	
-	
-}
-#main_menu, #program_menu {
-	margin: 0 auto;
-	height: 30px;
-	clear: both;
-	padding: 4px 20px 0 20px;
-}
-
-#info_menu {
-	/* Same as #menu */
-    margin: 0 auto;
-	height: 30px;
-	clear: both;
-	padding: 4px 20px 0 20px;	
-}
-#main_menu li {
-	display: inline;
-	list-style-type: none;
-	font-family: "Century Gothic", arial, sans-serif;
-	letter-spacing: 0.2em;
-	padding: 2px 5px;
-}
-#program_menu li {
-	/* Same as #menu li */
-	display: inline;
-	list-style-type: none;
-	font-family: "Century Gothic", arial, sans-serif;
-	letter-spacing: 0.2em;
-	padding: 2px 5px;
-}
-
-
-#news {
-	width: 49%;
-	float: left;
-}
-#program_additions {
-	width: 49%;
-	float: left;
-	border-left: 2px dotted #1e1e1e;	
-}
-
-
-#footer {
-	width: 100%; /* Same as innerwrapper width */
-	margin: 0 auto;
-	height: 80px;
-	float: left;
-	margin-right: 20px;
-	margin-bottom: 20px;
-	
-}
-
-#sitemap li {
-	list-style-type: none;
- 	letter-spacing: 0.1em;
-	padding: 2px 5px;
-}
-
 #header_menu li {
 	list-style-type: none;
 	letter-spacing: 0.1em;
@@ -135,6 +73,7 @@ ul.header_menu_items {
 	height: 90px;
 	float: left;
 }
+
 iframe {
 	width: 80%;
 	height: 60px;
@@ -142,34 +81,150 @@ iframe {
 	border: none;
 }
 
+#menu {
+	width: 100%;
+	padding: 10px 0 5px;
+	float: left;
+	margin-right: 20px;
+	margin-bottom: 20px;
+}
+
+#main_menu, #program_menu {
+	margin: 0 auto;
+	height: 30px;
+	clear: both;
+	padding: 4px 20px 0 20px;
+}
+
+#main_menu li {
+	display: inline;
+	list-style-type: none;
+	font-family: "Century Gothic", arial, sans-serif;
+	letter-spacing: 0.2em;
+	padding: 2px 5px;
+}
+
+#program_menu li {
+	/* Same as #main_menu li */
+	display: inline;
+	list-style-type: none;
+	font-family: "Century Gothic", arial, sans-serif;
+	letter-spacing: 0.2em;
+	padding: 2px 5px;
+}
+
+#content {
+	width: 100%;
+	margin:0 auto;
+	float: left;
+	margin-right: 20px;
+	margin-bottom: 20px;
+}
+
+#news {
+	width: 49%;
+	float: left;
+}
+
+#program_additions {
+	width: 49%;
+	float: left;
+	border-left: 2px dotted #1e1e1e;	
+}
+
+#sitemap li {
+	list-style-type: none;
+ 	letter-spacing: 0.1em;
+	padding: 2px 5px;
+}
+
 div.event_stub {
 	width: 20%;
 	padding: 12px;
 	float: left;
 }
-div.event_stub p{
-	padding: 2px;
-	font-size: 0.9em;
+
+#sidebar_menu li {
+	padding: 2px 2px;
+	list-style-type: none;
 }
 
-div.event_stub a:link {
-	color: #1e1e1e;
-	text-decoration: none;
-}
-div.event_stub a:visited {
-	color: #1e1e1e;
-	text-decoration: none;
-}
-div.event_stub a:hover {
-	color: #1e1e1e;
-	text-decoration: underline;
-}
-div.event_stub a:active {
-	color: #41342d;
-	text-decoration: none;
+#sidebar_menu {
+	float: left;
+	width:18%;
+	padding: 6px;
+	border-right: 2px dotted #1e1e1e;
 }
 
+#sidebar {
+	float: left;
+	width:18%;
+	padding:15px 10px 15px 15px;
+	border-right: 2px dotted #1e1e1e;
+}
 
+#inner_content {
+	float:left;
+	width: 75%;
+	padding:15px 10px 15px 15px;
+}
+
+#artist_text {
+	float:left;
+}
+
+div.image_copyright {
+	float:left;
+	width: 75%;
+	padding:15px 10px 15px 15px;
+}
+
+div.image {
+	margin:2px;
+	height:153px;
+	width:230px;
+	float:left;
+	text-align:center;
+}
+
+div.imagelarge {
+	margin:2px;
+	height:424px;
+	width:300px;
+	float:left;
+	text-align:center;
+}
+
+#poster_page {
+	margin-left: 5%;
+	width: 90%;
+	float: left;
+	padding: 12px;
+}
+
+div.image {
+	margin:2px;
+	height:153px;
+	width:230px;
+	float:left;
+	text-align:center;
+}
+div.imagelarge {
+	margin:2px;
+	height:424px;
+	width:300px;
+	float:left;
+	text-align:center;
+} 
+
+#footer {
+	width: 100%;
+	margin: 0 auto;
+	height: 80px;
+	float: left;
+	margin-right: 20px;
+	margin-bottom: 20px;
+}
 
 #copyright {
 	float:left;
@@ -183,73 +238,68 @@ div.event_stub a:active {
 }
 
 
-#content {
-	width: 100%;
-	margin:0 auto;
-	float: left;
-	margin-right: 20px;
-	margin-bottom: 20px;
-}
-#poster_page {
-	margin-left: 5%;
-	width: 90%;
-	float: left;
-	padding: 12px;
+/* TYPOGRAPHY */
+/*
+	This section contains:
+	* All fonts.
+	* Styling of <h*>-tags, <p>-tags and <ul>-tags.
+*/
+
+html, body {
+	font-family: "Helvetica Neue", helvetica, arial, sans-serif;
 }
 
-
-
-
-
-#sidebar_menu li {
-	padding: 2px 2px;
-	list-style-type: none;
+p {
+	letter-spacing: 0.05em;
+	padding: 12px 30px 6px 12px;
+	font-size: 0.9em;
 }
 
-#sidebar_menu {
-	float: left;
-	width:18%;
-	padding:15px 10px 15px 15px;
-	border-right: 2px dotted #1e1e1e;
+#validators p{
+	letter-spacing: 0.05em;
+	font-size: 0.5em;
+	float: right;
 }
 
-#sidebar {
-	float: left;
-	width:18%;
-	padding:15px 10px 15px 15px;
-	border-right: 2px dotted #1e1e1e;
+h1 {
+	font-family: "Century Gothic", arial, sans-serif;
+	font-size: 60px;
+	letter-spacing: 0.2em;
+}
+
+h2, h3, h4 {
+	font-family: Georgia;
+	letter-spacing: 0.05em;
+}
+
+h2 {
+	font-size: 2em;
+	padding: 12px 12px 6px 12px;
+}
+
+h3 {
+	font-size: 1.4em;
+	padding: 12px 12px 6px 12px;
+}
+
+h4 {
+	font-size: 1.2em;
+}
+
+#sidebar_menu h3 {
+	padding: 6px 6px 6px 0px;
 	
 }
-#inner_content {
-	float:left;
-	width: 75%;
-	padding:15px 10px 15px 15px;
-}
-#artist_text{
-	float:left;
+
+ul.sidebar_menu_items {
+	letter-spacing: 0.05em;
 }
 
-div.image_copyright{
-	float:left;
-	width: 75%;
-	padding:15px 10px 15px 15px;
+div.event_stub p {
+	padding: 2px;
+	font-size: 0.9em;
 }
 
-div.image{
-  margin:2px;
-  height:153px;
-  width:230px;
-  float:left;
-  text-align:center;
-}
-
-div.imagelarge{
-  margin:2px;
-  height:424px;
-  width:300px;
-  float:left;
-  text-align:center;
-}
 
 /* LINK STYLING */
 
@@ -269,13 +319,10 @@ a:active {
 h1.banner a:link {
 	color: #f5cd72;
 	text-decoration: none;
-	
-	
 }
 h1.banner a:visited {
 	color: #f5cd72;	
 	text-decoration: none;
-	
 }
 h1.banner a:hover {
 		color: #f5cd72;
@@ -286,6 +333,27 @@ h1.banner a:active {
 		text-decoration: none;
 }
 
+ul.header_menu_items a:link {
+	color: #1e1e1e;
+	text-decoration: none;
+	
+}
+ul.header_menu_items a:visited {
+	color: #1e1e1e;
+	text-decoration: none;
+	
+}
+ul.header_menu_items a:hover{
+	color: #1e1e1e;
+	text-decoration: underline;
+	
+}
+ul.header_menu_items a:active {
+	color: #1e1e1e;
+	text-decoration: none;
+	
+}
+
 h2 a:link {
 	color: #1e1e1e;
 	text-decoration: none;
@@ -293,18 +361,16 @@ h2 a:link {
 h2 a:visited {
 	color: #1e1e1e;
 	text-decoration: none;
-	
 }
 h2 a:hover {
 	color: #1e1e1e;
 	text-decoration: underline;
-	
 }
 h2 a:active {
 	color: #1e1e1e;
 	text-decoration: none;
-	
 }
+
 h3 a:link {
 	color: #1e1e1e;
 	text-decoration: none;
@@ -312,64 +378,48 @@ h3 a:link {
 h3 a:visited {
 	color: #1e1e1e;
 	text-decoration: none;
-	
 }
 h3 a:hover {
 	color: #1e1e1e;
 	text-decoration: underline;
-	
 }
 h3 a:active {
 	color: #1e1e1e;
 	text-decoration: none;
-	
 }
 
 p a:link {
 	color: #0A328D;
 	text-decoration: underline;
-	
 }
 p a:visited {
 	color: #333E5C;
 	text-decoration: underline;
-	
 }
 p a:hover {
 	color: #333E5C;
 	text-decoration: underline;
-	
-	
 }
 p a:active {
 	color: #1e1e1e;
 	text-decoration: none;
-	
 }
-
-
 
 a.static_link:link {
 	text-decoration: none;
 	color: #f5cd72;
-	
-	
 }
 a.static_link:visited {
 	text-decoration: none;
 	color: #f5cd72;
-	
-	
 }
 a.static_link:hover {
 	color: #f5cd72;
 	text-decoration: underline;
-	
 }
 a.static_link:active {
 	color: #f5cd72;
 	text-decoration: underline;
-	
 }
 
 li.button a:link {
@@ -379,11 +429,11 @@ li.button a:link {
 li.button a:visited {
 	color:white;
 }
-li.button a:hover{
+li.button a:hover {
 	color: #f5cd72;
 	text-decoration: none;
 }
-li.button a:active{
+li.button a:active {
 	color: #1e1e1e;
 	text-decoration: none;
 }
@@ -395,11 +445,11 @@ li.active a:link {
 li.active a:visited {
 	color:#f5cd72;
 }
-li.active a:hover{
+li.active a:hover {
 	color: #f5cd72;
 	text-decoration: none;
 }
-li.active a:active{
+li.active a:active {
 	color: #f5cd72;
 	text-decoration: none;
 }
@@ -412,7 +462,7 @@ li.sidebar_link a:visited {
 	text-decoration: none;
 	color: #1e1e1e;
 }
-li.sidebar_link a:hover{
+li.sidebar_link a:hover {
 	text-decoration: none;
 	color: #1e1e1e;
 }
@@ -431,7 +481,7 @@ li.active_sidebar_link a:visited {
 	color:#f5cd72;
 	background-color: #1e1e1e;
 }
-li.active_sidebar_link a:hover{
+li.active_sidebar_link a:hover {
 	text-decoration: none;
 	color:#f5cd72;
 	background-color: #1e1e1e;
@@ -442,65 +492,58 @@ li.active_sidebar_link a:active {
 	background-color: #1e1e1e;
 }
 
-
-li.sitemap_links a:link{
+li.sitemap_links a:link {
 	color: red;
 	text-decoration: none;
 }
-li.sitemap_links a:visited{
+li.sitemap_links a:visited {
 	color: red;
 	text-decoration: none;
 }
-li.sitemap_links a:hover{
+li.sitemap_links a:hover {
 	color:black;
 	text-decoration: underline;
 }
-li.sitemap_links a:active{
+li.sitemap_links a:active {
 	color: black;
 	text-decoration: underline;
 }
 
 
-/* TYPOGRAPHY */
+div.event_stub a:link {
+	color: #1e1e1e;
+	text-decoration: none;
+}
+div.event_stub a:visited {
+	color: #1e1e1e;
+	text-decoration: none;
+}
+div.event_stub a:hover {
+	color: #1e1e1e;
+	text-decoration: underline;
+}
+div.event_stub a:active {
+	color: #41342d;
+	text-decoration: none;
+}
 
-p {
-	letter-spacing: 0.05em;
-	padding: 12px 30px 6px 12px;
-	font-size: 0.9em;
-}
-#validators p{
-	letter-spacing: 0.05em;
-	font-size: 0.5em;
-	float: right;
-}
-
-h1 {
-	font-family: "Century Gothic", arial, sans-serif;
-	font-size: 60px;
-	letter-spacing: 0.2em;
-	
-	
-}
-h2 {
-	font-family: Georgia;
-	font-size: 2em;
-	letter-spacing: 0.05em;
-	padding: 12px 12px 6px 12px;
-}
-h3 {
-	font-family: Georgia;
-	letter-spacing: 0.05em;
-	font-size: 1.4em;
-	padding: 12px 12px 6px 12px;
-}
-h4 {
-	font-family: Georgia;
-	letter-spacing: 0.05em;
-	font-size: 1.2em;
-	
-}
 
 /*  COLORS */
+/*
+All colors here, except link colors. Go to section LINK STYLING for link colors.
+
+Colors in use (first main colors, then complementaries):
+
+Black:		#1e1e1e
+Brown:		#41342d
+Green:		#7f8d53
+Yellow:		#f5cd72
+Khaki:		#ccc1a3
+
+Blue:		#0A328D (c. from yellow)
+Dark blue: 	#333E5C (c. from khaki)
+
+*/
 
 body {
 	background-color: #f5cd72;
@@ -532,11 +575,9 @@ body {
 
 iframe {
 	background-color: #d8dfea;
-	
 }
 #face {
 	background-color: #d8dfea;
-	
 }
 
 #footer {
@@ -544,25 +585,10 @@ iframe {
 	color: #f5cd72;
 	border: 2px solid #1e1e1e;
 }
-div.image{
-  margin:2px;
-  height:153px;
-  width:230px;
-  float:left;
-  text-align:center;
-  }
-div.imagelarge{
-  margin:2px;
-  height:424px;
-  width:300px;
-  float:left;
-  text-align:center;
-  } 
 
-li.button{
+li.button {
 	background-color: #41342d;
 }
-li.active{
+li.active {
 	background-color: #1e1e1e;
 }
-
