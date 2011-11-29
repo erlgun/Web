@@ -6,7 +6,7 @@ include '../../inc/top.inc.php';
 include '../../inc/menu.inc.php';
 include '../../inc/galleri_menu.inc.php';
 ?>
-
+				
 					<div class="imagelarge">
 						<a target="_blank" href="../../images/gallery/plakat2011.jpg"><img src="../../images/gallery/plakat2011.jpg" alt="Konsertbilde" /></a>
 					</div>
