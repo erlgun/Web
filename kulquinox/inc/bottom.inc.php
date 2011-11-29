@@ -2,9 +2,39 @@
 			<div id="footer">
 				<div id="copyright_and_footer_links">
 					<div id="footer_links">	
+						<?php
+switch ($folder) {
+	case('0'):
+?>
 						<p>
-							<a href="">Sidekart</a> | <a href="">Kontakt Kulquinox</a>
+							<a href="./pages/sitemap.php">Sidekart</a> | <a href="./pages/kontakt.php">Kontakt Kulquinox</a>
 						</p>
+<?php
+	break;
+	case('1'):
+?>
+						<p>
+							<a href="./sitemap.php">Sidekart</a> | <a href="./kontakt.php">Kontakt Kulquinox</a>
+						</p>
+<?php
+	break;
+	case('2'):
+?>
+						<p>
+							<a href="./../sitemap.php">Sidekart</a> | <a href="./../kontakt.php">Kontakt Kulquinox</a>
+						</p>
+<?php
+	break;
+	case('3'):
+?>
+						<p>
+							<a href="./../../sitemap.php">Sidekart</a> | <a href="./../../kontakt.php">Kontakt Kulquinox</a>
+						</p>
+<?php
+	break;
+}
+?>
+
 					</div>
 					<div id="copyright">
 						<p>
