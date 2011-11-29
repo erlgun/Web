@@ -1,0 +1,11 @@
+COLORS:
+-------
+
+BLACK:	#1e1e1e
+BROWN:	#41342d
+GREEN:	#7f8d53
+YELLOW:	#f5cd72
+KHAKI:	#ccc1a3
+
+BLUE:	#0A328D
+D.BLUE: #333E5C
