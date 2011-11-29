@@ -4,6 +4,8 @@ $folder = '2';
 $artist = 'main';
 include '../../inc/top.inc.php';
 include '../../inc/menu.inc.php';
+include '../../inc/artist_menu.inc.php';
+
 ?>
 
 <div id="poster_page">
@@ -68,7 +70,7 @@ include '../../inc/menu.inc.php';
 	
 	</div>
 </div>
-
+</div><!-- END OF #inner_content -->
 <?php
 include '../../inc/bottom.inc.php';
 ?>

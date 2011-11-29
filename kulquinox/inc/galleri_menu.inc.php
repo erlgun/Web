@@ -1,6 +1,5 @@
 
 				<div id="sidebar_menu">
-					<h3>Bildegallerier</h3>
 					<ul class="sidebar_menu_items">
 <?php
 switch($gallery){
