@@ -26,7 +26,7 @@ include '../inc/menu.inc.php';
 							<a target="_blank" href="http://www.frelsesarmeen.no/"><img src="../images/sponsors/frelsesarmeen.jpg" alt="Konsertbilde" /></a>
 						</div>
 						<div class="image">
-							<a target="_blank" href="../images/sponsors/andenesgruppen.jpg"><img src="../images/sponsors/frelsesarmeen.jpg" alt="Konsertbilde" /></a>
+							<a target="_blank" href="../images/sponsors/andenesgruppen.jpg"><img src="../images/sponsors/andenesgruppen.jpg" alt="Konsertbilde" /></a>
 						</div>
 						<div class="image">
 							<a target="_blank" href="https://www.facebook.com/people/Euforik-Zoo/100001147272246"><img src="../images/sponsors/euforikzoo.jpg" alt="Konsertbilde" /></a>
