@@ -1,5 +1,5 @@
 <?php
-$current = 'Galleri';
+$current = 'Gallery';
 include '../inc/top.inc.php';
 include '../inc/menu.inc.php';
 ?>

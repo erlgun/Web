@@ -7,28 +7,28 @@ switch ($folder) {
 	case('0'):
 ?>
 						<p>
-							<a href="./pages/sitemap.php">Sidekart</a> | <a href="./pages/kontakt.php">Kontakt Kulquinox</a>
+							<a href="./pages/sitemap.php">Sitemap</a> | <a href="./pages/kontakt.php">Contact Kulquinox</a>
 						</p>
 <?php
 	break;
 	case('1'):
 ?>
 						<p>
-							<a href="./sitemap.php">Sidekart</a> | <a href="./kontakt.php">Kontakt Kulquinox</a>
+							<a href="./sitemap.php">Sitemap</a> | <a href="./kontakt.php">Contact Kulquinox</a>
 						</p>
 <?php
 	break;
 	case('2'):
 ?>
 						<p>
-							<a href="./../sitemap.php">Sidekart</a> | <a href="./../kontakt.php">Kontakt Kulquinox</a>
+							<a href="./../sitemap.php">Sitemap</a> | <a href="./../kontakt.php">Contact Kulquinox</a>
 						</p>
 <?php
 	break;
 	case('3'):
 ?>
 						<p>
-							<a href="./../../sitemap.php">Sidekart</a> | <a href="./../../kontakt.php">Kontakt Kulquinox</a>
+							<a href="./../../sitemap.php">Sitemap</a> | <a href="./../../kontakt.php">Contact Kulquinox</a>
 						</p>
 <?php
 	break;
@@ -44,7 +44,7 @@ switch ($folder) {
 				</div>
 				<div id="to_top">
 					<p>
-						<a href="#top">Til toppen av siden</a>
+						<a href="#top">Go to top</a>
 					</p>
 				</div>
 				<div id="validators">

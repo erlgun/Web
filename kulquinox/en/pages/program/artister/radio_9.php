@@ -1,5 +1,5 @@
 <?php
-$current = 'Artister';
+$current = 'Artists';
 $folder = '3';
 $artist = 'Radio 9';
 include '../../../inc/top.inc.php';

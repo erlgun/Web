@@ -2,32 +2,32 @@
 	<ul class="nyttig_infomenuitems">
 	<?php
 	switch ($current) {
-		case('Mat'):
+		case('Food'):
 	?>
-			<li class="active button"><a href="../nyttig_info/mat.php">Mat</a></li>
-			<li class="button"><a href="../nyttig_info/kart.php">Kart</a></li>
-			<li class="button"><a href="../nyttig_info/rullestol.php">Rullestol</a></li>
+			<li class="active button"><a href="../nyttig_info/mat.php">Food</a></li>
+			<li class="button"><a href="../nyttig_info/kart.php">Map</a></li>
+			<li class="button"><a href="../nyttig_info/rullestol.php">Wheelchair</a></li>
 	<?php
 		break;
-		case('Kart'):
+		case('Map'):
 	?>
-			<li class="button"><a href="../nyttig_info/mat.php">Mat</a></li>
-			<li class="active button"><a href="../nyttig_info/kart.php">Kart</a></li>
-			<li class="button"><a href="../nyttig_info/rullestol.php">Rullestol</a></li>
+			<li class="button"><a href="../nyttig_info/mat.php">Food</a></li>
+			<li class="active button"><a href="../nyttig_info/kart.php">Map</a></li>
+			<li class="button"><a href="../nyttig_info/rullestol.php">Wheelchair</a></li>
 	<?php
 		break;
-		case('Rullestol'):
+		case('Wheelchair'):
 	?>
-			<li class="button"><a href="../nyttig_info/mat.php">Mat</a></li>
-			<li class="button"><a href="../nyttig_info/kart.php">Kart</a></li>
-			<li class="active button"><a href="../nyttig_info/rullestol.php">Rullestol</a></li>
+			<li class="button"><a href="../nyttig_info/mat.php">Food</a></li>
+			<li class="button"><a href="../nyttig_info/kart.php">Map</a></li>
+			<li class="active button"><a href="../nyttig_info/rullestol.php">Wheelchair</a></li>
 			<?php
 		break;
 		default:
 	?>
-			<li class="button"><a href="./nyttig_info/mat.php">Mat</a></li>
-			<li class="button"><a href="./nyttig_info/kart.php">Kart</a></li>
-			<li class="button"><a href="./nyttig_info/rullestol.php">Rullestol</a></li>
+			<li class="button"><a href="./nyttig_info/mat.php">Food</a></li>
+			<li class="button"><a href="./nyttig_info/kart.php">Map</a></li>
+			<li class="button"><a href="./nyttig_info/rullestol.php">Wheelchair</a></li>
 	<?php
 		break;
 	}

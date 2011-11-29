@@ -2,58 +2,58 @@
 	<ul class="menuItems">
 		<?php
 		switch ($current) {
-			case('Artister'):
+			case('Artists'):
 		?>
-		<li class="active button"><a href="../program/artister">ARTISTER</a></li>
+		<li class="active button"><a href="../program/artister">ARTISTS</a></li>
 		<li class="button"><a href="../program/film">FILM</a></li>
-		<li class="button"><a href="../program/teater">TEATER</a></li>
-		<li class="button"><a href="../program/utstilling">UTSTILLING</a></li>
-		<li class="button"><a href="../program/tidsskjema">TIDSSKJEMA</a></li>
+		<li class="button"><a href="../program/teater">THEATER</a></li>
+		<li class="button"><a href="../program/utstilling">EXHIBITION</a></li>
+		<li class="button"><a href="../program/tidsskjema">SCHEDULE</a></li>
 		<?php
 			break;
 			case('Film'):
 		?>
-		<li class="button"><a href="../program/artister">ARTISTER</a></li>
+		<li class="button"><a href="../program/artister">ARTISTS</a></li>
 		<li class="active button"><a href="../program/film">FILM</a></li>
-		<li class="button"><a href="../program/teater">TEATER</a></li>
-		<li class="button"><a href="../program/utstilling">UTSTILLING</a></li>
-		<li class="button"><a href="../program/tidsskjema">TIDSSKJEMA</a></li>
+		<li class="button"><a href="../program/teater">THEATER</a></li>
+		<li class="button"><a href="../program/utstilling">EXHIBITION</a></li>
+		<li class="button"><a href="../program/tidsskjema">SCHEDULE</a></li>
 		<?php
 			break;
-			case('Teater'):
+			case('Theater'):
 		?>
-		<li class="button"><a href="../program/artister">ARTISTER</a></li>
+		<li class="button"><a href="../program/artister">ARTISTS</a></li>
 		<li class="button"><a href="../program/film">FILM</a></li>
-		<li class="active button"><a href="../program/teater">TEATER</a></li>
-		<li class="button"><a href="../program/utstilling">UTSTILLING</a></li>
-		<li class="button"><a href="../program/tidsskjema">TIDSSKJEMA</a></li>
+		<li class="active button"><a href="../program/teater">THEATER</a></li>
+		<li class="button"><a href="../program/utstilling">EXHIBITION</a></li>
+		<li class="button"><a href="../program/tidsskjema">SCHEDULE</a></li>
 		<?php
 			break;
-			case('Utstilling'):
+			case('Exhibition'):
 		?>
-		<li class="button"><a href="../program/artister">ARTISTER</a></li>
+		<li class="button"><a href="../program/artister">ARTISTS</a></li>
 		<li class="button"><a href="../program/film">FILM</a></li>
-		<li class="button"><a href="../program/teater">TEATER</a></li>
-		<li class="active button"><a href="../program/utstilling">UTSTILLING</a></li>
-		<li class="button"><a href="../program/tidsskjema">TIDSSKJEMA</a></li>
+		<li class="button"><a href="../program/teater">THEATER</a></li>
+		<li class="active button"><a href="../program/utstilling">EXHIBITION</a></li>
+		<li class="button"><a href="../program/tidsskjema">SCHEDULE</a></li>
 		<?php
 			break;
-			case('Tidsskjema'):
+			case('Schedule'):
 		?>
-		<li class="button"><a href="../program/artister">ARTISTER</a></li>
+		<li class="button"><a href="../program/artister">ARTISTS</a></li>
 		<li class="button"><a href="../program/film">FILM</a></li>
-		<li class="button"><a href="../program/teater">TEATER</a></li>
-		<li class="button"><a href="../program/utstilling">UTSTILLING</a></li>
-		<li class="active button"><a href="../program/tidsskjema">TIDSSKJEMA</a></li>
+		<li class="button"><a href="../program/teater">THEATER</a></li>
+		<li class="button"><a href="../program/utstilling">EXHIBITION</a></li>
+		<li class="active button"><a href="../program/tidsskjema">SCHEDULE</a></li>
 		<?php
 			break;
 			default:
 		?>
-		<li class="button"><a href="./program/artister">ARTISTER</a></li>
+		<li class="button"><a href="./program/artister">ARTISTS</a></li>
 		<li class="button"><a href="./program/film">FILM</a></li>
-		<li class="button"><a href="./program/teater">TEATER</a></li>
-		<li class="button"><a href="./program/utstilling">UTSTILLING</a></li>
-		<li class="button"><a href="./program/tidsskjema">TIDSSKJEMA</a></li>
+		<li class="button"><a href="./program/teater">THEATER</a></li>
+		<li class="button"><a href="./program/utstilling">EXHIBITION</a></li>
+		<li class="button"><a href="./program/tidsskjema">SCHEDULE</a></li>
 		<?php
 			break;
 		}

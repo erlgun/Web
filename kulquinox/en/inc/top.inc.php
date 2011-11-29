@@ -64,30 +64,30 @@ switch($folder) {
 switch ($folder) {
 	case('0'):
 ?>
-							<li><a href="./">Billetter</a></li>
-							<li><a href="./pages/sponsors.php">Samarbeidspartnere</a></li>
-							<li><a href="./../">Norsk</a></li>
+							<li><a href="./">Tickets</a></li>
+							<li><a href="./pages/sponsors.php">Sponsors</a></li>
+							<li><a href="./../">Norwegian</a></li>
 <?php
 	break;
 	case('1'):
 ?>
-							<li><a href="../">Billetter</a></li>
-							<li><a href="../pages/sponsors.php">Samarbeidspartnere</a></li>
-							<li><a href="../../">Norsk</a></li>
+							<li><a href="../">Tickets</a></li>
+							<li><a href="../pages/sponsors.php">Sponsors</a></li>
+							<li><a href="../../">Norwegian</a></li>
 <?php
 	break;
 	case('2'):
 ?>
-							<li><a href="../../">Billetter</a></li>
-							<li><a href="../../pages/sponsors.php">Samarbeidspartnere</a></li>
-							<li><a href="../../../">Norsk</a></li>
+							<li><a href="../../">Tickets</a></li>
+							<li><a href="../../pages/sponsors.php">Sponsors</a></li>
+							<li><a href="../../../">Norwegian</a></li>
 <?php
 	break;
 	case('3'):
 ?>
-							<li><a href="./../../">Billetter</a></li>
-							<li><a href="../../../pages/sponsors.php">Samarbeidspartnere</a></li>
-							<li><a href="../../../../">Norsk</a></li>
+							<li><a href="./../../">Tickets</a></li>
+							<li><a href="../../../pages/sponsors.php">Sponsors</a></li>
+							<li><a href="../../../../">Norwegian</a></li>
 <?php
 	break;
 }

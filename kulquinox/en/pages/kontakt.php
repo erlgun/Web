@@ -1,5 +1,5 @@
 <?php
-$current = 'Kontakt';
+$current = 'Contact';
 $folder = '1';
 include '../inc/top.inc.php';
 include '../inc/menu.inc.php';

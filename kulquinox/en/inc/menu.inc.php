@@ -3,10 +3,10 @@
 <?php
 // Add new underpages here
 switch ($current) {
-	case('Om Kulquinox'):
-	case('Nyttig informasjon'):
-	case('Kontakt'):
-	case('Sponsorer'):
+	case('About Kulquinox'):
+	case('Usefull info'):
+	case('Contact'):
+	case('Sponsors'):
 	case('Sitemap'):
 		include '../inc/main_menu.inc.php';
 	break;
@@ -14,7 +14,7 @@ switch ($current) {
 		include '../inc/main_menu.inc.php';
 		include '../inc/program_menu.inc.php';
 	break;
-	case('Artister'):
+	case('Artists'):
 		if ($folder == '3') {
 			include '../../../inc/main_menu.inc.php';
 			include '../../../inc/program_menu.inc.php';
@@ -23,7 +23,7 @@ switch ($current) {
 			include '../../inc/program_menu.inc.php';
 		}
 	break;
-	case('Galleri'):
+	case('Gallery'):
 		if ($folder =='2') {
 			include '../../inc/main_menu.inc.php';
 		} else {
@@ -31,13 +31,13 @@ switch ($current) {
 		}
 	break;
 	case('Film'):
-	case('Teater'):
-	case('Utstilling'):
-	case('Tidsskjema'):
+	case('Theater'):
+	case('Exhibition'):
+	case('Schedule'):
 		include '../../inc/main_menu.inc.php';
 		include '../../inc/program_menu.inc.php';
 	break;
-	case('Forsiden'):
+	case('Front page'):
 		include './inc/main_menu.inc.php';
 	break;
 }

@@ -1,5 +1,5 @@
 <?php
-$current = 'Forsiden';
+$current = 'Front page';
 $folder = '0';
 include './inc/top.inc.php';
 include './inc/menu.inc.php';

@@ -1,6 +1,6 @@
 
 				<div id="sidebar_menu">
-					<h3>Artister</h3>
+					<h3>Artists</h3>
 					<ul class="sidebar_menu_items">
 <?php
 switch($artist){
