@@ -1,5 +1,5 @@
 ﻿<?php
-$current = 'Galleri';
+$current = 'Gallery';
 $folder = '1';
 $gallery = 'main';
 include '../inc/top.inc.php';

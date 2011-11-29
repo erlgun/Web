@@ -1,5 +1,5 @@
 <?php
-$current = 'Tidsskjema';
+$current = 'Schedule';
 $folder = '2';
 include '../../inc/top.inc.php';
 include '../../inc/menu.inc.php';

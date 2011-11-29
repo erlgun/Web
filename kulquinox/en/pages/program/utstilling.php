@@ -1,5 +1,5 @@
 <?php
-$current = 'Utstilling';
+$current = 'Exhibition';
 $folder = '2';
 include '../../inc/top.inc.php';
 include '../../inc/menu.inc.php';

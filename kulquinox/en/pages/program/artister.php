@@ -1,5 +1,5 @@
 <?php
-$current = 'Artister';
+$current = 'Artists';
 include '../../inc/top.inc.php';
 include '../../inc/menu.inc.php';
 

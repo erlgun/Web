@@ -1,7 +1,7 @@
 <?php
-$current = 'Galleri';
+$current = 'Gallery';
 $folder = '2';
-$gallery = 'Vår 2010';
+$gallery = 'Spring 2010';
 include '../../inc/top.inc.php';
 include '../../inc/menu.inc.php';
 include '../../inc/galleri_menu.inc.php';

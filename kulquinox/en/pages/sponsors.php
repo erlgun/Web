@@ -1,5 +1,5 @@
 ﻿<?php
-$current = 'Sponsorer';
+$current = 'Sponsors';
 $folder = '1';
 
 include '../inc/top.inc.php';

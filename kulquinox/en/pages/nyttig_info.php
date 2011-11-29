@@ -1,5 +1,5 @@
 <?php
-$current = 'Nyttig informasjon';
+$current = 'Usefull info';
 include '../inc/top.inc.php';
 include '../inc/main_menu.inc.php';
 ?>
