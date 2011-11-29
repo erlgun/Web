@@ -30,6 +30,7 @@ switch($folder) {
 ?>
 	</head>
 	<body>
+		<a id="top"></a>
 		<div id="wrap">
 			<div id="header">
 				<div id="header_banner">

@@ -1,7 +1,7 @@
 
 				<div id="sidebar_menu">
 					<h3>Artister</h3>
-					<ul>
+					<ul class="sidebar_menu_items">
 <?php
 switch($artist){
 	case ('Assula'):

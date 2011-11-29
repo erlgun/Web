@@ -220,21 +220,37 @@ div.imagelarge {
 #footer {
 	width: 100%;
 	margin: 0 auto;
-	height: 80px;
 	float: left;
 	margin-right: 20px;
 	margin-bottom: 20px;
 }
 
+#copyright_and_footer_links {
+	float: left;
+	padding-left: 6px;
+	width: 25%;
+	border-right: 2px dotted #f5cd72;	
+}
+#footer_links {
+	padding-top: 6px;
+}
 #copyright {
 	float:left;
-	width: 30%;
-	padding-top: 40px;
+	padding-top: 8px;
+}
+#to_top {
+	float: left;
+	width: 48%;
+	padding-top: 44px;
 }
 #validators {
 	float:right;
-	width: 30%;
-	padding-top: 40px;
+	width: 25%;
+	padding-top: 50px;
+	padding-right: 6px;
+	border-left: 2px dotted #f5cd72;
+	
+
 }
 
 
@@ -255,10 +271,20 @@ p {
 	font-size: 0.9em;
 }
 
-#validators p{
-	letter-spacing: 0.05em;
-	font-size: 0.5em;
+#footer_links p {
+	padding: 6px;
+}
+#copyright p {
+	padding: 6px;
+}
+#validators p {
+	font-size: 0.55em;
 	float: right;
+	padding: 6px;
+}
+#to_top p {
+	text-align: center;
+	padding: 6px;
 }
 
 h1 {
@@ -405,23 +431,59 @@ p a:active {
 	text-decoration: none;
 }
 
-a.static_link:link {
+#validators a:link {
 	text-decoration: none;
 	color: #f5cd72;
 }
-a.static_link:visited {
+#validators a:visited {
 	text-decoration: none;
 	color: #f5cd72;
 }
-a.static_link:hover {
+#validators a:hover {
 	color: #f5cd72;
 	text-decoration: underline;
 }
-a.static_link:active {
+#validators a:active {
 	color: #f5cd72;
 	text-decoration: underline;
 }
 
+#footer_links a:link {
+	text-decoration: none;
+	color: #f5cd72;
+}
+#footer_links a:visited {
+	text-decoration: none;
+	color: #f5cd72;
+}
+#footer_links a:hover {
+	color: #f5cd72;
+	text-decoration: underline;
+}
+#footer_links a:active {
+	color: #f5cd72;
+	text-decoration: underline;
+}
+#to_top a:link {
+	color: #f5cd72;
+	text-decoration: none;
+	
+}
+#to_top a:visited {
+	color: #f5cd72;
+	text-decoration: none;
+	
+}
+#to_top a:hover {
+	color: #f5cd72;
+	text-decoration: underline;
+	
+}
+#to_top a:active {
+	color: #f5cd72;
+	text-decoration: underline;
+	
+}
 li.button a:link {
 	text-decoration: none;
 	color: white;
