@@ -2,59 +2,96 @@
 <html>
 	<head>
 		<title>Kulquinox - <?php echo $current; ?></title>
-		<meta http-equiv="content-type" content="text/html; charset=utf-8">			
-		<?php
-		# her velges riktig stilark med relativ url
-		switch ($current) {
-			case('Forsiden'):
-		?>		
+		<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<?php
+# THIS SECTION CHOOSES RELATIVE URL OF styles.css
+switch($folder) {
+	case('0'):
+?>
 		<link rel="stylesheet" type="text/css" href="./css/styles.css">
-		<?php
-			break;
-			case('Artister'):
-			case('Film'):
-			case('Teater'):
-			case('Utstilling'):
-			case('Tidsskjema'):
-		?>
-		<link rel="stylesheet" type="text/css" href="../../css/styles.css">
-		<?php
-			break;
-			default:
-		?>
+<?php
+	break;
+	case('1'):
+?>
 		<link rel="stylesheet" type="text/css" href="../css/styles.css">
-		<?php			
-			break;
-		}
-		?>
+<?php
+	break;
+	case('2'):
+?>
+		<link rel="stylesheet" type="text/css" href="../../css/styles.css">
+<?php			
+	break;
+	case('3'):
+?>
+		<link rel="stylesheet" type="text/css" href="../../../css/styles.css">		
+<?php
+	break;
+}
+?>
 	</head>
 	<body>
+		<a id="top"></a>
 		<div id="wrap">
 			<div id="header">
-				<h1 class="banner">
-					<?php
-					switch ($current) {
-						case('Forsiden'):
-					?>		
-					<a href="./index"><span></span>Kulquinox</a>
-					<?php
-						break;
-						case('Artister'):
-						case('Film'):
-						case('Teater'):
-						case('Utstilling'):
-						case('Tidsskjema'):
-					?>
-					<a href="../../index"><span></span>Kulquinox</a>
-					<?php
-						break;
-						default:
-					?>
-					<a href="../index"><span></span>Kulquinox</a>
-					<?php
-						break;
-					}
-					?>
-				</h1>
+				<div id="header_banner">
+					<h1 class="banner"><?php
+	# THIS SECTION CHOOSES RELATIVE URL OF index.php
+	switch ($folder) {
+		case('0'):
+	?><a href="./index.php">KULQUINOX</a><?php
+		break;
+		case('1'):
+	?><a href="../index.php">KULQUINOX</a><?php
+		break;
+		case('2'):
+	?><a href="../../index.php">KULQUINOX</a><?php
+		break;
+		case('3'):
+	?><a href="../../../index.php">KULQUINOX</a><?php
+		break;
+	}
+	?></h1>
+				</div>
+				
+				<div id="header_menu">
+					<div id="face">
+						<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.kulquinox.no">
+						</iframe>
+					</div>
+					
+					<ul class="header_menu_items">
+<?php
+switch ($folder) {
+	case('0'):
+?>
+							<li><a href="./">Billetter</a></li>
+							<li><a href="./pages/sponsors.php">Samarbeidspartnere</a></li>
+							<li><a href="./../">Norsk</a></li>
+<?php
+	break;
+	case('1'):
+?>
+							<li><a href="../">Billetter</a></li>
+							<li><a href="../pages/sponsors.php">Samarbeidspartnere</a></li>
+							<li><a href="../../">Norsk</a></li>
+<?php
+	break;
+	case('2'):
+?>
+							<li><a href="../../">Billetter</a></li>
+							<li><a href="../../pages/sponsors.php">Samarbeidspartnere</a></li>
+							<li><a href="../../../">Norsk</a></li>
+<?php
+	break;
+	case('3'):
+?>
+							<li><a href="./../../">Billetter</a></li>
+							<li><a href="../../../pages/sponsors.php">Samarbeidspartnere</a></li>
+							<li><a href="../../../../">Norsk</a></li>
+<?php
+	break;
+}
+?>
+					</ul>
+				</div>
 			</div> <!-- END OF #header -->
-			<div id="main">

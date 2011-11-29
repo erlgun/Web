@@ -66,28 +66,28 @@ switch ($folder) {
 ?>
 							<li><a href="./">Billetter</a></li>
 							<li><a href="./pages/sponsors.php">Samarbeidspartnere</a></li>
-							<li><a href="./">English</a></li>
+							<li><a href="./en">English</a></li>
 <?php
 	break;
 	case('1'):
 ?>
 							<li><a href="../">Billetter</a></li>
 							<li><a href="../pages/sponsors.php">Samarbeidspartnere</a></li>
-							<li><a href="../">English</a></li>
+							<li><a href="../en">English</a></li>
 <?php
 	break;
 	case('2'):
 ?>
 							<li><a href="../../">Billetter</a></li>
 							<li><a href="../../pages/sponsors.php">Samarbeidspartnere</a></li>
-							<li><a href="../../">English</a></li>
+							<li><a href="../../en">English</a></li>
 <?php
 	break;
 	case('3'):
 ?>
 							<li><a href="./../../">Billetter</a></li>
 							<li><a href="../../../pages/sponsors.php">Samarbeidspartnere</a></li>
-							<li><a href="../../../">English</a></li>
+							<li><a href="../../../en">English</a></li>
 <?php
 	break;
 }
