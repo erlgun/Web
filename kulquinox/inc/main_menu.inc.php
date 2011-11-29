@@ -84,7 +84,7 @@ switch ($current) {
 ?>
 						<li class="button"><a href="./pages/program_index.php">PÅ PLAKATEN</a></li>
 						<li class="button"><a href="./pages/om_kulquinox.php">OM KULQUINOX</a></li>
-						<li class="button"><a href="../pages/galleri/host_2011.php">GALLERI</a></li>
+						<li class="button"><a href="./pages/galleri/host_2011.php">GALLERI</a></li>
 						<li class="button"><a href="./pages/info_index.php">NYTTIG INFO</a></li>
 <?php
 	break;
