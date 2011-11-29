@@ -20,11 +20,11 @@ body {
 }
 
 #wrap {
-	width: 90%; 
+	width: 98%; 
 	margin: 0 auto;
 	float: left;
 	position: absolute;
-	left: 5%;
+	left: 1%;
 }
 
 #header {
