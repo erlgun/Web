@@ -1,5 +1,5 @@
 ﻿<?php
-$current = 'Sitemap';
+$current = 'Sponsorer';
 $folder = '1';
 
 include '../inc/top.inc.php';

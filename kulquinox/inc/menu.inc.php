@@ -6,6 +6,7 @@ switch ($current) {
 	case('Om Kulquinox'):
 	case('Nyttig informasjon'):
 	case('Kontakt'):
+	case('Sponsorer'):
 	case('Sitemap'):
 		include '../inc/main_menu.inc.php';
 	break;
