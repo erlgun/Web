@@ -40,9 +40,6 @@ h1.banner {
 	position: left;
 	padding-left: 25px;
 	padding-top: 50px;
-	font-family: "Century Gothic", arial, sans-serif;
-	font-size: 60px;
-	letter-spacing: 0.2em;
 	
 }
 
@@ -99,7 +96,7 @@ h1.banner {
 #program_additions {
 	width: 49%;
 	float: left;
-	border-left: 2px dashed #1e1e1e;	
+	border-left: 2px dotted #1e1e1e;	
 }
 
 
@@ -134,7 +131,7 @@ ul.header_menu_items {
 
 #face {
 	width: 100%;
-	border-bottom: 2px dashed #1e1e1e;
+	border-bottom: 2px dotted #1e1e1e;
 	height: 90px;
 	float: left;
 }
@@ -144,6 +141,35 @@ iframe {
 	padding: 15px 12px 15px 24px;
 	border: none;
 }
+
+div.event_stub {
+	width: 20%;
+	padding: 12px;
+	float: left;
+}
+div.event_stub p{
+	padding: 2px;
+	font-size: 0.9em;
+}
+
+div.event_stub a:link {
+	color: #1e1e1e;
+	text-decoration: none;
+}
+div.event_stub a:visited {
+	color: #1e1e1e;
+	text-decoration: none;
+}
+div.event_stub a:hover {
+	color: #1e1e1e;
+	text-decoration: underline;
+}
+div.event_stub a:active {
+	color: #41342d;
+	text-decoration: none;
+}
+
+
 
 #copyright {
 	float:left;
@@ -164,19 +190,15 @@ iframe {
 	margin-right: 20px;
 	margin-bottom: 20px;
 }
-
-
-p {
-	letter-spacing: 0.05em;
-	padding: 12px 30px 6px 12px;
-	font-size: 1em;
+#poster_page {
+	margin-left: 5%;
+	width: 90%;
+	float: left;
+	padding: 12px;
 }
 
-#validators p{
-	letter-spacing: 0.05em;
-	font-size: 0.5em;
-	float: right;
-}
+
+
 
 
 #sidebar_menu li {
@@ -188,14 +210,14 @@ p {
 	float: left;
 	width:18%;
 	padding:15px 10px 15px 15px;
-	border-right: 2px dashed #1e1e1e;
+	border-right: 2px dotted #1e1e1e;
 }
 
 #sidebar {
 	float: left;
 	width:18%;
 	padding:15px 10px 15px 15px;
-	border-right: 2px dashed #1e1e1e;
+	border-right: 2px dotted #1e1e1e;
 	
 }
 #inner_content {
@@ -243,6 +265,90 @@ a:hover {
 a:active {
 	
 }
+
+h1.banner a:link {
+	color: #f5cd72;
+	text-decoration: none;
+	
+	
+}
+h1.banner a:visited {
+	color: #f5cd72;	
+	text-decoration: none;
+	
+}
+h1.banner a:hover {
+		color: #f5cd72;
+		text-decoration: underline;
+}
+h1.banner a:active {
+		color: #f5cd72;
+		text-decoration: none;
+}
+
+h2 a:link {
+	color: #1e1e1e;
+	text-decoration: none;
+}
+h2 a:visited {
+	color: #1e1e1e;
+	text-decoration: none;
+	
+}
+h2 a:hover {
+	color: #1e1e1e;
+	text-decoration: underline;
+	
+}
+h2 a:active {
+	color: #1e1e1e;
+	text-decoration: none;
+	
+}
+h3 a:link {
+	color: #1e1e1e;
+	text-decoration: none;
+}
+h3 a:visited {
+	color: #1e1e1e;
+	text-decoration: none;
+	
+}
+h3 a:hover {
+	color: #1e1e1e;
+	text-decoration: underline;
+	
+}
+h3 a:active {
+	color: #1e1e1e;
+	text-decoration: none;
+	
+}
+
+p a:link {
+	color: #0A328D;
+	text-decoration: underline;
+	
+}
+p a:visited {
+	color: #333E5C;
+	text-decoration: underline;
+	
+}
+p a:hover {
+	color: #333E5C;
+	text-decoration: underline;
+	
+	
+}
+p a:active {
+	color: #1e1e1e;
+	text-decoration: none;
+	
+}
+
+
+
 a.static_link:link {
 	text-decoration: none;
 	color: #f5cd72;
@@ -355,6 +461,45 @@ li.sitemap_links a:active{
 }
 
 
+/* TYPOGRAPHY */
+
+p {
+	letter-spacing: 0.05em;
+	padding: 12px 30px 6px 12px;
+	font-size: 0.9em;
+}
+#validators p{
+	letter-spacing: 0.05em;
+	font-size: 0.5em;
+	float: right;
+}
+
+h1 {
+	font-family: "Century Gothic", arial, sans-serif;
+	font-size: 60px;
+	letter-spacing: 0.2em;
+	
+	
+}
+h2 {
+	font-family: Georgia;
+	font-size: 2em;
+	letter-spacing: 0.05em;
+	padding: 12px 12px 6px 12px;
+}
+h3 {
+	font-family: Georgia;
+	letter-spacing: 0.05em;
+	font-size: 1.4em;
+	padding: 12px 12px 6px 12px;
+}
+h4 {
+	font-family: Georgia;
+	letter-spacing: 0.05em;
+	font-size: 1.2em;
+	
+}
+
 /*  COLORS */
 
 body {
@@ -362,23 +507,23 @@ body {
 }
 
 #header {
-	border: 2px dashed #7f8d53;
+	border: 2px solid #1e1e1e;
 	background-color: #41342d;
 }
 #header_menu {
 	background-color: #7f8d53;
-	border-left: 2px dashed #00111c;
+	border-left: 2px dotted #00111c;
 }
 
 #menu {
 	background-color: #7f8d53;
-	border: 2px dashed #00111c;
+	border: 2px solid #1e1e1e;
 }
 
 #content {
 	background-color: #ccc1a3;
 	color: #1e1e1e;
-	border: 2px dashed #00111c;
+	border: 2px solid #1e1e1e;
 }
 
 #sidebar_menu {
@@ -397,7 +542,7 @@ iframe {
 #footer {
 	background-color: #41342d;
 	color: #f5cd72;
-	border: 2px dashed #7f8d53;
+	border: 2px solid #1e1e1e;
 }
 div.image{
   margin:2px;
@@ -421,22 +566,3 @@ li.active{
 	background-color: #1e1e1e;
 }
 
-h1.banner a:link {
-	color: #f5cd72;
-	text-decoration: none;
-	
-	
-}
-h1.banner a:visited {
-	color: #f5cd72;	
-	text-decoration: none;
-	
-}
-h1.banner a:hover {
-		color: #f5cd72;
-		text-decoration: underline;
-}
-h1.banner a:active {
-		color: #f5cd72;
-		text-decoration: none;
-}
