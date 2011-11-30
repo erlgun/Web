@@ -21,14 +21,14 @@ switch ($folder) {
 	case('2'):
 ?>
 						<p>
-							<a href="./../sitemap.php">Sidekart</a> | <a href="./../kontakt.php">Kontakt Kulquinox</a>
+							<a href="../sitemap.php">Sidekart</a> | <a href="../kontakt.php">Kontakt Kulquinox</a>
 						</p>
 <?php
 	break;
 	case('3'):
 ?>
 						<p>
-							<a href="./../../sitemap.php">Sidekart</a> | <a href="./../../kontakt.php">Kontakt Kulquinox</a>
+							<a href="../../sitemap.php">Sidekart</a> | <a href="../../kontakt.php">Kontakt Kulquinox</a>
 						</p>
 <?php
 	break;
