@@ -14,8 +14,28 @@ include '../inc/menu.inc.php';
 				</p>
 				<h3>Billetter</h3> <A name="Billetter"></a>
 				<p>
-					Billetter kjøpes på forhånd gjennom <a target="_blank" a href="https://www.baerumkulturhus.no">Bærumkulturhus</a>. Billettpriser: Ordinærpris 250, barn, studenter og honnør 100, barn under 10 år gratis. Budstikkakort og A-kort gir 25% rabatt
+					Billetter kjøpes på forhånd gjennom <a target="_blank" a href="https://www.baerumkulturhus.no">Bærumkulturhus</a>.
+				<table>
+						<th>
+						Billetpriser:	
+						</th>		
+						<tr>
+							<td>Ordinærpris:</td>
+							<td>250kr</td>
+						</tr>
+						<tr>
+							<td>Barn,studenter og honnør :</td>
+							<td>100kr</td>
+						</tr>
+						<tr>
+							<td>Barn under 10 år :</td>
+							<td>Gratis</td>
+						</tr>						
+				</table>	
+				Budstikkakort og A-kort gir 25% rabatt
 				</p>
+
+
 				<h3>Grasrotandelen</h3>
 				<p>
 					Vil du gi din støtte til Cosmic Wind Cultural Collaborations(CWCC, org.nr. 991 534 474)?
