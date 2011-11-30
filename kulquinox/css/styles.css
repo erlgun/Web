@@ -72,14 +72,6 @@ ul.header_menu_list {
 	padding-top: 30px;
 	padding-right: 10px;
 }
-li.facebook {
-	background-color: #3b5998;
-	padding: 3px;
-}
-li.twitter {
-	background-color: #0084B4;
-	padding: 3px;
-}
 li.header_menu_items {
 	padding: 3px;
 }
@@ -440,6 +432,26 @@ li.twitter a:active {
 	text-decoration: underline;
 	
 }
+li.tickets a:link {
+	color: #1e1e1e;
+	text-decoration: none;
+	
+}
+li.tickets a:visited {
+	color: #1e1e1e;
+	text-decoration: none;
+	
+}
+li.tickets a:hover {
+	color: #1e1e1e;
+	text-decoration: underline;
+	
+}
+li.tickets a:active {
+	color: #1e1e1e;
+	text-decoration: underline;
+	
+}
 
 h2 a:link {
 	color: #1e1e1e;
@@ -680,6 +692,20 @@ body {
 	background-color: #7f8d53;
 	border-left: 2px dotted #00111c;
 }
+
+li.facebook {
+	background-color: #3b5998;
+	padding: 3px;
+}
+li.twitter {
+	background-color: #0084B4;
+	padding: 3px;
+}
+li.tickets {
+	background-color: #ccc1a3;
+	padding: 3px;
+}
+
 #header_banner ul {
 	color:#f5cd72;
 }
