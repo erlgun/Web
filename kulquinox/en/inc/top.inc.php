@@ -8,26 +8,26 @@
 switch($folder) {
 	case('0'):
 ?>
-		<link rel="stylesheet" type="text/css" href="./css/styles.css">
-		<link type="image/x-icon" href="./images/topicon.gif" rel="shortcut icon">
-<?php
-	break;
-	case('1'):
-?>
 		<link rel="stylesheet" type="text/css" href="../css/styles.css">
 		<link type="image/x-icon" href="../images/topicon.gif" rel="shortcut icon">
 <?php
 	break;
-	case('2'):
+	case('1'):
 ?>
 		<link rel="stylesheet" type="text/css" href="../../css/styles.css">
 		<link type="image/x-icon" href="../../images/topicon.gif" rel="shortcut icon">
+<?php
+	break;
+	case('2'):
+?>
+		<link rel="stylesheet" type="text/css" href="../../../css/styles.css">
+		<link type="image/x-icon" href="../../../images/topicon.gif" rel="shortcut icon">
 <?php			
 	break;
 	case('3'):
 ?>
-		<link rel="stylesheet" type="text/css" href="../../../css/styles.css">		
-		<link type="image/x-icon" href="../../../images/topicon.gif" rel="shortcut icon">
+		<link rel="stylesheet" type="text/css" href="../../../../css/styles.css">		
+		<link type="image/x-icon" href="../../../../images/topicon.gif" rel="shortcut icon">
 <?php
 	break;
 }
@@ -71,28 +71,28 @@ switch ($folder) {
 ?>
 							<li class="tickets"><a href="./pages/info_index.php#billetter">Tickets</a></li>
 							<li class="header_menu_items"><a href="./pages/sponsors.php">Sponsors</a></li>
-							<li class="header_menu_items"><a href="./en">Norsk</a></li>
+							<li class="header_menu_items"><a href="../">Norsk</a></li>
 <?php
 	break;
 	case('1'):
 ?>
 							<li class="tickets"><a href="../pages/info_index.php#billetter">Tickets</a></li>
 							<li class="header_menu_items"><a href="../pages/sponsors.php">Sponsors</a></li>
-							<li class="header_menu_items"><a href="../en">Norsk</a></li>
+							<li class="header_menu_items"><a href="../../">Norsk</a></li>
 <?php
 	break;
 	case('2'):
 ?>
 							<li class="tickets"><a href="../../pages/info_index.php#billetter">Tickets</a></li>
 							<li class="header_menu_items"><a href="../../pages/sponsors.php">Sponsors</a></li>
-							<li class="header_menu_items"><a href="../../en">Norsk</a></li>
+							<li class="header_menu_items"><a href="../../../">Norsk</a></li>
 <?php
 	break;
 	case('3'):
 ?>
 							<li class="tickets"><a href="../../../pages/info_index.php#billetter">Tickets</a></li>
 							<li class="header_menu_items"><a href="../../../pages/sponsors.php">Sponsors</a></li>
-							<li class="header_menu_items"><a href="../../../en">Norsk</a></li>
+							<li class="header_menu_items"><a href="../../../../">Norsk</a></li>
 <?php
 	break;
 }

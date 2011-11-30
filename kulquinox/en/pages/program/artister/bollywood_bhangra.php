@@ -8,7 +8,7 @@ include '../../../inc/artist_menu.inc.php';
 ?>
 
                     	<div id="artist_text">
-							<img src="../../../images/artists/bollywood_bhangra.jpg" alt="Bilde av Bollywod Bhangra" height="200px" />
+							<img src="../../../../images/artists/bollywood_bhangra.jpg" alt="Bilde av Bollywod Bhangra" height="200px" />
 							<p>
 								Bollywood Bhangra er et band/dansegruppe fra India.
 								Bollywood Bhangra har modernisert og rocka opp folkedansen Bhangra.

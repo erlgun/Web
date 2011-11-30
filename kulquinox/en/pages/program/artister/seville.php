@@ -8,7 +8,7 @@ include '../../../inc/artist_menu.inc.php';
 ?>
 
 						<div id="artist_text">
-							<img src="../../../images/artists/seville.jpg" alt="Bilde av artisten Seville" height="200px" />
+							<img src="../../../../images/artists/seville.jpg" alt="Bilde av artisten Seville" height="200px" />
 							<p>
 						          Seville byr på det alle beste fra 70-tallet.
 						          Seville tar opp tråden fra band som Pink floyd, led Zeppelin og norske Ruphus.

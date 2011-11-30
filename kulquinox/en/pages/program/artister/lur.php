@@ -8,7 +8,7 @@ include '../../../inc/artist_menu.inc.php';
 ?>
 
                     <div id="artist_text">
-						<img src="../../../images/artists/lur.jpg" alt="Bilde av artisten Lur" height="200px" />
+						<img src="../../../../images/artists/lur.jpg" alt="Bilde av artisten Lur" height="200px" />
 						<p>
 							Lür er et svenskt bad som blei dannet i 2006.
 							Lür ønsker ikke bare å gi publikum en musikalsk opplevelse, men også vise de kunst, iretuelle elementer, som animasjoner sammen med et spennende sceneshow.

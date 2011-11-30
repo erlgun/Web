@@ -8,7 +8,7 @@ include '../../../inc/artist_menu.inc.php';
 ?>
 
 					<div id="artist_text">
-						<img src="../../../images/artists/kong_sverre.jpg" alt="Bilde av artisten Kong Sverre" height="200px" />
+						<img src="../../../../images/artists/kong_sverre.jpg" alt="Bilde av artisten Kong Sverre" height="200px" />
 						<p>
 							Kong Sverre aka Sverre Thorstensen begynte sitt virke som sangskaper for alvor i 15-års alderen.
 						</p>
