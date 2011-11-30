@@ -10,63 +10,68 @@ include '../../inc/artist_menu.inc.php';
 
 <div id="poster_page">
 	<div class="event_stub">
-		<h4>Assula</h4>
-		<p><a href="./artister/assula.php">Assula er en rå fyr som spiller skikkelig musikk! Fuckings yeah!</a></p>
+		<h4><a href="./artister/assula.php">Assula</h4>
+		<p><a href="./artister/assula.php">Assula blander det beste av 2 verdener.</a></p>
 	</div>
 
 	<div class="event_stub">
-		<h4>Assula</h4>
-		<p><a href="./artister/assula.php">Assula er en rå fyr som spiller skikkelig musikk! Fuckings yeah!</a></p>
+		<h4><a href="./artister/astro-gastro-jam.php">Astro Gastro Jam</h4>
+		<p><a href="./artister/astro-gastro-jam.php">Dette blir en jam helt utenom det vanlige!</a></p>
 	
 	</div>
 	<div class="event_stub">
-		<h4>Assula</h4>
-		<p><a href="./artister/assula.php">Assula er en rå fyr som spiller skikkelig musikk! Fuckings yeah!</a></p>
+		<h4><a href="./artister/bollywood_bhangra.php">Bollywood Bhangra</h4>
+		<p><a href="./artister/bollywood_bhangra.php">bollywood bhangra kombinerer musikk og dans.</a></p>
 	
 	</div>
 	<div class="event_stub">
-		<h4>Assula</h4>
-		<p><a href="./artister/assula.php">Assula er en rå fyr som spiller skikkelig musikk! Fuckings yeah!</a></p>
+		<h4><a href="./artister/dj_ivaylo.php">Dj Ivaylo</h4>
+		<p><a href="./artister/dj_ivaylo.php">Klassisk hip pop på sitt beste.</a></p>
 	
 	</div>
 	<div class="event_stub">
-		<h4>Assula</h4>
-		<p><a href="./artister/assula.php">Assula er en rå fyr som spiller skikkelig musikk! Fuckings yeah!</a></p>
+		<h4><a href="./artister/haraldur.php">Haraldur</h4>
+		<p><a href="./artister/haraldur.php">Haraldur blander rock og klassisk på en fantastisk måte.</a></p>
 	
 	</div>
 	<div class="event_stub">
-		<h4>Assula</h4>
-		<p><a href="./artister/assula.php">Assula er en rå fyr som spiller skikkelig musikk! Fuckings yeah!</a></p>
+		<h4><a href="./artister/jon_schau.php">Jon Schau</h4>
+		<p><a href="./artister/jon_schau.php">Norsk stand up-komiker.</a></p>
 	
 	</div>
 	<div class="event_stub">
-		<h4>Assula</h4>
-		<p><a href="./artister/assula.php">Assula er en rå fyr som spiller skikkelig musikk! Fuckings yeah!</a></p>
+		<h4><a href="./artister/khanstrings.php">Khanstrings</h4>
+		<p><a href="./artister/khanstrings.php">Blander norsk og indisk musikk på en spennende måte.</a></p>
 	
 	</div>
 	<div class="event_stub">
-		<h4>Assula</h4>
-		<p><a href="./artister/assula.php">Assula er en rå fyr som spiller skikkelig musikk! Fuckings yeah!</a></p>
+		<h4><a href="./artister/kong_sverre.php">Kong Sverre</h4>
+		<p><a href="./artister/kong_sverre.php">Kongen er tilbake i en ny og spennende versjon.</a></p>
 	
 	</div>
 	<div class="event_stub">
-		<h4>Assula</h4>
-		<p><a href="./artister/assula.php">Assula er en rå fyr som spiller skikkelig musikk! Fuckings yeah!</a></p>
+		<h4><a href="./artister/lur.php">Lür</h4>
+		<p><a href="./artister/lur.php">Svensk band som byr på mer enn bare musikk.</a></p>
 	
 	</div>
 	<div class="event_stub">
-		<h4>Assula</h4>
-		<p><a href="./artister/assula.php">Assula er en rå fyr som spiller skikkelig musikk! Fuckings yeah!</a></p>
+		<h4><a href="./artister/radio_9.php">Radio 9</h4>
+		<p><a href="./artister/radio_9.php">Radio 9 blander rock og electronica.</a></p>
 	
 	</div>
 	<div class="event_stub">
-		<h4>Assula</h4>
-		<p><a href="./artister/assula.php">Assula er en rå fyr som spiller skikkelig musikk! Fuckings yeah!</a></p>
+		<h4><a href="./artister/run_dog_run.php">Run Dog Run</h4>
+		<p><a href="./artister/run_dog_run.php">Run Dog Run norsk rock på sitt aller beste.</a></p>
 	
 	</div>
 	<div class="event_stub">
-		<h4>Assula</h4>
-		<p><a href="./artister/assula.php">Assula er en rå fyr som spiller skikkelig musikk! Fuckings yeah!</a></p>
+		<h4><a href="./artister/seville.php">Seville</h4>
+		<p><a href="./artister/seville.php">Byr på det aller beste fra 70`tallet.</a></p>
+	
+	</div>
+	<div class="event_stub">
+		<h4><a href="./artister/tuva_tariw.php">Tuva & Tariq</h4>
+		<p><a href="./artister/tuva_tariw.php">Kjent fra Valkyrian Allstars. </a></p>
 	
 	</div>
 </div>

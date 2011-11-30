@@ -150,8 +150,8 @@ iframe {
 }
 
 div.event_stub {
-	width: 20%;
-	padding: 12px;
+	width: 40%;   /*20 %*/
+	padding: 12px;  /* 12px*/
 	float: left;
 }
 
