@@ -2,32 +2,32 @@
 	<ul class="nyttig_infomenuitems">
 	<?php
 	switch ($current) {
-		case('Food'):
+		case('Mat'):
 	?>
-			<li class="active button"><a href="../nyttig_info/mat.php">Food</a></li>
-			<li class="button"><a href="../nyttig_info/kart.php">Map</a></li>
-			<li class="button"><a href="../nyttig_info/rullestol.php">Wheelchair</a></li>
+			<li class="active button"><a href="../nyttig_info/mat.php">Mat</a></li>
+			<li class="button"><a href="../nyttig_info/kart.php">Kart</a></li>
+			<li class="button"><a href="../nyttig_info/rullestol.php">Rullestol</a></li>
 	<?php
 		break;
-		case('Map'):
+		case('Kart'):
 	?>
-			<li class="button"><a href="../nyttig_info/mat.php">Food</a></li>
-			<li class="active button"><a href="../nyttig_info/kart.php">Map</a></li>
-			<li class="button"><a href="../nyttig_info/rullestol.php">Wheelchair</a></li>
+			<li class="button"><a href="../nyttig_info/mat.php">Mat</a></li>
+			<li class="active button"><a href="../nyttig_info/kart.php">Kart</a></li>
+			<li class="button"><a href="../nyttig_info/rullestol.php">Rullestol</a></li>
 	<?php
 		break;
-		case('Wheelchair'):
+		case('Rullestol'):
 	?>
-			<li class="button"><a href="../nyttig_info/mat.php">Food</a></li>
-			<li class="button"><a href="../nyttig_info/kart.php">Map</a></li>
-			<li class="active button"><a href="../nyttig_info/rullestol.php">Wheelchair</a></li>
+			<li class="button"><a href="../nyttig_info/mat.php">Mat</a></li>
+			<li class="button"><a href="../nyttig_info/kart.php">Kart</a></li>
+			<li class="active button"><a href="../nyttig_info/rullestol.php">Rullestol</a></li>
 			<?php
 		break;
 		default:
 	?>
-			<li class="button"><a href="./nyttig_info/mat.php">Food</a></li>
-			<li class="button"><a href="./nyttig_info/kart.php">Map</a></li>
-			<li class="button"><a href="./nyttig_info/rullestol.php">Wheelchair</a></li>
+			<li class="button"><a href="./nyttig_info/mat.php">Mat</a></li>
+			<li class="button"><a href="./nyttig_info/kart.php">Kart</a></li>
+			<li class="button"><a href="./nyttig_info/rullestol.php">Rullestol</a></li>
 	<?php
 		break;
 	}

@@ -1,5 +1,5 @@
 
-				<div id="program_menu">
+				<div id="under_menu">
 					<ul class="menu_items">
 <?php
 switch ($current) {

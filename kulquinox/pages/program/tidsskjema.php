@@ -1,10 +1,10 @@
 <?php
-$current = 'Schedule';
+$current = 'Tidsskjema';
 $folder = '2';
 include '../../inc/top.inc.php';
 include '../../inc/menu.inc.php';
 ?>
-<h2>Schedule</h2>
+<h2>Programmet</h2>
 <h3>23 Mars</h3>
 		<table class = "schedule">
 				

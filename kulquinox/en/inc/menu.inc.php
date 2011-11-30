@@ -4,13 +4,13 @@
 // Add new underpages here
 switch ($current) {
 	case('About Kulquinox'):
-	case('Usefull info'):
+	case('Information'):
 	case('Contact'):
 	case('Sponsors'):
 	case('Sitemap'):
 		include '../inc/main_menu.inc.php';
 	break;
-	case('Program'):
+	case('Events'):
 		include '../inc/main_menu.inc.php';
 		include '../inc/program_menu.inc.php';
 	break;
@@ -37,7 +37,7 @@ switch ($current) {
 		include '../../inc/main_menu.inc.php';
 		include '../../inc/program_menu.inc.php';
 	break;
-	case('Front page'):
+	case('Front Page'):
 		include './inc/main_menu.inc.php';
 	break;
 }

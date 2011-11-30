@@ -8,7 +8,7 @@ switch ($current) {
 		<li class="button"><a href="../program/film.php">FILM</a></li>
 		<li class="button"><a href="../program/teater.php">THEATER</a></li>
 		<li class="button"><a href="../program/utstilling.php">EXHIBITION</a></li>
-		<li class="button"><a href="../program/tidsskjema.php">SCHEDULE</a></li>
+		<li class="button"><a href="../program/tidsskjema.php">TIDSSKJEMA</a></li>
 <?php
 	break;
 	case('Film'):
@@ -17,7 +17,7 @@ switch ($current) {
 		<li class="active button"><a href="../program/film.php">FILM</a></li>
 		<li class="button"><a href="../program/teater.php">THEATER</a></li>
 		<li class="button"><a href="../program/utstilling.php">EXHIBITION</a></li>
-		<li class="button"><a href="../program/tidsskjema.php">SCHEDULE</a></li>
+		<li class="button"><a href="../program/tidsskjema.php">TIDSSKJEMA</a></li>
 <?php
 	break;
 	case('Theater'):
@@ -26,7 +26,7 @@ switch ($current) {
 		<li class="button"><a href="../program/film.php">FILM</a></li>
 		<li class="active button"><a href="../program/teater.php">THEATER</a></li>
 		<li class="button"><a href="../program/utstilling.php">EXHIBITION</a></li>
-		<li class="button"><a href="../program/tidsskjema.php">SCHEDULE</a></li>
+		<li class="button"><a href="../program/tidsskjema.php">TIDSSKJEMA</a></li>
 <?php
 	break;
 	case('Exhibition'):
@@ -35,7 +35,7 @@ switch ($current) {
 		<li class="button"><a href="../program/film.php">FILM</a></li>
 		<li class="button"><a href="../program/teater.php">THEATER</a></li>
 		<li class="active button"><a href="../program/utstilling.php">EXHIBITION</a></li>
-		<li class="button"><a href="../program/tidsskjema.php">SCHEDULE</a></li>
+		<li class="button"><a href="../program/tidsskjema.php">TIDSSKJEMA</a></li>
 <?php
 	break;
 	case('Schedule'):
@@ -44,7 +44,7 @@ switch ($current) {
 		<li class="button"><a href="../program/film.php">FILM</a></li>
 		<li class="button"><a href="../program/teater.php">THEATER</a></li>
 		<li class="button"><a href="../program/utstilling.php">EXHIBITION</a></li>
-		<li class="active button"><a href="../program/tidsskjema.php">SCHEDULE</a></li>
+		<li class="active button"><a href="../program/tidsskjema.php">TIDSSKJEMA</a></li>
 <?php
 	break;
 	default:
@@ -53,7 +53,7 @@ switch ($current) {
 		<li class="button"><a href="./program/film.php">FILM</a></li>
 		<li class="button"><a href="./program/teater.php">THEATER</a></li>
 		<li class="button"><a href="./program/utstilling.php">EXHIBITION</a></li>
-		<li class="button"><a href="./program/tidsskjema.php">SCHEDULE</a></li>
+		<li class="button"><a href="./program/tidsskjema.php">TIDSSKJEMA</a></li>
 <?php
 	break;
 }

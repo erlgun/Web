@@ -311,7 +311,8 @@ include '../inc/sidebar.inc.php';
 	<li>Erlend Gunnesen</li>
 </ul>
 <p>
-	referat her
+	Fortsatte å jobbe med finpuss på siden og gjøre endringer basert på inspill. Martin jobbet også fortsatt med sluttrapporten og vi ga han inspill til endringer. 
+	Dette møtet var mer workshop enn møtevirksomhet da vi jobbet stort sett hele møtet med ett par små diskusjoner underveis om vi skulle ignorere eller gjøre noe med innspillene vi har fått fra brukerne.
 </p>
 
 <h2>Møtereferat 01/12/11 </h2>

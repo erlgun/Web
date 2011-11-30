@@ -1,6 +1,5 @@
 
 				<div id="sidebar_menu">
-					<h3>Artists</h3>
 					<ul class="sidebar_menu_items">
 <?php
 switch($artist){
@@ -227,7 +226,7 @@ switch($artist){
 						<li class="active_sidebar_link"><a href="../../program/artister/tuva_tariq.php">Tuva &amp; Tariq</a></li>
 <?php
 	break;
-	case ('Program'):
+	case ('Events'):
 ?>
 						<li class="sidebar_link"><a href="program/artister/assula.php">Assula</a></li>
 						<li class="sidebar_link"><a href="program/artister/astro-gastro-jam.php">Astro-Gastro-JAM</a></li>
@@ -260,33 +259,9 @@ switch($artist){
 						<li class="sidebar_link"><a href="../program/artister/seville.php">Seville</a></li>
 						<li class="sidebar_link"><a href="../program/artister/tuva_tariq.php">Tuva &amp; Tariq</a></li>
 <?php
+	break;
 }
-switch ($artist) {
-	case ('Assula'):
-	case ('Astro-Gastro-JAM'):
-	case ('Bollywood Bhangra'):
-	case ('DJ Ivaylo'):
-	case ('Haraldur'):
-	case ('Jon Schau'):
-	case ('Khanstrings'):
-	case ('Kong Sverre'):
-	case ('Lür'):
-	case ('Radio 9');
-	case ('Run Dog Run'):
-	case ('Seville'):
-	case ('Tuva & Tariq'):
 ?>
-
 					</ul>
 				</div>
 				<div id="inner_content">
-<?php
-	break;
-	default:
-?>
-					</ul>
-				</div>
-<?php
-	break;
-}
-?>

@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 $current = 'Sitemap';
 $folder = '1';
 include '../inc/top.inc.php';
@@ -18,7 +18,7 @@ include '../inc/menu.inc.php';
 						</ul>
 						<li class="sitemap_links"><a href="om_kulquinox.php">About Kulquinox</a></li>
 						<li class="sitemap_links"><a href="galleri/host_2011.php">Gallery</a></li>
-						<li class="sitemap_links"><a href="info_index.php">Usefull info</a></li>
+						<li class="sitemap_links"><a href="info_index.php">Information</a></li>
 						<li class="sitemap_links"><a href="kontakt.php">Contact</a></li>
 						<li class="sitemap_links"><a href="sitemap.php">Sitemap</a></li>
 				 	</ul>

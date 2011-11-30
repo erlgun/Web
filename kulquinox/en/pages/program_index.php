@@ -1,6 +1,6 @@
 <?php
-$current = 'Program';
-$artist = 'Program';
+$current = 'Events';
+$artist = 'Events';
 $folder = '1';
 include '../inc/top.inc.php';
 include '../inc/menu.inc.php';

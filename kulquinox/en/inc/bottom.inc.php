@@ -21,14 +21,14 @@ switch ($folder) {
 	case('2'):
 ?>
 						<p>
-							<a href="./../sitemap.php">Sitemap</a> | <a href="./../kontakt.php">Contact Kulquinox</a>
+							<a href="../sitemap.php">Sitemap</a> | <a href="../kontakt.php">Contact Kulquinox</a>
 						</p>
 <?php
 	break;
 	case('3'):
 ?>
 						<p>
-							<a href="./../../sitemap.php">Sitemap</a> | <a href="./../../kontakt.php">Contact Kulquinox</a>
+							<a href="../../sitemap.php">Sitemap</a> | <a href="../../kontakt.php">Contact Kulquinox</a>
 						</p>
 <?php
 	break;
@@ -44,13 +44,13 @@ switch ($folder) {
 				</div>
 				<div id="to_top">
 					<p>
-						<a href="#top">Go to top</a>
+						<a href="#top">To the top</a>
 					</p>
 				</div>
 				<div id="validators">
 					<p>
-						<a href="http://validator.w3.org/check?uri=referer">Valider HTML5 med W3C</a> | 
-						<a href="http://jigsaw.w3.org/css-validator/check/referer">Valider CSS med W3C</a>
+						<a href="http://validator.w3.org/check?uri=referer">Validate site in HTML5 with W3C</a> | 
+						<a href="http://jigsaw.w3.org/css-validator/check/referer">Validate site in CSS with W3C</a>
 					</p>
 				</div>
 			</div> <!-- END OF #footer -->
