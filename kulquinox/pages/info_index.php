@@ -21,7 +21,7 @@ include '../inc/menu.inc.php';
 				</p>
 				<table>
 						<tr>
-						<th>Billetpriser:</th> <th> test</th>		
+						<th>Billetpriser:</th> <th> tester</th>		
 						</tr>
 						
 						<tr>
