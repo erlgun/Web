@@ -277,6 +277,54 @@ include '../inc/sidebar.inc.php';
 	Bestemt oss for hva folk skal jobbe med i helga og til uka når vi ferdigstiller prosjektet. Erlend skal gjøre ferdig galleriet, fylle inn sine poster i midtrapporten og oppdatere møtereferatene. Mathias skal fortsette å fylle innhold på siden
 	og drive med linkback sammen med Martin. 
 </p>
+
+<h2>Møtereferat 28/11/11 </h2>
+<h3>Oppmøte:</h3>
+<ul>
+	<li>Mathias Santiago Groven</li>
+	<li>Nicolai Grøndahl</li>
+	<li>Erlend Gunnesen</li>
+</ul>
+<p>
+	Møtet ble litt forsinket fordi Nicolai sitt prototype-møte gikk litt på overtid. Vi fikk også melding fra Mathias om at han ikke kunne komme pga sykdom.
+	Møtet gikk stort sett med på å planlegge videre arbeid ut uka. 
+</p>
+<h2>Møtereferat 29/11/11 </h2>
+<h3>Oppmøte:</h3>
+<ul>
+	<li>Mathias Santiago Groven</li>
+	<li>Martin Johan Grini</li>
+	<li>Nicolai Grøndahl</li>
+	<li>Erlend Gunnesen</li>
+</ul>
+<p>
+	Hadde møte på nytt møterom i P46. Vi kjørte en gjennomgang punkt for punkt i sluttrapporten. Bestemte oss for hvilke ting som trengte forbedring før vi gjorde ferdig slutrapporten på møtet 30 November. 
+	Erlend hadde også drevet med brukertesting tidligere på dagen. Der fikk vi endel inspill som vi bestemte oss for å ta tak i.
+</p>
+
+<h2>Møtereferat 30/11/11 </h2>
+<h3>Oppmøte:</h3>
+<ul>
+	<li>Mathias Santiago Groven</li>
+	<li>Martin Johan Grini</li>
+	<li>Nicolai Grøndahl</li>
+	<li>Erlend Gunnesen</li>
+</ul>
+<p>
+	referat her
+</p>
+
+<h2>Møtereferat 01/12/11 </h2>
+<h3>Oppmøte:</h3>
+<ul>
+	<li>Mathias Santiago Groven</li>
+	<li>Martin Johan Grini</li>
+	<li>Nicolai Grøndahl</li>
+	<li>Erlend Gunnesen</li>
+</ul>
+<p>
+	referat her
+</p>
 <?php
 include '../inc/footer.inc.php';
 ?>
