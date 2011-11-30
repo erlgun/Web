@@ -5,13 +5,9 @@ include '../inc/top.inc.php';
 include '../inc/menu.inc.php';
 ?>
 
-				<h3>Neste Kulquinox</h3>
-				<p>
-					Neste Kulquinox vil være til våren
-				</p>
 				<h3>Kart og parkering</h3>
 				<p>
-					Kart
+					<img src="http://maps.googleapis.com/maps/api/staticmap?&center=59.890549,10.525014&zoom=15&size=400x400&maptype=roadmap&markers=color:0x7f8d53|59.890549,10.525014&sensor=false" alt="kart som viser hvor festivalen holder til" />
 				</p>
 				<p>
 					Parkering

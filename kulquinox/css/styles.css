@@ -459,19 +459,19 @@ h3 a:active {
 
 p a:link {
 	color: #0A328D;
-	text-decoration: underline;
+	text-decoration: none;
 }
 p a:visited {
 	color: #333E5C;
-	text-decoration: underline;
+	text-decoration: none;
 }
 p a:hover {
-	color: #333E5C;
+	color: #0A328D;
 	text-decoration: underline;
 }
 p a:active {
 	color: #1e1e1e;
-	text-decoration: none;
+	text-decoration: underline;
 }
 
 #validators a:link {

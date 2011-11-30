@@ -9,25 +9,30 @@ switch($folder) {
 	case('0'):
 ?>
 		<link rel="stylesheet" type="text/css" href="./css/styles.css">
+		<link type="image/x-icon" href="./images/topicon.gif" rel="shortcut icon">
 <?php
 	break;
 	case('1'):
 ?>
 		<link rel="stylesheet" type="text/css" href="../css/styles.css">
+		<link type="image/x-icon" href="../images/topicon.gif" rel="shortcut icon">
 <?php
 	break;
 	case('2'):
 ?>
 		<link rel="stylesheet" type="text/css" href="../../css/styles.css">
+		<link type="image/x-icon" href="../../images/topicon.gif" rel="shortcut icon">
 <?php			
 	break;
 	case('3'):
 ?>
 		<link rel="stylesheet" type="text/css" href="../../../css/styles.css">		
+		<link type="image/x-icon" href="../../../images/topicon.gif" rel="shortcut icon">
 <?php
 	break;
 }
 ?>
+		
 	</head>
 	<body>
 		<a id="top"></a>
@@ -82,9 +87,9 @@ switch ($folder) {
 	break;
 	case('3'):
 ?>
-							<li><a href="./../../">Billetter</a></li>
-							<li><a href="../../../pages/sponsors.php">Samarbeidspartnere</a></li>
-							<li><a href="../../../en">English</a></li>
+							<li class="header_menu_items"><a href="./../../">Billetter</a></li>
+							<li class="header_menu_items"><a href="../../../pages/sponsors.php">Samarbeidspartnere</a></li>
+							<li class="header_menu_items"><a href="../../../en">English</a></li>
 <?php
 	break;
 }
