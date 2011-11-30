@@ -53,7 +53,7 @@ $_REQUEST['whatContact']	=	$whatContact;
 $_REQUEST['message']		=	$message;
 
 if (isset($_REQUEST['send'])) {
-	mail('nicolaig@broadpark.no', $whatContact, "Henvendelse fra ".$name."\n Avsenders e-post: ".$email."\n Avsenders tlf.nr.: ".$phone."\n\n".$message);
+	mail('nicolaig@broadpark.no', 'Kulquinox.no skjema angående '.$whatContact, "Henvendelse fra ".$name."\n Avsenders e-post: ".$email."\n Avsenders tlf.nr.: ".$phone."\n\n".$message);
 	echo 'Takk for at du tok kontakt med Kulquinox, vi vil svare deg så fort som mulig.';
 }
 ?>

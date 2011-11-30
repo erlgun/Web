@@ -64,7 +64,7 @@ h1.banner {
 ul.header_menu_list {
 	float: right;
 	width: 80%;
-	padding-top: 50px;
+	padding-top: 30px;
 	padding-right: 10px;
 }
 li.facebook {
@@ -179,6 +179,8 @@ div.event_stub {
 	padding:15px 10px 15px 15px;
 	border-right: 2px dotted #1e1e1e;
 }
+#sidebar_menu li {
+}
 
 #inner_content {
 	float:left;
@@ -263,10 +265,41 @@ html, body {
 	font-family: "Helvetica Neue", helvetica, arial, sans-serif;
 }
 
+h1 {
+	font-family: "Century Gothic", arial, sans-serif;
+	font-size: 60px;
+	letter-spacing: 0.2em;
+}
+
+h2, h3, h4 {
+	font-family: Palatino;
+	letter-spacing: 0.05em;
+}
+
+h2 {
+	font-family: "Century Gothic", arial, sans-serif;
+	font-size: 2em;
+	padding: 12px 0 12px 12px;
+}
+
+h3 {
+	font-size: 1.2em;
+	padding: 12px 0 12px 12px;
+}
+
+h4 {
+	font-size: 1.2em;
+}
+
 p {
 	letter-spacing: 0.05em;
 	padding: 12px 30px 6px 12px;
 	font-size: 0.9em;
+}
+
+#content p {
+	max-width: 700px;
+	padding: 12px 0 12px 12px;
 }
 
 #footer_links p {
@@ -285,30 +318,6 @@ p {
 	padding: 6px;
 }
 
-h1 {
-	font-family: "Century Gothic", arial, sans-serif;
-	font-size: 60px;
-	letter-spacing: 0.2em;
-}
-
-h2, h3, h4 {
-	font-family: Georgia;
-	letter-spacing: 0.05em;
-}
-
-h2 {
-	font-size: 2em;
-	padding: 12px 0 12px 24px;
-}
-
-h3 {
-	font-size: 1.4em;
-	padding: 12px 12px 6px 12px;
-}
-
-h4 {
-	font-size: 1.2em;
-}
 
 #sidebar_menu h3 {
 	padding: 6px 6px 6px 0px;
@@ -327,11 +336,6 @@ ul.sidebar_menu_items {
 div.event_stub p {
 	padding: 2px;
 	font-size: 0.9em;
-}
-
-#content p {
-	max-width: 700px;
-	padding: 12px 0 12px 24px;
 }
 
 
@@ -572,11 +576,11 @@ li.sidebar_link a:visited {
 	color: #1e1e1e;
 }
 li.sidebar_link a:hover {
-	text-decoration: none;
+	text-decoration: underline;
 	color: #1e1e1e;
 }
 li.sidebar_link a:active {
-	text-decoration: none;
+	text-decoration: underline;
 	color: #1e1e1e;
 }
 
