@@ -6,21 +6,21 @@ switch ($current) {
 	case('Om Kulquinox'):
 	case('Nyttig informasjon'):
 	case('Kontakt'):
-	case('Sponsorer'):
-	case('Sitemap'):
+	case('Samarbeidspartnere'):
+	case('Sidekart'):
 		include '../inc/main_menu.inc.php';
 	break;
-	case('Program'):
+	case('På plakaten'):
 		include '../inc/main_menu.inc.php';
-		include '../inc/program_menu.inc.php';
+		include '../inc/event_menu.inc.php';
 	break;
 	case('Artister'):
 		if ($folder == '3') {
 			include '../../../inc/main_menu.inc.php';
-			include '../../../inc/program_menu.inc.php';
+			include '../../../inc/event_menu.inc.php';
 		} else {
 			include '../../inc/main_menu.inc.php';
-			include '../../inc/program_menu.inc.php';
+			include '../../inc/event_menu.inc.php';
 		}
 	break;
 	case('Galleri'):
@@ -33,9 +33,9 @@ switch ($current) {
 	case('Film'):
 	case('Teater'):
 	case('Utstilling'):
-	case('Tidsskjema'):
+	case('Programmet'):
 		include '../../inc/main_menu.inc.php';
-		include '../../inc/program_menu.inc.php';
+		include '../../inc/event_menu.inc.php';
 	break;
 	case('Forsiden'):
 		include './inc/main_menu.inc.php';

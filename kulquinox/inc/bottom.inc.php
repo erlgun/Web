@@ -7,28 +7,28 @@ switch ($folder) {
 	case('0'):
 ?>
 						<p>
-							<a href="./pages/sitemap.php">Sidekart</a> | <a href="./pages/kontakt.php">Kontakt Kulquinox</a>
+							<a href="./pages/sidekart.php">Sidekart</a> | <a href="./pages/kontakt.php">Kontakt Kulquinox</a>
 						</p>
 <?php
 	break;
 	case('1'):
 ?>
 						<p>
-							<a href="./sitemap.php">Sidekart</a> | <a href="./kontakt.php">Kontakt Kulquinox</a>
+							<a href="./sidekart.php">Sidekart</a> | <a href="./kontakt.php">Kontakt Kulquinox</a>
 						</p>
 <?php
 	break;
 	case('2'):
 ?>
 						<p>
-							<a href="../sitemap.php">Sidekart</a> | <a href="../kontakt.php">Kontakt Kulquinox</a>
+							<a href="../sidekart.php">Sidekart</a> | <a href="../kontakt.php">Kontakt Kulquinox</a>
 						</p>
 <?php
 	break;
 	case('3'):
 ?>
 						<p>
-							<a href="../../sitemap.php">Sidekart</a> | <a href="../../kontakt.php">Kontakt Kulquinox</a>
+							<a href="../../sidekart.php">Sidekart</a> | <a href="../../kontakt.php">Kontakt Kulquinox</a>
 						</p>
 <?php
 	break;
