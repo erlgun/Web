@@ -66,28 +66,28 @@ switch($folder) {
 switch ($folder) {
 	case('0'):
 ?>
-							<li class="header_menu_items"><a href="./">Billetter</a></li>
+							<li class="header_menu_items"><a href="./pages/info_index.php#Billetter">Billetter</a></li>
 							<li class="header_menu_items"><a href="./pages/sponsors.php">Samarbeidspartnere</a></li>
 							<li class="header_menu_items"><a href="./en">English</a></li>
 <?php
 	break;
 	case('1'):
 ?>
-							<li class="header_menu_items"><a href="../">Billetter</a></li>
+							<li class="header_menu_items"><a href="../pages/info_index.php#Billetter">Billetter</a></li>
 							<li class="header_menu_items"><a href="../pages/sponsors.php">Samarbeidspartnere</a></li>
 							<li class="header_menu_items"><a href="../en">English</a></li>
 <?php
 	break;
 	case('2'):
 ?>
-							<li class="header_menu_items"><a href="../../">Billetter</a></li>
+							<li class="header_menu_items"><a href="../../pages/info_index.php#Billetter">Billetter</a></li>
 							<li class="header_menu_items"><a href="../../pages/sponsors.php">Samarbeidspartnere</a></li>
 							<li class="header_menu_items"><a href="../../en">English</a></li>
 <?php
 	break;
 	case('3'):
 ?>
-							<li class="header_menu_items"><a href="./../../">Billetter</a></li>
+							<li class="header_menu_items"><a href="./../../pages/info_index.php#Billetter">Billetter</a></li>
 							<li class="header_menu_items"><a href="../../../pages/sponsors.php">Samarbeidspartnere</a></li>
 							<li class="header_menu_items"><a href="../../../en">English</a></li>
 <?php
