@@ -56,8 +56,11 @@ switch($folder) {
 		break;
 	}
 	?></h1>
+				<ul>
+					<li>Neste Kulquinox:</li>
+					<li>23.-24. mars</li>
+				</ul>
 				</div>
-				
 				<div id="header_menu">
 					<ul class="header_menu_list">
 							<li class="facebook"><a href="http://www.facebook.com/kulquinox">Lik oss på Facebook</a></li>
