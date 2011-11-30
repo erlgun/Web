@@ -16,9 +16,12 @@ include '../inc/menu.inc.php';
 				<p>
 					Billetter kjøpes på forhånd gjennom <a target="_blank" a href="https://www.baerumkulturhus.no">Bærumkulturhus</a>.
 					Budstikkakort og A-kort gir 25% rabatt
+	
+
+				</p>
 				<table>
 						<tr>
-						<th>Billetpriser:</th> <th> </th>		
+						<th>Billetpriser:</th> <th> test</th>		
 						</tr>
 						
 						<tr>
@@ -35,10 +38,7 @@ include '../inc/menu.inc.php';
 							<td>Barn under 10 år</td>
 							<td>Gratis</td>
 						</tr>						
-				</table>	
-
-				</p>
-
+				</table>
 
 				<h3>Grasrotandelen</h3>
 				<p>
