@@ -19,9 +19,9 @@ include '../inc/menu.inc.php';
 	
 
 				</p>
-				<table>
+				<table class = "prices">
 						<tr>
-						<th>Billetpriser:</th> <th> tester</th>		
+						<th>Billetpriser:</th> <th></th>		
 						</tr>
 						
 						<tr>

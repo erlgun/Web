@@ -197,6 +197,11 @@ div.event_stub {
 	float:left;
 }
 
+table.prices {
+	text-align:left;
+	padding-left: 10px;
+}
+
 div.image_copyright {
 	float:left;
 	width: 75%;
