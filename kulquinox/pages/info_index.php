@@ -15,24 +15,28 @@ include '../inc/menu.inc.php';
 				<h3>Billetter</h3> <A name="Billetter"></a>
 				<p>
 					Billetter kjøpes på forhånd gjennom <a target="_blank" a href="https://www.baerumkulturhus.no">Bærumkulturhus</a>.
+					Budstikkakort og A-kort gir 25% rabatt
 				<table>
-						<th>
-						Billetpriser:	
-						</th>		
 						<tr>
-							<td>Ordinærpris:</td>
+						<th>Billetpriser:</th> <th> </th>		
+						</tr>
+						
+						<tr>
+							<td>Ordinærpris</td>
 							<td>250kr</td>
 						</tr>
+						
 						<tr>
-							<td>Barn,studenter og honnør :</td>
+							<td>Barn,studenter og honnør</td>
 							<td>100kr</td>
 						</tr>
+						
 						<tr>
-							<td>Barn under 10 år :</td>
+							<td>Barn under 10 år</td>
 							<td>Gratis</td>
 						</tr>						
 				</table>	
-				Budstikkakort og A-kort gir 25% rabatt
+
 				</p>
 
 
