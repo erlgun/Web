@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 $current = 'Sponsorer';
 $folder = '1';
 

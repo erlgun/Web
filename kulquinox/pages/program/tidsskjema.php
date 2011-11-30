@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 $current = 'Tidsskjema';
 $folder = '2';
 include '../../inc/top.inc.php';
