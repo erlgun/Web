@@ -16,7 +16,7 @@ include '../inc/menu.inc.php';
 						</div>
 
 						<div class="image">
-							<a target="_blank" href="../images/sponsors/bakgarden.jpg"><img src="../images/sponsors/bakgarden.jpg" alt="Bakgården" /></a>
+							<a target="_blank" href="https://www.facebook.com/pages/BAKG%C3%85RDEN-Sandvika/151232688288723"><img src="../images/sponsors/bakgarden.jpg" alt="Bakgården" /></a>
 						</div>
 
 						<div class="image">
