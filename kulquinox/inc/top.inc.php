@@ -90,7 +90,7 @@ switch ($folder) {
 	break;
 	case('3'):
 ?>
-							<li class="tickets"><a href="./../../pages/info_index.php#billetter">Billetter</a></li>
+							<li class="tickets"><a href="../../../pages/info_index.php#billetter">Billetter</a></li>
 							<li class="header_menu_items"><a href="../../../pages/sponsors.php">Samarbeidspartnere</a></li>
 							<li class="header_menu_items"><a href="../../../en">English</a></li>
 <?php
