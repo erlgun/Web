@@ -69,11 +69,8 @@ h1.banner {
 ul.header_menu_list {
 	float: right;
 	width: 80%;
-	padding-top: 30px;
-	padding-right: 10px;
-}
-li.header_menu_items {
-	padding: 3px;
+	padding-top: 28px;
+	padding-right: 22px;
 }
 /*#face {
 	width: 100%;
@@ -192,6 +189,7 @@ div.event_stub {
 table.prices {
 	text-align:left;
 	padding-left: 10px;
+	width:400px;
 }
 
 div.image_copyright {
@@ -251,8 +249,6 @@ div.imagelarge {
 	padding-top: 50px;
 	padding-right: 6px;
 	border-left: 2px dotted #f5cd72;
-	
-
 }
 
 
@@ -705,6 +701,11 @@ li.tickets {
 	background-color: #ccc1a3;
 	padding: 3px;
 }
+li.header_menu_items {
+/*	background-color: #41342d;*/
+	padding: 3px;
+}
+
 
 #header_banner ul {
 	color:#f5cd72;
