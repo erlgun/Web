@@ -669,19 +669,19 @@ div.event_stub a:active {
 	text-decoration: none;
 }
 
-div.table_links a:link {
+table.schedule a:link {
 	color: #1e1e1e;
 	text-decoration: none;
 }
-div.table_links a:visited {
+table.schedule a:visited {
 	color: #1e1e1e;
 	text-decoration: none;
 }
-div.table_links a:hover {
+table.schedule a:hover {
 	color: #1e1e1e;
 	text-decoration: underline;
 }
-div.table_links a:active {
+table.schedule a:active {
 	color: #41342d;
 	text-decoration: none;
 }

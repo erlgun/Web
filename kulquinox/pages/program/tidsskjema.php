@@ -4,7 +4,7 @@ $folder = '2';
 include '../../inc/top.inc.php';
 include '../../inc/menu.inc.php';
 ?>
-<h2>Tidsskjema</h2>
+<h2>Programmet</h2>
 
 		<table class = "schedule">
 				
@@ -17,9 +17,7 @@ include '../../inc/menu.inc.php';
 				<tr>
 					<td>13.00 - 13.30</td>
 					<td></td>
-								<div class = "table_links">
-								<td><a href="./artister/bollywood_bhangra.php">Bollywood Bangra</a></td>
-								</div>
+					<td><a href="./artister/bollywood_bhangra.php">Bollywood Bangra</a></td>
 					<td></td>
 				</tr>
 				<tr>
