@@ -22,10 +22,10 @@ include '../inc/menu.inc.php';
 						<th>Type:</th><th>Pris:</th>		
 					</tr>
 					<tr>
-						<td>Ordinærpris</td><td>250kr</td>
+						<td>Ordinærpris</td><td>250 kr</td>
 					</tr>
 					<tr>
-						<td>Barn,studenter og honnør</td><td>100kr</td>
+						<td>Barn,studenter og honnør</td><td>100 kr</td>
 					</tr>
 					<tr>
 						<td>Barn under 10 år</td><td>Gratis</td>

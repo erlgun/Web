@@ -138,8 +138,9 @@ ul.header_menu_list {
 
 
 div.event_stub {
-	width: 40%;   /*20 %*/
-	padding: 12px;  /* 12px*/
+	width: 150px;   /*20 %*/
+	height: 150px;
+	padding: 6px;  /* 12px*/
 	float: left;
 }
 
@@ -203,6 +204,7 @@ div.image_copyright {
 
 #poster_page {
 	float: left;
+	width: 600px;
 }
 
 div.image {
@@ -290,6 +292,7 @@ h3 {
 
 h4 {
 	font-size: 1.2em;
+	
 }
 
 p {
@@ -307,6 +310,12 @@ table.prices {
 	max-width: 700px;
 	padding: 12px 0 12px 12px;
 }
+
+#poster_page p {
+	font-size: 0.9em;
+	padding: 2px 0;
+}
+
 
 #footer_links p {
 	padding: 6px;
@@ -339,10 +348,6 @@ ul.sidebar_menu_items {
 	letter-spacing: 0.05em;
 }
 
-div.event_stub p {
-	padding: 2px;
-	font-size: 0.9em;
-}
 
 
 /* LINK STYLING */
