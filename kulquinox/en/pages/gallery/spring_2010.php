@@ -8,19 +8,19 @@ include '../../inc/galleri_menu.inc.php';
 ?>
 
 						<div class="image">
-							<a target="_blank" href="../../../images/gallery/bilde6.jpg"><img src="../../../images/gallery/bilde6small.jpg" alt="Konsertbilde" /></a>
+							<a target="_blank" href="../../../images/gallery/bilde6.jpg"><img src="../../../images/gallery/bilde6small.jpg" alt="Concert picture" /></a>
 						</div>
 						<div class="image">
-							<a target="_blank" href="../../../images/gallery/bilde7.jpg"><img src="../../../images/gallery/bilde7small.jpg" alt="Konsertbilde" /></a>
+							<a target="_blank" href="../../../images/gallery/bilde7.jpg"><img src="../../../images/gallery/bilde7small.jpg" alt="Concert picture" /></a>
 						</div>
 						<div class="image">
-							<a target="_blank" href="../../../images/gallery/bilde8.jpg"><img src="../../../images/gallery/bilde8small.jpg" alt="Konsertbilde" /></a>
+							<a target="_blank" href="../../../images/gallery/bilde8.jpg"><img src="../../../images/gallery/bilde8small.jpg" alt="Concert picture" /></a>
 						</div>
 						<div class="image">
-							<a target="_blank" href="../../../images/gallery/bilde9.jpg"><img src="../../../images/gallery/bilde9small.jpg" alt="Konsertbilde" /></a>
+							<a target="_blank" href="../../../images/gallery/bilde9.jpg"><img src="../../../images/gallery/bilde9small.jpg" alt="Concert picture" /></a>
 						</div>
 						<div class="image">
-							<a target="_blank" href="../../../images/gallery/bilde10.jpg"><img src="../../../images/gallery/bilde10small.jpg" alt="Konsertbilde" /></a>
+							<a target="_blank" href="../../../images/gallery/bilde10.jpg"><img src="../../../images/gallery/bilde10small.jpg" alt="Photo of one of the Exhibition on Kulquinox" /></a>
 						</div>
 					<div class="image_copyright">
 					<p>

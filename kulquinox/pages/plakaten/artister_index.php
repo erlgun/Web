@@ -21,12 +21,12 @@ include '../../inc/artist_menu.inc.php';
 	</div>
 	<div class="event_stub">
 		<h4><a href="./artister/bollywood_bhangra.php">Bollywood Bhangra</a></h4>
-		<p><a href="./artister/bollywood_bhangra.php">bollywood bhangra kombinerer musikk og dans.</a></p>
+		<p><a href="./artister/bollywood_bhangra.php">Bollywood Bhangra kombinerer musikk og dans.</a></p>
 	
 	</div>
 	<div class="event_stub">
-		<h4><a href="./artister/dj_ivaylo.php">Dj Ivaylo</a></h4>
-		<p><a href="./artister/dj_ivaylo.php">Klassisk hip pop på sitt beste.</a></p>
+		<h4><a href="./artister/dj_ivaylo.php">DJ Ivaylo</a></h4>
+		<p><a href="./artister/dj_ivaylo.php">Klassisk hip hop på sitt beste.</a></p>
 	
 	</div>
 	<div class="event_stub">
@@ -36,7 +36,7 @@ include '../../inc/artist_menu.inc.php';
 	</div>
 	<div class="event_stub">
 		<h4><a href="./artister/jon_schau.php">Jon Schau</a></h4>
-		<p><a href="./artister/jon_schau.php">Norsk stand up-komiker.</a></p>
+		<p><a href="./artister/jon_schau.php">Norsk stand-up komiker.</a></p>
 	
 	</div>
 	<div class="event_stub">

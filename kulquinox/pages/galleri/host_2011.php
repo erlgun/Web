@@ -11,13 +11,13 @@ include '../../inc/galleri_menu.inc.php';
 						<a target="_blank" href="../../images/gallery/bilde11.jpg"><img src="../../images/gallery/bilde11small.jpg" alt="Konsertbilde" /></a>
 					</div>
 					<div class="image">
-						<a target="_blank" href="../../images/gallery/bilde12.jpg"><img src="../../images/gallery/bilde12small.jpg" alt="Konsertbilde" /></a>
+						<a target="_blank" href="../../images/gallery/bilde12.jpg"><img src="../../images/gallery/bilde12small.jpg" alt="Bilde av grafitti kunst" /></a>
 					</div>
 					<div class="image">
-						<a target="_blank" href="../../images/gallery/bilde13.jpg"><img src="../../images/gallery/bilde13small.jpg" alt="Konsertbilde" /></a>
+						<a target="_blank" href="../../images/gallery/bilde13.jpg"><img src="../../images/gallery/bilde13small.jpg" alt="Bilde av utøvende danser" /></a>
 					</div>
 					<div class="image">
-						<a target="_blank" href="../../images/gallery/bilde14.jpg"><img src="../../images/gallery/bilde14small.jpg" alt="Konsertbilde" /></a>
+						<a target="_blank" href="../../images/gallery/bilde14.jpg"><img src="../../images/gallery/bilde14small.jpg" alt="Bilde av Cosmic Wind, en av ledere i Kulquinox" /></a>
 					</div>
 					<div class="image">
 						<a target="_blank" href="../../images/gallery/bilde15.jpg"><img src="../../images/gallery/bilde15small.jpg" alt="Konsertbilde" /></a>

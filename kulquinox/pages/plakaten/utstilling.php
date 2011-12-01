@@ -6,7 +6,7 @@ include '../../inc/menu.inc.php';
 ?>
 					<h2>Utstilling</h2>
 					<p>
-						Dette er kunsten du får se på Kulquinox.
+						Det er for øyeblikket ikke satt opp noen utstillinger for neste arrangement.
 					</p>
 <?php
 include '../../inc/bottom.inc.php';
