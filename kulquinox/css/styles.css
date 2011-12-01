@@ -153,15 +153,8 @@ div.event_stub {
 	width:18%;
 	padding: 6px;
 	border-right: 2px dotted #1e1e1e;
-}
-
-#sidebar {
-	float: left;
-	width:18%;
-	padding:15px 10px 15px 15px;
-	border-right: 2px dotted #1e1e1e;
-}
-#sidebar_menu li {
+	border-bottom: 2px dotted #1e1e1e;
+	
 }
 
 #inner_content {
@@ -682,7 +675,7 @@ div.event_stub a:hover {
 }
 div.event_stub a:active {
 	color: #41342d;
-	text-decoration: none;
+	text-decoration: underline;
 }
 
 table.schedule a:link {
@@ -699,7 +692,7 @@ table.schedule a:hover {
 }
 table.schedule a:active {
 	color: #41342d;
-	text-decoration: none;
+	text-decoration: underline;
 }
 
 

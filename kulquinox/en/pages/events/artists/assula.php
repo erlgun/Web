@@ -8,7 +8,7 @@ include '../../../inc/artist_menu.inc.php';
 ?>
 
 				       <div id="artist_text">
-						<img src="../../../../images/artists/assula.jpg" alt="Photo of one of the musicians in Assula" height="200px" />
+						<img src="../../../../images/artists/assula.jpg" alt="Photo of one of the musicians in Assula"  />
 					    	<p>
 						        Assula is a band from Spain, which was started in 2009.
 						        They blend the best of two worlds, classic rock and spank guitar magic.
