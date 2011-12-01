@@ -8,7 +8,7 @@ include '../../../inc/artist_menu.inc.php';
 ?>
 
 						<div id="artist_text">
-							<img src="../../../../images/artists/haraldur.jpg" alt="Bilde av artisten Haraldur" height="200px" />
+							<img src="../../../../images/artists/haraldur.jpg" alt="Bilde av artisten Haraldur"  />
 							<p>
 								Haraldur Vignir Sveinbjørnsson goes by the stage name Red Barnett.
 								He began his music career very early, already as an 8 year old boy he started to record music on cassettes.

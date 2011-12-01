@@ -8,7 +8,7 @@ include '../../../inc/artist_menu.inc.php';
 ?>
 
 						<div id="artist_text">
-							<img src="../../../../images/artists/run_dog_run.jpg" alt="Bilde av artisten Run dog run" height="200px" />
+							<img src="../../../../images/artists/run_dog_run.jpg" alt="Bilde av artisten Run dog run"  />
 							<p>
 									Run Dog Run was a Norwegian band that started in 1991
 									In 1993 they received a record deal with the Voices of Wonder. After the debut album A Howling Success they started touring Norway.

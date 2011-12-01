@@ -7,7 +7,7 @@ include '../../../inc/menu.inc.php';
 include '../../../inc/artist_menu.inc.php';
 ?>
 
-   <img src="../../../../images/artists/jon_schau.jpg" alt="Bilde av artisten Jon Schau" height="200px" />
+   <img src="../../../../images/artists/jon_schau.jpg" alt="Bilde av artisten Jon Schau"  />
  <p>
  	Jon Arve Schau (Born 9 February 1966) is a Norwegian stand-up comedian. He made ​​his debut in a school revue at Grefsen high school in 1985.
 	In 1992 he played in cabaret "Yst en pult, føn en fisk" with Jon Øigarden. He then played various one-man shows around the country, before he started Suck (Stand Up Comedy Club in Norway) in 1993.
