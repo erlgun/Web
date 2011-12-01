@@ -7,7 +7,7 @@ include '../../../inc/menu.inc.php';
 include '../../../inc/artist_menu.inc.php';
 ?>
                      	<div id="artist_text">
-							<img src="../../../../images/artists/radio_9.jpg" alt="Picture of Radio 9s band logo"  />
+							<img src="../../../../images/artists/radio_9.jpg" alt="Picture of the artists in Radio 9"  />
 							<p>
 								Radio 9 is a band from Oslo that mixes rock and electronica genres.
 								This means high fuzz guitar mixed with catchy rhythms and cool DJ effects.

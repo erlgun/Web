@@ -8,7 +8,7 @@ include '../../../inc/artist_menu.inc.php';
 ?>
 
 					<div id="artist_text">
-						<img src="../../../../images/artists/astro_gastro_jam.jpg" alt="Picture of the artists in Astro Gastro Jam"  />
+						<img src="../../../../images/artists/astro_gastro_jam.jpg" alt="Picture of one of the artists in Astro Gastro Jam"  />
 						<p>
 							This will be a jam out of the ordinary!
 							With Cosmic Wind, who is one of the organizers of the festival in the lead.

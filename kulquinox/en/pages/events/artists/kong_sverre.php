@@ -15,13 +15,13 @@ include '../../../inc/artist_menu.inc.php';
 						<p>
 						    We can probably thank Svein Haagenrud (formerly active football player and secretary general of the Norwegian Football Association) that Sverre got focused on the music.
 							Haagenruds son, Svein Inge nicknamed Pill, ruled the junior team and later the A-team already as a boy player
-							and Sverre was sitting at home and adding synth strings on the tracks from Michael Jackson's Bad and creating Norwegian texts.
+							and Sverre was sitting at home and adding synth strings on the tracks from Michael Jackson's Bad album and creating Norwegian texts.
 						</p>
 					    <p>
-							He never understood what was so grand with fuzz guitars, and after recieving instruments from Folk &amp; Røvere, chilensk danseband, Penthouse Playboys og Snuten he began to create something that resembled the first pop music he heard.
+							He never understood what was so grand with fuzz guitars, and after recieving experience from Folk &amp; Røvere, chilensk danseband, Penthouse Playboys og Snuten he began to create something that resembled the first pop music he heard.
 						</p>
 						<p>
-							Kong Sverre has previously released two albums, Natur and Jazzelektro on his own label Roger Sunshine Records.
+							Kong Sverre has previously released two albums, "Natur"" and "Jazzelektro" on his own label, Roger Sunshine Records.
 							Fugl (Beatservice 2009) is his latest album, which so far has been met with a collective cold shoulder from the national press.
 							This has happened with Jan Guillou several times too, so it provides no reason for concern.
 						</p>

@@ -15,7 +15,7 @@ include '../../../inc/artist_menu.inc.php';
 							On stage, they have with them a lot of different instruments and effects to create a very unique sound.
 							These two guys wants to create the sound of an entire orchestra.
 							They have been touring Europe for almost a full year.
-							In the spring they will go into the studio to start creating their first album.
+							this spring they will go into the studio to start creating their first album.
 							
 						</p>
 					</div>

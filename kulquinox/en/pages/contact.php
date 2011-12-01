@@ -16,7 +16,7 @@ include '../inc/menu.inc.php';
 		<input type="text" name="phone" id="telefonnummer" /><br />
 		<label for="e-post">E-mail:</label><br />
 		<input type="text" name="email" id="e-post"/><br />
-		<label for="forespørsel">Hva gjelder din forespørsel?</label><br />
+		<label for="forespørsel">Select subject:</label><br />
 		<select size="1" name="whatContact" id="forespørsel">
 			<option>Volunteering</option>
 			<option>Press</option>
@@ -26,7 +26,7 @@ include '../inc/menu.inc.php';
 		</select><br />
 		<label for="melding">Message:</label><br />
 		<textarea cols=42 rows=5 name="message" id="melding"></textarea><br />
-		<input type="submit" value="Send inn" name="send">
+		<input type="submit" value="Send " name="send">
 	</form>
 <?php
 $name			=	$_REQUEST['name'];

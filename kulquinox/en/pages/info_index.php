@@ -7,7 +7,7 @@ include '../inc/menu.inc.php';
 
 				<h3>Maps and parking</h3>
 				<p>
-					<img src="http://maps.googleapis.com/maps/api/staticmap?&amp;center=59.890549,10.525014&amp;zoom=15&amp;size=400x400&amp;maptype=roadmap&amp;markers=color:0x7f8d53|59.890549,10.525014&amp;sensor=false" alt="kart som viser hvor festivalen holder til" />
+					<img src="http://maps.googleapis.com/maps/api/staticmap?&amp;center=59.890549,10.525014&amp;zoom=15&amp;size=400x400&amp;maptype=roadmap&amp;markers=color:0x7f8d53|59.890549,10.525014&amp;sensor=false" alt="map showing where the festival is set" />
 				</p>
 				<p>
 					Parking

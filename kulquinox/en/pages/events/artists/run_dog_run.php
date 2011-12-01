@@ -15,13 +15,13 @@ include '../../../inc/artist_menu.inc.php';
 									I 1994 the band release the EP Beauty school Dropout. Run Dog Run followed up with a tour in Norway, Denmark, Austria and Germany.
 							</p> 	 
 							<p>
-									Run Dog Run was most active in the year 1994 to 1995, and all members worked almost full time on writing, arranging and recording the tracks that was to become the album Masterplan.
-									Masterplan was released autumn 1995 . The single «Capital» was played quite a bit on P3 in the summer of 1995, and parts of the song was used in the TV show Little Saturday.
-									Masterplan received good reviews and was also released in Japan with two bonus tracks and the lyrics printed in the cover.
-									Run Dog Run ble oppløst tidlig i 1996 da medlemmene mistet inspirasjonen og ønsket å gjøre andre ting.
+									Run Dog Run was most active in the year 1994 to 1995, and all members worked almost full time on writing, arranging and recording the tracks that was to become the album: "Masterplan".
+									"Masterplan" was released autumn 1995 . The single «Capital» was played quite a bit on P3(Norwegian radio station) in the summer of 1995, and parts of the song was used in the TV show:"Lille Lørdag".
+									"Masterplan" received good reviews and was also released in Japan with two bonus tracks and the lyrics printed in the cover.
+									Run Dog Run broke up in early 1996 when members lost their inspiration and wanted to do other things.
 							</p>
 							<p>	
-									Run Dog Run had a reunion tour in 2011.
+									Run Dog Run having a reunion tour in 2011.
 						
 							</p>
 							

@@ -12,7 +12,7 @@ include '../../../inc/artist_menu.inc.php';
 									<p>
 											Tuva Syvertsen and Jan Tariq Rui-Rahman or better known as Tuva & Tariq offers quiet, acoustic folk music.
 											They will play on both the guitar, fiddle and the harmonica.
-											Tuva & Tariq are known from the bands Valkyrian Allstars and WE.
+											Tuva & Tariq are known from the bands: Valkyrian Allstars and WE.
 											They have been around since 2010 and next year they will release their first CD.
 									</p>
 						</div>	
