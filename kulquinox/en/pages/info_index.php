@@ -12,10 +12,10 @@ include '../inc/menu.inc.php';
 				<p>
 					Parkering
 				</p>
-				<a id="billetter"></a>
+				<a id="tickets"></a>
 				<h3>Tickets</h3>
 				<p>
-					Billetter kjøpes på forhånd gjennom <a target="_blank" href="https://www.baerumkulturhus.no">Bærumkulturhus</a>.
+					Billetter kjøpes på forhånd gjennom <a target="_blank" href="https://www.baerumkulturhus.no">Bærum kulturhus</a>.
 					Budstikkakort og A-kort gir 25% rabatt
 				</p>
 				<table class="prices">
