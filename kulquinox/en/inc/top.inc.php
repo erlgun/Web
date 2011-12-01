@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="no">
+<html lang="en">
 	<head>
 		<title>Kulquinox - <?php echo $current; ?></title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8">
