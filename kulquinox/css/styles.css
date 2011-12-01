@@ -267,13 +267,13 @@ html, body {
 }
 
 h1 {
-	font-family: "Century Gothic", arial, sans-serif;
+	font-family: "Century Gothic", "Trebuchet MS", arial, sans-serif;
 	font-size: 60px;
 	letter-spacing: 0.2em;
 }
 
 h2, h3, h4 {
-	font-family: Palatino;
+	font-family: "Century Gothic", "Trebuchet MS", arial, sans-serif;
 	letter-spacing: 0.05em;
 }
 
@@ -296,6 +296,11 @@ p {
 	letter-spacing: 0.05em;
 	padding: 12px 30px 6px 12px;
 	font-size: 0.9em;
+}
+
+table.prices {
+	font-family: "Century Gothic", "Trebuchet MS", arial, sans-serif;
+	padding-left: 24px;
 }
 
 #content p {
@@ -736,6 +741,7 @@ li.twitter {
 }
 li.tickets {
 	background-color: #ccc1a3;
+	border: solid red;
 	padding: 3px;
 }
 li.header_menu_items {
