@@ -7,7 +7,7 @@ include '../inc/menu.inc.php';
 
 				<h2>Kultur + Equinox = Kulquinox</h2>
 				<p>
-					
+					<img src="../../images/tidlig_festival_bakgaard.jpg">
 				</p>
 				<p>
 					Kulquinox became a reality after <a target="_blank" href="https://www.facebook.com/group.php?gid=20808940608">Cosmic Wind cultural collaboration</a> established a Culture House at Stabekk in 2007. 
