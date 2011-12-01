@@ -6,7 +6,7 @@ include '../../../inc/top.inc.php';
 include '../../../inc/menu.inc.php';
 include '../../../inc/artist_menu.inc.php';
 ?>
-<img src="../../../../images/artists/dj_ivaylo.jpg" alt="Bilde av artisten DJ Ivaylo" height="200px" />
+<img src="../../../../images/artists/dj_ivaylo.jpg" alt="Bilde av artisten DJ Ivaylo"  />
 
 						<p>
 							DJ and producer from Oslo. DJ Ivaylo has traveled the world for over 10 years.
