@@ -82,7 +82,7 @@ switch ($current) {
 	break;
 	case('Samarbeidspartnere'):
 ?>
-						<li class="button"><a href="./plakaten.php">PÅ PLAKATEN</a></li>
+						<li class="button"><a href="./plakaten/artister_index.php">PÅ PLAKATEN</a></li>
 						<li class="button"><a href="./om_kulquinox.php">OM KULQUINOX</a></li>
 						<li class="button"><a href="../pages/galleri/host_2011.php">GALLERI</a></li>
 						<li class="button"><a href="./info.php">NYTTIG INFO</a></li>						
@@ -90,7 +90,7 @@ switch ($current) {
 	break;
 	case('Kontakt'):
 ?>
-						<li class="button"><a href="./plakaten.php">PÅ PLAKATEN</a></li>
+						<li class="button"><a href="./plakaten/artister_index.php">PÅ PLAKATEN</a></li>
 						<li class="button"><a href="./om_kulquinox.php">OM KULQUINOX</a></li>
 						<li class="button"><a href="./galleri/host_2011.php">GALLERI</a></li>
 						<li class="button"><a href="./info.php">NYTTIG INFO</a></li>						
