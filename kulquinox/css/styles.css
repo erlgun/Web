@@ -495,17 +495,34 @@ h3 a:active {
 
 p a:link {
 	color: #0A328D;
-	text-decoration: none;
+	text-decoration: underline;
 }
 p a:visited {
 	color: #333E5C;
-	text-decoration: none;
+	text-decoration: underline;
 }
 p a:hover {
 	color: #0A328D;
 	text-decoration: underline;
 }
 p a:active {
+	color: #1e1e1e;
+	text-decoration: underline;
+}
+
+p.front_page a:link {
+	color: #1e1e1e;
+	text-decoration: none;
+}
+p.front_page a:visited {
+	color: #1e1e1e;
+	text-decoration: none;
+}
+p.front_page a:hover {
+	color: #1e1e1e;
+	text-decoration: underline;
+}
+p.front_page a:active {
 	color: #1e1e1e;
 	text-decoration: underline;
 }
@@ -565,10 +582,10 @@ p a:active {
 }
 li.button a:link {
 	text-decoration: none;
-	color: white;
+	color: #e1e1e1;
 }
 li.button a:visited {
-	color:white;
+	color:#e1e1e1;
 }
 li.button a:hover {
 	color: #f5cd72;

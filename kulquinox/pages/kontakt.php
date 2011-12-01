@@ -38,7 +38,7 @@ $message		=	$_REQUEST['message'];
 
 if (isset($_REQUEST['send'])) {
 	if ((!$name) or (!$phone) or (!$email) or (!$whatContact) or (!$message)) {
-	die('<br />Du fylte ikke ut skjema fullstendig, vær så snill og gå tilbake og fyll ut igjen.');
+	die('<br />Du fylte ikke ut skjema fullstendig, vennligst se at alle feltene er fylt ut før du sender inn skjemaet.');
 	} else {
 		mail('nicolaig@broadpark.no', 'Kulquinox.no skjema angående '.$whatContact, "Henvendelse fra ".$name."\n Avsenders e-post: ".$email."\n Avsenders tlf.nr.: ".$phone."\n\n".$message);
 		echo 'Takk for at du tok kontakt med Kulquinox, vi vil svare deg så fort som mulig.';
