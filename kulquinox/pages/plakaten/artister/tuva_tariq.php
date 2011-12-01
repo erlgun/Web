@@ -8,7 +8,7 @@ include '../../../inc/artist_menu.inc.php';
 ?>
 
 						<div id="artist_text">
-							<img src="../../../images/artists/tuva_tariq.jpg" alt="Bilde av artisten Tuva og Tariq" height="200px" />
+							<img src="../../../images/artists/tuva_tariq.jpg" alt="Bilde av artisten Tuva og Tariq"  />
 							<p>
 								Tuva Syvertsen og Jan Tariq Rui-Rahman eller bedre kjent som Tuva & Tariq byr på rolig og akustisk folkemusikk.
 								Det spilles både på gitar, fele og munspill.

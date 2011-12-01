@@ -8,7 +8,7 @@ include '../../../inc/artist_menu.inc.php';
 ?>
 
 						<div id="artist_text">
-							<img src="../../../images/artists/run_dog_run.jpg" alt="Bilde av artisten Run dog run" height="200px" />
+							<img src="../../../images/artists/run_dog_run.jpg" alt="Bilde av artisten Run dog run"  />
 							<p>
 						          Run Dog Run var et norsk band som startet i 1991
 								I 1993 fikk de platekontrakt med Voices of Wonder. Etter debutalbumet A     Howling Success turnerte de Norge.

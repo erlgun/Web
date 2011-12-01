@@ -8,7 +8,7 @@ include '../../../inc/artist_menu.inc.php';
 ?>
 
 					<div id="artist_text">
-						<img src="../../../images/artists/astro_gastro_jam.jpg" alt="Bilde av Artistene i Astro Gastro Jam" height="200px" />
+						<img src="../../../images/artists/astro_gastro_jam.jpg" alt="Bilde av en av Artistene i Astro Gastro Jam" />
 						<p>
 							Dette blir en jam helt utenom det vanlige!
 							med Cosmic Wind, som er en av arrangørene for festivalen i spissen.

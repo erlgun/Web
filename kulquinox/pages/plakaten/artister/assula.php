@@ -8,7 +8,7 @@ include '../../../inc/artist_menu.inc.php';
 ?>
 
 				       <div id="artist_text">
-						<img src="../../../images/artists/assula.jpg" alt="Bilde av en av musikerene i Assula" height="200px" />
+						<img src="../../../images/artists/assula.jpg" alt="Bilde av en av musikerene i Assula"/>
 					    	<p>
 						        Assula er et band fra spania, som blei startet i 2009.
 						        De blander det beste fra to verdener, klassisk rock og spank gitar magi.
