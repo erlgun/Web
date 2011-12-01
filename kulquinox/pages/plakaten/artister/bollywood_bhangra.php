@@ -12,8 +12,8 @@ include '../../../inc/artist_menu.inc.php';
 							<p>
 								Bollywood Bhangra er et band/dansegruppe fra India.
 								Bollywood Bhangra har modernisert og rocka opp folkedansen Bhangra.
-								på scene er det både dansere og et helt band.
-								dette sørger for at det virkelig kommer til å bli fart i rockefoten.
+								På scenen er det både dansere og et helt band.
+								Dette sørger for at det virkelig kommer til å bli fart i rockefoten.
 							</p>
 						</div>
 					</div>
