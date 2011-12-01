@@ -324,7 +324,10 @@ include '../inc/sidebar.inc.php';
 	<li>Erlend Gunnesen</li>
 </ul>
 <p>
-	referat her
+	Siste innspurt før innlevering. Gått gjennom alle styringsdokumenter og hovedsiden etter skriveleifer. 
+	Vi har gjort små kosmetiske endringer på hovedsiden. Zippet alle dokumenter vi har brukt og skrevet ferdig sluttrapporten. 
+	Sendt zippen på mail og levert link på fronter.
+	
 </p>
 <?php
 include '../inc/footer.inc.php';
