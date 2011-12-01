@@ -57,7 +57,7 @@ switch($folder) {
 	}
 	?></h1>
 				<ul>
-					<li>Next Kulquinox:</li>
+					<li>Next festival:</li>
 					<li>March 23-24 </li>
 				</ul>
 				</div>
