@@ -8,7 +8,7 @@ include '../../../inc/artist_menu.inc.php';
 ?>
 
                     <div id="artist_text">
-						<img src="../../../../images/artists/lur.jpg" alt="Bilde av artisten Lur"  />
+						<img src="../../../../images/artists/lur.jpg" alt="Picture of the artist Lur"  />
 						<p>
 							Lür is a Swedish band that was formed in 2006.
 							Lür does not only want to give the audience a musical experience, but also view the art and ritual elements as animations together with an exciting stage show.

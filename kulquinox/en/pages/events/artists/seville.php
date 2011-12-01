@@ -8,7 +8,7 @@ include '../../../inc/artist_menu.inc.php';
 ?>
 
 						<div id="artist_text">
-							<img src="../../../../images/artists/seville.jpg" alt="Bilde av artisten Seville"  />
+							<img src="../../../../images/artists/seville.jpg" alt="Picture of the artist Seville"  />
 								<p>
 									Seville offers the very best from the 70s.
 									Seville takes up the thread from bands like Pink Floyd, Led Zeppelin and Norwegian Ruphus.

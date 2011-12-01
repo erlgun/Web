@@ -8,7 +8,7 @@ include '../../../inc/artist_menu.inc.php';
 ?>
 
                     	<div id="artist_text">
-							<img src="../../../../images/artists/bollywood_bhangra.jpg" alt="Bilde av Bollywod Bhangra"  />
+							<img src="../../../../images/artists/bollywood_bhangra.jpg" alt="Picture of the band Bollywod Bhangra"  />
 							<p>
 								Bollywood Bhangra is a band / dance group from India.
 								Bollywood Bhangra has modernized and rocked up the indian folk dance Bhangra.
