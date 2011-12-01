@@ -10,19 +10,23 @@ include '../../../inc/artist_menu.inc.php';
 					<div id="artist_text">
 						<img src="../../../../images/artists/kong_sverre.jpg" alt="Bilde av artisten Kong Sverre" height="200px" />
 						<p>
-							Kong Sverre aka Sverre Thorstensen begynte sitt virke som sangskaper for alvor i 15-års alderen.
+							Kong Sverre aka Sverre Thorstensen began his career as a song creator only 15-years old.
 						</p>
 						<p>
-						    Vi kan trolig takke Svein Haagenrud (tidligere aktiv fotballspiller og generalsekretær i Norges fotballforbund) for at Sverre fikk konsentrert seg om musikken. Haagenruds sønn, den knapt jevngode Svein Inge med  kallenavnet Pille, regjerte juniorlaget og senere A-laget allerede som guttespiller, og Sverre ble sittende hjemme og legge til synthstrykere på låter fra Michael Jacksons Bad og snekre norske tekster.
+						    We can probably thank Svein Haagenrud (formerly active football player and secretary general of the Norwegian Football Association) that Sverre got focused on the music.
+							Haagenruds son, Svein Inge nicknamed Pill, ruled the junior team and later the A-team already as a boy player
+							and Sverre was sitting at home and adding synth strings on the tracks from Michael Jackson's Bad and creating Norwegian texts.
 						</p>
 					    <p>
-							Han skjønte aldri hva som var så stas med fuzzgitarer, og etter å ha fått musikerbagasje fra Folk &amp; Røvere, chilensk danseband, Penthouse Playboys og Snuten begynte han lage noe som lignet på den første popmusikken han hørte.
+							He never understood what was so grand with fuzz guitars, and after recieving instruments from Folk &amp; Røvere, chilensk danseband, Penthouse Playboys og Snuten he began to create something that resembled the first pop music he heard.
 						</p>
 						<p>
-							KongSverre har tidligere gitt ut to album, Natur og Jazzelektro på sin egen label Roger Sunshine Records. Fugl (Beatservice 2009) er det siste skuddet på stammen, som så langt har møtt en kollektiv kald skulder fra den landsdekkende pressen. Det har visst skjedd med Jan Guillou flere ganger også, så det gir ingen grunn til bekymring.
+							Kong Sverre has previously released two albums, Natur and Jazzelektro on his own label Roger Sunshine Records.
+							Fugl (Beatservice 2009) is his latest album, which so far has been met with a collective cold shoulder from the national press.
+							This has happened with Jan Guillou several times too, so it provides no reason for concern.
 						</p>
 					    <p>
-							Selv for en konge kan det være vanskelig å bestemme seg, så plata inneholder både norske og engelske tekster, poplåter side om side med mer dronende lydlandskap, både kvinnefiendtlige og kvinnevennlige temaer, samt gode rim og nødrim fra kongens hånd.
+							Even a king can have difficulties deciding, as the record contains both Norwegian and English lyrics, both misogynistic and women-friendly themes, good rhymes and bad rhymes from the king's hand.
 						</p>
 					</div>
 				</div>

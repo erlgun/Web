@@ -10,12 +10,12 @@ include '../../../inc/artist_menu.inc.php';
                     <div id="artist_text">
 						<img src="../../../../images/artists/lur.jpg" alt="Bilde av artisten Lur" height="200px" />
 						<p>
-							Lür er et svenskt bad som blei dannet i 2006.
-							Lür ønsker ikke bare å gi publikum en musikalsk opplevelse, men også vise de kunst, iretuelle elementer, som animasjoner sammen med et spennende sceneshow.
-							på scene har det med seg masse forskjellige instrumenter og effekter for å skapet et veldig unikt lydbilde.
-							Disse to gutta ønsker skape lyden av et helt orkester.
-							De har turnert europa i neste hele 2010.
-							i vår går de i studio for å starte på sitt første album.
+							Lür is a Swedish band that was formed in 2006.
+							Lür does not only want to give the audience a musical experience, but also view the art and ritual elements as animations together with an exciting stage show.
+							On stage, they have with them a lot of different instruments and effects to create a very unique sound.
+							These two guys wants to create the sound of an entire orchestra.
+							They have been touring Europe for almost a full year.
+							In the spring they will go into the studio to start creating their first album.
 							
 						</p>
 					</div>

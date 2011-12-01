@@ -9,10 +9,14 @@ include '../../../inc/artist_menu.inc.php';
 
    <img src="../../../../images/artists/jon_schau.jpg" alt="Bilde av artisten Jon Schau" height="200px" />
  <p>
- 	Jon Arve Schau (født 9. februar 1966) er en norsk stand up-komiker. Han debuterte i skolerevyen på Grefsen videregående skole i 1985. I 1992 spilte han i kabareten Yst en pult, føn en fisk sammen med Jon Øigarden. Deretter spilte han ulike enmannsshow rundt i landet, før han startet SUCK (Stand Up Comedy Club i Norge) i 1993. Forestillingen Fisk eller Mann gikk for fulle hus 121 kvelder i 1995. «143 latterkuler på femti minutter» skrev Bergensavisen. Schau har også vært skuespiller og manusforfatter i humorseriene Lyckliga gatan på TV 2 og Sushi på TVNorge. I 2009 startet han produksjonsselskapet Hippiemedia og utga Jons bok inspirert av sin nær døden-opplevelse i 2004, da han lå fem uker i koma som følge av en betennelse i bukspyttkjertelen.
+ 	Jon Arve Schau (Born 9 February 1966) is a Norwegian stand-up comedian. He made ​​his debut in a school revue at Grefsen high school in 1985.
+	In 1992 he played in cabaret "Yst en pult, føn en fisk" with Jon Øigarden. He then played various one-man shows around the country, before he started Suck (Stand Up Comedy Club in Norway) in 1993.
+	The show "Fisk eller mann" was sold out 121 nights in 1995. "143 laughs in fifty minutes," wrote Bergensavisen.
+	Schau has also been an actor and screenwriter in the comedy series "Lyckliga gatan" on TV 2 and Sushi on TV Norge.
+	In 2009 he founded the production company Hippie Media and released Jon's book inspired by his near-death experience in 2004 when he was five weeks in a coma as a result of an inflammation in the pancreas.
  </p>
 <p>
-	Han blei også tildelt Stå Opp-prisen i 1996 og 2006
+	He was also awarded the Stand Up Award in 1996 and 2006
 </p>
 						
 						

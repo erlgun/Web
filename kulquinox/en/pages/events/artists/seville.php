@@ -9,13 +9,13 @@ include '../../../inc/artist_menu.inc.php';
 
 						<div id="artist_text">
 							<img src="../../../../images/artists/seville.jpg" alt="Bilde av artisten Seville" height="200px" />
-							<p>
-						          Seville byr på det alle beste fra 70-tallet.
-						          Seville tar opp tråden fra band som Pink floyd, led Zeppelin og norske Ruphus.
-						Seville ga ut sitt første album i 2009 til strålende mediakritikker.
-						De har også vært på en omfattende europaturne de siste månedene, og de avslutter denne turene i Sandvika hos oss.
+								<p>
+									Seville offers the very best from the 70s.
+									Seville takes up the thread from bands like Pink Floyd, Led Zeppelin and Norwegian Ruphus.
+									Seville released their first album in 2009 to great media acclaim.
+									They have also been on an extensive European tour last few months, and they end this tour in Sandvika with us.
 						
-							</p>
+								</p>
 							
 						</div>	
 					</div>

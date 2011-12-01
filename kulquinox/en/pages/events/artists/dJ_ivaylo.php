@@ -9,7 +9,9 @@ include '../../../inc/artist_menu.inc.php';
 <img src="../../../../images/artists/dj_ivaylo.jpg" alt="Bilde av artisten DJ Ivaylo" height="200px" />
 
 						<p>
-							DJ og produsent fra Oslo. DJ Ivaylo har reist verden rundt i over 10 år. Han kommer egentlig fra black sea city Varna i Bulgaria.  Han har vært produsent for selskaper som Barraca Music, Elevation Recordings, EleFlight, Deep Class and Blue Bass. Dette har gjort han til en av de største DJ'ene in house.
+							DJ and producer from Oslo. DJ Ivaylo has traveled the world for over 10 years.
+							He really originates from the Black Sea city Varna in Bulgaria. He has been producing companies such as Barraca Music, Elevation Recordings EleFlight, Deep Class and Blue Bass.
+							This has made him one of the biggest DJs in house music.
 						</p>
 					</div>
 <?php

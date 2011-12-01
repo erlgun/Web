@@ -8,14 +8,14 @@ include '../../../inc/artist_menu.inc.php';
 ?>
 
 				       <div id="artist_text">
-						<img src="../../../../images/artists/assula.jpg" alt="Bilde av en av musikerene i Assula" height="200px" />
+						<img src="../../../../images/artists/assula.jpg" alt="Photo of one of the musicians in Assula" height="200px" />
 					    	<p>
-						        Assula er et band fra spania, som blei startet i 2009.
-						        De blander det beste fra to verdener, klassisk rock og spank gitar magi.
-						        Dette er virkelig noe man burde få med seg.
-						        Assula består av musikere som såvidt har spasser 20 år, men lyden minner mere om et dedikert band med masse erfaring.
-						Dette er Assualas første tur utenlands.
-						våren 2012 går de i studio for å produsere sitt første album
+						        Assula is a band from Spain, which was started in 2009.
+						        They blend the best of two worlds, classic rock and spank guitar magic.
+						        This is truly something you should not miss.
+						        Assula consists of musicians who barely has passed 20 years, but the sound resembles a dedicated band with lots of experience.
+								This is Assualas first international tour.
+								Spring 2012 they will enter the studio to produce their first album
 						    </p>
 					   </div>
 					</div>

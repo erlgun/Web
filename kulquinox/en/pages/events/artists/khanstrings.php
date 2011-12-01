@@ -8,7 +8,8 @@ include '../../../inc/artist_menu.inc.php';
 ?>
 <div id="artist_text">
 	<p>
-		Familiegruppen KhanStrings fra Oslo består av fire medlemmer: Hamza (11), Murad (14) og Sonia (17) på fiolin, og faren Akmal på tabla. Khans spiller klassisk indisk-pakistansk musikk, med kjente raags som “Bhairvi”, “Yeman”, “Bhopali”, “Bageshwari”, “Binishari”, “Darbari”, og semiklassiske Bollywood-sanger.
+		The family band KhanStrings from Oslo consists of four members: Hamza (11), Murad (14) and Sonia (17) on violin, and his father Akmal on tabla.
+		KhanStrings plays classical Indian-Pakistani music, with known Raags as "Bhairvi", "Yeman", "Bhopali", "Bageshwari", "Binishari", "Darbari", and semi-classic Bollywood songs.
 	</p>
 </div>
 

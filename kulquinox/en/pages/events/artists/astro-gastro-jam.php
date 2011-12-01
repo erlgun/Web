@@ -10,10 +10,10 @@ include '../../../inc/artist_menu.inc.php';
 					<div id="artist_text">
 						<img src="../../../../images/artists/astro_gastro_jam.jpg" alt="Bilde av Artistene i Astro Gastro Jam" height="200px" />
 						<p>
-							Dette blir en jam helt utenom det vanlige!
-							med Cosmic Wind, som er en av arrangørene for festivalen i spissen.
-							Denne jammen vil ta deg på en reise helt ut i universet.
-							Det kommer til å bli spilt på mange rarer ting, som man ikke trodde det var mulig å bruke i en bandsammenheng. dette Må sees.
+							This will be a jam out of the ordinary!
+							With Cosmic Wind, who is one of the organizers of the festival in the lead.
+							This jam will take you on a journey into the universe.
+							The band will play on many strange things, things you would not think it was possible to use in a band context. This is the MUST-SEE concert of the festival.
 						</p>
 					</div>
 					</div>

@@ -10,14 +10,14 @@ include '../../../inc/artist_menu.inc.php';
 						<div id="artist_text">
 							<img src="../../../../images/artists/haraldur.jpg" alt="Bilde av artisten Haraldur" height="200px" />
 							<p>
-								Haraldur Vignir Sveinbjörnsson går under artistnavnet Red Barnett.
-								Han begynte sin musikk karriere veldig tidlig, allerede som 8 åring startet han og spille inn musikk på kasetter.
+								Haraldur Vignir Sveinbjørnsson goes by the stage name Red Barnett.
+								He began his music career very early, already as an 8 year old boy he started to record music on cassettes.
 								
-								han store drøm var og bli en rockegitarist, og denne drømmen blei oppfylte i bandet Dead sea Apple som han startet i 1992. Dead sea Apple blei en av de største undergrunds rockebanda på island tidlig på 90-tallet.
-								Dead sea Apple har vært mere eller mindre dødt siden slutten av 90-tallet, men nå er de igjen med å produsere et nytt album.	
+								His dream was to become a rock guitarist, and this dream was fulfilled in the band Dead Sea Apple, which he started in 1992. Dead Sea Apple was one of the biggest underground rock bands on Iceland in the early 90s.
+								Dead Sea Apple has been more or less dead since the late 90s, but now they are rejoining to produce a new album.	
 							</p>
 							<p>
-								Haraldur besøker Kulquinox som soloartist, i en litt mindre rocka versjon. som soloartist spiller Haraldur myk rock inspirert av klassisk musikk.
+								Haraldur visits Kulquinox as a solo artist, in a slightly less rocking version. As a solo artist Haraldur plays soft rock inspired by classical music.
 							</p>
 						</div>
 					</div>

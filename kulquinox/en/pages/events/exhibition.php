@@ -6,8 +6,7 @@ include '../../inc/menu.inc.php';
 ?>
 					<h2>Exhibition</h2>
 					<p>
-						Dette er kunsten du får se på Kulquinox.
-					</p>
+						There are currently not any art ready for Kulquinox
 <?php
 include '../../inc/bottom.inc.php';
 ?>

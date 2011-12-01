@@ -10,10 +10,10 @@ include '../../../inc/artist_menu.inc.php';
                     	<div id="artist_text">
 							<img src="../../../../images/artists/bollywood_bhangra.jpg" alt="Bilde av Bollywod Bhangra" height="200px" />
 							<p>
-								Bollywood Bhangra er et band/dansegruppe fra India.
-								Bollywood Bhangra har modernisert og rocka opp folkedansen Bhangra.
-								på scene er det både dansere og et helt band.
-								dette sørger for at det virkelig kommer til å bli fart i rockefoten.
+								Bollywood Bhangra is a band / dance group from India.
+								Bollywood Bhangra has modernized and rocked up the indian folk dance Bhangra.
+								On the scene there are both dancers and a full band.
+								This ensures that there are really going to be a lively concert
 							</p>
 						</div>
 					</div>
