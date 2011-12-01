@@ -4,7 +4,7 @@
 switch ($current) {
 	case('Artists'):
 ?>
-		<li class="active button"><a href="../events/artister.php">ARTISTS</a></li>
+		<li class="active button"><a href="../events/artists.php">ARTISTS</a></li>
 		<li class="button"><a href="../events/film.php">FILM</a></li>
 		<li class="button"><a href="../events/theater.php">THEATER</a></li>
 		<li class="button"><a href="../events/exhibition.php">EXHIBITION</a></li>
@@ -13,7 +13,7 @@ switch ($current) {
 	break;
 	case('Film'):
 ?>
-		<li class="button"><a href="../events/artister.php">ARTISTS</a></li>
+		<li class="button"><a href="../events/artists.php">ARTISTS</a></li>
 		<li class="active button"><a href="../events/film.php">FILM</a></li>
 		<li class="button"><a href="../events/theater.php">THEATER</a></li>
 		<li class="button"><a href="../events/exhibition.php">EXHIBITION</a></li>
@@ -22,7 +22,7 @@ switch ($current) {
 	break;
 	case('Theater'):
 ?>
-		<li class="button"><a href="../events/artister.php">ARTISTS</a></li>
+		<li class="button"><a href="../events/artists.php">ARTISTS</a></li>
 		<li class="button"><a href="../events/film.php">FILM</a></li>
 		<li class="active button"><a href="../events/theater.php">THEATER</a></li>
 		<li class="button"><a href="../events/exhibition.php">EXHIBITION</a></li>
@@ -31,7 +31,7 @@ switch ($current) {
 	break;
 	case('Exhibition'):
 ?>
-		<li class="button"><a href="../events/artister.php">ARTISTS</a></li>
+		<li class="button"><a href="../events/artists.php">ARTISTS</a></li>
 		<li class="button"><a href="../events/film.php">FILM</a></li>
 		<li class="button"><a href="../events/theater.php">THEATER</a></li>
 		<li class="active button"><a href="../events/exhibition.php">EXHIBITION</a></li>
@@ -40,7 +40,7 @@ switch ($current) {
 	break;
 	case('Schedule'):
 ?>
-		<li class="button"><a href="../events/artister.php">ARTISTS</a></li>
+		<li class="button"><a href="../events/artists.php">ARTISTS</a></li>
 		<li class="button"><a href="../events/film.php">FILM</a></li>
 		<li class="button"><a href="../events/theater.php">THEATER</a></li>
 		<li class="button"><a href="../events/exhibition.php">EXHIBITION</a></li>
@@ -49,7 +49,7 @@ switch ($current) {
 	break;
 	default:
 ?>
-		<li class="button"><a href="./events/artister.php">ARTISTS</a></li>
+		<li class="button"><a href="./events/artists.php">ARTISTS</a></li>
 		<li class="button"><a href="./events/film.php">FILM</a></li>
 		<li class="button"><a href="./events/theater.php">THEATER</a></li>
 		<li class="button"><a href="./events/exhibition.php">EXHIBITION</a></li>

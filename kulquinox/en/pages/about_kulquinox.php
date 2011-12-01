@@ -10,7 +10,10 @@ include '../inc/menu.inc.php';
 					
 				</p>
 				<p>
-					Kulquinox ble en realitet etter at <a target="_blank" href="https://www.facebook.com/group.php?gid=20808940608">Cosmic Wind cultural collaboration</a> etablerte et kulturhus på Stabekk i 2007. Våren 2008 rigget vi til hus og hage for musikk, dans, lek, akrobatikk og inviterte alle kjente og kjære. Det som først var en stor fest bygget seg gradvis opp til å bli en festival der utøvere innenfor mange genre treffes. Kulquinox er ett av prosjektene vi har utviklet, det skjer to ganger årlig ved høst- og vårjevndøgn. <a href="contact.php">Kontakt oss</a> eller besøk oss ved neste kulturjevndøgn og finn hva vi driver med!
+					Kulquinox became a reality after <a target="_blank" href="https://www.facebook.com/group.php?gid=20808940608">Cosmic Wind cultural collaboration</a> established a Culture House at Stabekk in 2007. 
+					In spring 2008, we rigged the Culture House and garden for music, dance, games, acrobatics and invited all acquaintances and loved ones.
+					What first was one big party built up gradually to become a festival where performers in many genres meet. 
+					Kulquinox is one of the projects we have developed, it happens twice a year in autumn and spring equinox. <a href="contact.php">Contact us</a> or visit us at the next culture equinox and figure out what we do!
 				</p>
 <?php
 include '../inc/bottom.inc.php';

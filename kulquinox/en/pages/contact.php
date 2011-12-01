@@ -10,21 +10,21 @@ include '../inc/menu.inc.php';
 <div id="inner_content">
 	<h2>Contact Kulquinox by form</h2>
 	<form action="#top" method="post">
-		<label for="navn">Navn:</label><br />
+		<label for="navn">Name:</label><br />
 		<input type="text" name="name" id="navn" /><br />
-		<label for="telefonnummer">Tlf.nr.:</label><br />
+		<label for="telefonnummer">Phone.nr.:</label><br />
 		<input type="text" name="phone" id="telefonnummer" /><br />
-		<label for="e-post">E-postadresse:</label><br />
+		<label for="e-post">E-mail:</label><br />
 		<input type="text" name="email" id="e-post"/><br />
 		<label for="forespørsel">Hva gjelder din forespørsel?</label><br />
 		<select size="1" name="whatContact" id="forespørsel">
-			<option>Frivillig</option>
-			<option>Presse</option>
-			<option>Støtte</option>
+			<option>Volunteering</option>
+			<option>Press</option>
+			<option>Supporting</option>
 			<option>Booking</option>
-			<option>Annet</option>
+			<option>Other</option>
 		</select><br />
-		<label for="melding">Melding:</label><br />
+		<label for="melding">Message:</label><br />
 		<textarea cols=42 rows=5 name="message" id="melding"></textarea><br />
 		<input type="submit" value="Send inn" name="send">
 	</form>
@@ -38,10 +38,10 @@ $message		=	$_REQUEST['message'];
 
 if (isset($_REQUEST['send'])) {
 	if ((!$name) or (!$phone) or (!$email) or (!$whatContact) or (!$message)) {
-	die('<br />Du fylte ikke ut skjema fullstendig, vær så snill og gå tilbake og fyll ut igjen.');
+	die('<br />You did not fill out the form completely, please go back and fill out the form again.');
 	} else {
 		mail('nicolaig@broadpark.no', 'Kulquinox.no skjema angående '.$whatContact, "Henvendelse fra ".$name."\n Avsenders e-post: ".$email."\n Avsenders tlf.nr.: ".$phone."\n\n".$message);
-		echo 'Takk for at du tok kontakt med Kulquinox, vi vil svare deg så fort som mulig.';
+		echo 'Thank you for contacting Kulquinox, we will reply as soon as possible.';
 	}
 	
 }

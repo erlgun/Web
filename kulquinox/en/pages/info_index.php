@@ -5,54 +5,57 @@ include '../inc/top.inc.php';
 include '../inc/menu.inc.php';
 ?>
 
-				<h3>Kart og parkering</h3>
+				<h3>Maps and parking</h3>
 				<p>
 					<img src="http://maps.googleapis.com/maps/api/staticmap?&amp;center=59.890549,10.525014&amp;zoom=15&amp;size=400x400&amp;maptype=roadmap&amp;markers=color:0x7f8d53|59.890549,10.525014&amp;sensor=false" alt="kart som viser hvor festivalen holder til" />
 				</p>
 				<p>
-					Parkering
+					Parking
 				</p>
 				<a id="tickets"></a>
 				<h3>Tickets</h3>
 				<p>
-					Billetter kjøpes på forhånd gjennom <a target="_blank" href="https://www.baerumkulturhus.no">Bærum kulturhus</a>.
-					Budstikkakort og A-kort gir 25% rabatt
+					Tickets can be purchased in advance through <a target="_blank" href="https://www.baerumkulturhus.no">Bærum kulturhus</a>.
+					Budstikka card and A card gives 25% discount
 				</p>
 				<table class="prices">
 					<tr>
-						<th>Billettpriser:</th><th></th>		
+						<th>Ticket Prices:</th><th></th>		
 					</tr>
 					<tr>
-						<td>Ordinærpris</td><td>250kr</td>
+						<td>Ordinary Price</td><td>250 Norwegian kroner</td>
 					</tr>
 					<tr>
-						<td>Barn,studenter og honnør</td><td>100kr</td>
+						<td>Children, students and seniors</td><td>100 Norwegian kroner</td>
 					</tr>
 					<tr>
-						<td>Barn under 10 år</td><td>Gratis</td>
+						<td>Children under 10 years</td><td>Free</td>
 					</tr>						
 				</table>
-				<h3>Grasrotandelen</h3>
+				<h3>Grassroot share</h3>
 				<p>
-					Vil du gi din støtte til Cosmic Wind Cultural Collaborations(CWCC, org.nr. 991 534 474)?
+					Will you give your support to the Cosmic Wind Cultural Collaborations(CWCC, org.nr. 991 534 474)?
 				</p>
 				<p>
-					Grasrotandelen er en ordning fra Norsk Tipping, hvor du som registrert spiller kan velge ett lag eller én forening som du ønsker å støtte - din Grasrotmottaker. Vi oppfordrer deg til å støtte oss i Cosmic Wind Cultural Collaborations!
+					Grassroots share is an arrangement by the Norwegian National Lottery, where you as a registered player can choose one team or one club that you want to support - your grassroots receiver. We encourage you to support us in Cosmic Wind Cultural Collaborations!
 				</p>
 				<p>
-					Tenk deg at du kan spille favorittspillene dine - Lotto, Tipping og Joker for eksempel - og samtidig gi noe mer til det laget eller den foreningen du selv ønsker å støtte. Dette er nå mulig via Grasrotandelen. Ved spill hos Norsk Tipping vil 5 % av innsatsen gå direkte til ditt lag eller forening (gjelder ikke Extra og Flax). Merk at Grasrotandelen ikke på noen måte går ut over innsatsen eller premien din - du blir ikke belastet noe for å være grasrotgiver. Du trenger Norsk Tipping Spillerkort for å knytte deg til Grasrotandelen. Spillerkort får du kjøpt hos kommisjonær, eller du kan bestille det på <a target="_blank" href="https://www.Norsk-Tipping.no">www.norsk-tipping.no</a>.
+					Imagine that you can play your favorite games - Lotto, Tipping or Joker, for example - while providing something more to the team or the organization you wish to support.
+					This is now possible through grassroots share. When playing at the Norwegian Lottery, 5% of the bet go directly to your club or association (not including Extra and Flax).
+					Note that Grasrotandelen do not in any way affecting the bet or your prize - you will not be charged anything to be a grassroots donor.
+					You need the Norwegian Lottery Player Card to connect to grassroots share. Playing Cards are available from commissioner, or you can order it at <a target="_blank" href="https://www.Norsk-Tipping.no">www.norsk-tipping.no</a>.
 				</p>
 				<p>
-					Vi oppfordrer deg til å knytte deg til ordningen allerede i dag, og du gjør det på en av følgende måter:
+					We encourage you to connect to the system already, and you do it on one of the following ways:
 				</p>
 				<p>
-					1. Hos Kommisjonær: Ta med deg org.nr 991 534 474 og ditt spillerkort til en av Norsk Tippings mange kommisjonærer.
+					1. At the Commissioner: Bring org.nr 991 534 474 and your player card to one of the Norwegian Tipping many commissioners.
 				</p>
 				<p>
-					Mer informasjon finnes på <a target="_blank" href="https://www.norsk-tipping.no/grasrotandelen/">Grasrotandelen</a>
+					More information is available at <a target="_blank" href="https://www.norsk-tipping.no/grasrotandelen/">Grassroot share</a>
 				</p>
 				<p>
-					Takk for at du støtter oss via Grasrotandelen.
+					Thank you for supporting us through grassroots share.
 				</p>
 <?php
 include '../inc/bottom.inc.php';

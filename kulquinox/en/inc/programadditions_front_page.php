@@ -1,9 +1,9 @@
-					<h2>Siste bookinger:</h2>
-					<h3><a href="./pages/events/artister/kong_sverre.php">Kong Sverre</a></h3>
+					<h2>Last bookings:</h2>
+					<h3><a href="./pages/events/artists/kong_sverre.php">Kong Sverre</a></h3>
 					<p class="front_page">
-						Det er med stor glede at vi nok en gang kan skilte med Kulquinox' gamle traver Kong Sverre. Som alltid stiller han opp med sin elektroniske transeuropeiske popmusikk fritt for fuzzgitarer.
+						It is with great pleasure that we yet again can present Kulquinox' old trotter Kong Sverre. As ever, he'll play his electronic trans-European pop music - free from fuzz guitars.
 					</p>
-					<h3><a href="./pages/events/artister/lur.php">Lür</a></h3>
+					<h3><a href="./pages/events/artists/lur.php">Lür</a></h3>
 					<p class="front_page">
-						De gale svenskene Lür skuffer sjelden med sin transcendale psykedeliske syretripp av et show. Vi er stolte av å ha dem på vår festival, hele crewet gleder seg og det bør også du!
+						The crazy Swedes Lure rarely disappoints with their Transcendental psychedelic acid trip of a show. We are proud to have them at our festival, the whole crew is looking forward and it should be you!
 					</p>

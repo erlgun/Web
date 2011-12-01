@@ -6,7 +6,7 @@ include '../../inc/menu.inc.php';
 ?>
 <h2>Theater</h2>
 <p>
-	Det er for øyeblikket ikke satt opp teater for neste arrangement.
+	There are currently not any theaters set up for the next event.
 </p>
 <?php
 include '../../inc/bottom.inc.php';

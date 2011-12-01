@@ -7,7 +7,9 @@ include '../inc/menu.inc.php';
 ?>
 <h2>Julquinox</h2>
 <p>
-	Fredag 16. desember i anledning vintersolverv presenterer vi Julquinox med nye festligheter på Lille Scene i Brambanigården. Som vanlig blir det mat, artister og kulturelle innslag. I Backyard Cafe serveres dansk gryde. På hovedscenen blir det flere band og DJ utover natten. Feel free and bring your friends. Mer info følger!
+	Friday 16 December on the occasion of the winter solstice, we present Julquinox with new festivities at Lille Scene in Brambanigården. 
+	As usual there will be food, artists and cultural performances. The Backyard Cafe serves Danish stew. On the main stage there will be several bands and DJs throughout the night.
+	Feel free and bring your friends. More information to follow!
 </p>
 
 <?php

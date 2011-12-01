@@ -4,7 +4,7 @@
 		switch ($current) {
 			case('Artists'):
 		?>
-		<li class="active button"><a href="../events/artister">ARTISTS</a></li>
+		<li class="active button"><a href="../events/artists">ARTISTS</a></li>
 		<li class="button"><a href="../events/film">FILM</a></li>
 		<li class="button"><a href="../events/teater">THEATER</a></li>
 		<li class="button"><a href="../events/utstilling">EXHIBITION</a></li>
@@ -13,7 +13,7 @@
 			break;
 			case('Film'):
 		?>
-		<li class="button"><a href="../events/artister">ARTISTS</a></li>
+		<li class="button"><a href="../events/artists">ARTISTS</a></li>
 		<li class="active button"><a href="../events/film">FILM</a></li>
 		<li class="button"><a href="../events/teater">THEATER</a></li>
 		<li class="button"><a href="../events/utstilling">EXHIBITION</a></li>
@@ -22,7 +22,7 @@
 			break;
 			case('Theater'):
 		?>
-		<li class="button"><a href="../events/artister">ARTISTS</a></li>
+		<li class="button"><a href="../events/artists">ARTISTS</a></li>
 		<li class="button"><a href="../events/film">FILM</a></li>
 		<li class="active button"><a href="../events/teater">THEATER</a></li>
 		<li class="button"><a href="../events/utstilling">EXHIBITION</a></li>
@@ -31,7 +31,7 @@
 			break;
 			case('Exhibition'):
 		?>
-		<li class="button"><a href="../events/artister">ARTISTS</a></li>
+		<li class="button"><a href="../events/artists">ARTISTS</a></li>
 		<li class="button"><a href="../events/film">FILM</a></li>
 		<li class="button"><a href="../events/teater">THEATER</a></li>
 		<li class="active button"><a href="../events/utstilling">EXHIBITION</a></li>
@@ -40,7 +40,7 @@
 			break;
 			case('Schedule'):
 		?>
-		<li class="button"><a href="../events/artister">ARTISTS</a></li>
+		<li class="button"><a href="../events/artists">ARTISTS</a></li>
 		<li class="button"><a href="../events/film">FILM</a></li>
 		<li class="button"><a href="../events/teater">THEATER</a></li>
 		<li class="button"><a href="../events/utstilling">EXHIBITION</a></li>
@@ -49,7 +49,7 @@
 			break;
 			default:
 		?>
-		<li class="button"><a href="./events/artister">ARTISTS</a></li>
+		<li class="button"><a href="./events/artists">ARTISTS</a></li>
 		<li class="button"><a href="./events/film">FILM</a></li>
 		<li class="button"><a href="./events/teater">THEATER</a></li>
 		<li class="button"><a href="./events/utstilling">EXHIBITION</a></li>

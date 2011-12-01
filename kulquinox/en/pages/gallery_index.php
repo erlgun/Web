@@ -8,7 +8,7 @@ include '../inc/galleri_menu.inc.php';
 ?>
 
 				<p>
-					Dette er festivalens galleri.
+					This is the festival gallery.
 				</p>
 			</div> <!-- END OF #inner_content -->					
 

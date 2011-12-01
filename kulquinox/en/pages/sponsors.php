@@ -7,7 +7,7 @@ include '../inc/menu.inc.php';
 
 ?>
 			<div id="inner_content">
-						<h3>Vi takker våre sponsorer og samarbeidspartnere for god støtte!</h3>
+						<h3>We thank our sponsors and partners for great support!</h3>
 						<div class="image">
 							<a target="_blank" href="https://www.baerum.kommune.no/"><img src="../../images/sponsors/barumkommune.jpg" alt="Bærum Kommune" /></a>
 						</div>
