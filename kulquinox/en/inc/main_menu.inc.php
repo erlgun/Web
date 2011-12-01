@@ -4,7 +4,7 @@
 switch ($current) {
 	case('Events'):
 ?>
-						<li class="button active"><a href="../pages/program_index.php">EVENTS</a></li>
+						<li class="button active"><a href="../pages/events/artists_index.php">EVENTS</a></li>
 						<li class="button"><a href="../pages/about_kulquinox.php">ABOUT KULQUINOX</a></li>
 						<li class="button"><a href="../pages/gallery/autumn_2011.php">GALLERY</a></li>
 						<li class="button"><a href="../pages/info_index.php">INFORMATION</a></li>
@@ -12,7 +12,7 @@ switch ($current) {
 	break;
 	case('About Kulquinox'):
 ?>
-						<li class="button"><a href="../pages/program_index.php">EVENTS</a></li>
+						<li class="button"><a href="../pages/events/artists_index.php">EVENTS</a></li>
 						<li class="button active"><a href="../pages/about_kulquinox.php">ABOUT KULQUINOX</a></li>
 						<li class="button"><a href="../pages/gallery/autumn_2011.php">GALLERY</a></li>
 						<li class="button"><a href="../pages/info_index.php">INFORMATION</a></li>
@@ -21,14 +21,14 @@ switch ($current) {
 	case('Gallery'):
 		if ($folder == '2') {
 ?>
-						<li class="button"><a href="../../pages/program_index.php">EVENTS</a></li>
+						<li class="button"><a href="../../pages/events/artists_index.php">EVENTS</a></li>
 						<li class="button"><a href="../../pages/about_kulquinox.php">ABOUT KULQUINOX</a></li>
 						<li class="button active"><a href="../../pages/gallery/autumn_2011.php">GALLERY</a></li>
 						<li class="button"><a href="../../pages/info_index.php">INFORMATION</a></li>
 <?php
 	}	else {
 	?>
-						<li class="button"><a href="../pages/program_index.php">EVENTS</a></li>
+						<li class="button"><a href="../pages/events/artists_index.php">EVENTS</a></li>
 						<li class="button"><a href="../pages/about_kulquinox.php">ABOUT KULQUINOX</a></li>
 						<li class="button active"><a href="../pages/gallery/autumn_2011.php">GALLERY</a></li>
 						<li class="button"><a href="../pages/info_index.php">INFORMATION</a></li>
@@ -38,7 +38,7 @@ switch ($current) {
 	break;
 	case('Information'):
 ?>
-						<li class="button"><a href="../pages/program_index.php">EVENTS</a></li>
+						<li class="button"><a href="../pages/events/artists_index.php">EVENTS</a></li>
 						<li class="button"><a href="../pages/about_kulquinox.php">ABOUT KULQUINOX</a></li>
 						<li class="button"><a href="../pages/gallery/autumn_2011.php">GALLERY</a></li>
 						<li class="button active"><a href="../pages/info_index.php">INFORMATION</a></li>
@@ -47,14 +47,14 @@ switch ($current) {
 	case('Artists'):
 		if ($folder == '3') {
 ?>
-						<li class="button active"><a href="../../program_index.php">EVENTS</a></li>
+						<li class="button active"><a href="../../events/artists_index.php">EVENTS</a></li>
 						<li class="button"><a href="../../about_kulquinox.php">ABOUT KULQUINOX</a></li>
 						<li class="button"><a href="../../gallery/autumn_2011.php">GALLERY</a></li>
 						<li class="button"><a href="../../info_index.php">INFORMATION</a></li>
 <?php
 		} else {
 ?>
-						<li class="button active"><a href="../program_index.php">EVENTS</a></li>
+						<li class="button active"><a href="../events/artists_index.php">EVENTS</a></li>
 						<li class="button"><a href="../about_kulquinox.php">ABOUT KULQUINOX</a></li>
 						<li class="button"><a href="../gallery/autumn_2011.php">GALLERY</a></li>
 						<li class="button"><a href="../info_index.php">INFORMATION</a></li>
@@ -66,7 +66,7 @@ switch ($current) {
 	case('Exhibition'):
 	case('Schedule'):
 ?>
-						<li class="button active"><a href="../program_index.php">EVENTS</a></li>
+						<li class="button active"><a href="../events/artists_index.php">EVENTS</a></li>
 						<li class="button"><a href="../about_kulquinox.php">ABOUT KULQUINOX</a></li>
 						<li class="button"><a href="../gallery/autumn_2011.php">GALLERY</a></li>
 						<li class="button"><a href="../info_index.php">INFORMATION</a></li>
@@ -74,7 +74,7 @@ switch ($current) {
 	break;
 	case('Sitemap'):
 ?>
-						<li class="button"><a href="./program_index.php">EVENTS</a></li>
+						<li class="button"><a href="./events/artists_index.php">EVENTS</a></li>
 						<li class="button"><a href="./about_kulquinox.php">ABOUT KULQUINOX</a></li>
 						<li class="button"><a href="../pages/gallery/autumn_2011.php">GALLERY</a></li>
 						<li class="button"><a href="./info_index.php">INFORMATION</a></li>
@@ -82,7 +82,7 @@ switch ($current) {
 	break;
 	case('Sponsors'):
 ?>
-						<li class="button"><a href="./program_index.php">EVENTS</a></li>
+						<li class="button"><a href="./events/artists_index.php">EVENTS</a></li>
 						<li class="button"><a href="./about_kulquinox.php">ABOUT KULQUINOX</a></li>
 						<li class="button"><a href="../pages/gallery/autumn_2011.php">GALLERY</a></li>
 						<li class="button"><a href="./info_index.php">INFORMATION</a></li>						
@@ -90,7 +90,7 @@ switch ($current) {
 	break;
 	case('Contact'):
 ?>
-						<li class="button"><a href="./program_index.php">EVENTS</a></li>
+						<li class="button"><a href="./events/artists_index.php">EVENTS</a></li>
 						<li class="button"><a href="./about_kulquinox.php">ABOUT KULQUINOX</a></li>
 						<li class="button"><a href="./gallery/autumn_2011.php">GALLERY</a></li>
 						<li class="button"><a href="./info_index.php">INFORMATION</a></li>						
@@ -98,7 +98,7 @@ switch ($current) {
 	break;
 	default:
 ?>
-						<li class="button"><a href="./pages/program_index.php">EVENTS</a></li>
+						<li class="button"><a href="./pages/events/artists_index.php">EVENTS</a></li>
 						<li class="button"><a href="./pages/about_kulquinox.php">ABOUT KULQUINOX</a></li>
 						<li class="button"><a href="./pages/gallery/autumn_2011.php">GALLERY</a></li>
 						<li class="button"><a href="./pages/info_index.php">INFORMATION</a></li>

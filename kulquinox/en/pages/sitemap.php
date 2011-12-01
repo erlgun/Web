@@ -8,7 +8,7 @@ include '../inc/menu.inc.php';
 				<div id="sitemap">
 					<h3>Sitemap</h3>
 					<ul>
-						<li class="sitemap_links"><a href="program_index.php">Events</a>
+						<li class="sitemap_links"><a href="events/artists_index.php">Events</a>
 						<ul>
 							<li class="sitemap_links undermenu"><a href="events/artists_index.php">Artists</a></li>
 							<li class="sitemap_links undermenu"><a href="events/film.php">Film</a></li>
