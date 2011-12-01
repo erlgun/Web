@@ -66,7 +66,7 @@ switch ($current) {
 	case('Utstilling'):
 	case('Programmet'):
 ?>
-						<li class="button active"><a href="../plakaten.php">PÅ PLAKATEN</a></li>
+						<li class="button active"><a href="../plakaten/artister_index.php">PÅ PLAKATEN</a></li>
 						<li class="button"><a href="../om_kulquinox.php">OM KULQUINOX</a></li>
 						<li class="button"><a href="../galleri/host_2011.php">GALLERI</a></li>
 						<li class="button"><a href="../info.php">NYTTIG INFO</a></li>
@@ -74,7 +74,7 @@ switch ($current) {
 	break;
 	case('Sidekart'):
 ?>
-						<li class="button"><a href="./plakaten.php">PÅ PLAKATEN</a></li>
+						<li class="button"><a href="./plakaten/artister_index.php">PÅ PLAKATEN</a></li>
 						<li class="button"><a href="./om_kulquinox.php">OM KULQUINOX</a></li>
 						<li class="button"><a href="../pages/galleri/host_2011.php">GALLERI</a></li>
 						<li class="button"><a href="./info.php">NYTTIG INFO</a></li>

@@ -18,16 +18,17 @@ include '../inc/menu.inc.php';
 				<p>
 					Tickets can be purchased in advance through <a target="_blank" href="https://www.baerumkulturhus.no">Bærum kulturhus</a>.
 					Budstikka card and A card gives 25% discount
+					If the festival is sold out in advance, there will be a limited number of tickets available at the festival.
 				</p>
 				<table class="prices">
 					<tr>
-						<th>Ticket Prices:</th><th></th>		
+						<th>Type:</th><th>Prices:</th>		
 					</tr>
 					<tr>
-						<td>Ordinary Price</td><td>250 Norwegian kroner</td>
+						<td>Ordinary Price</td><td>250 Nok</td>
 					</tr>
 					<tr>
-						<td>Children, students and seniors</td><td>100 Norwegian kroner</td>
+						<td>Children, students and seniors</td><td>100 Nok</td>
 					</tr>
 					<tr>
 						<td>Children under 10 years</td><td>Free</td>
