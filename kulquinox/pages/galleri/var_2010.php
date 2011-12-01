@@ -20,7 +20,7 @@ include '../../inc/galleri_menu.inc.php';
 							<a target="_blank" href="../../images/gallery/bilde9.jpg"><img src="../../images/gallery/bilde9small.jpg" alt="Konsertbilde" /></a>
 						</div>
 						<div class="image">
-							<a target="_blank" href="../../images/gallery/bilde10.jpg"><img src="../../images/gallery/bilde10small.jpg" alt="Bilde av en av uststilling på Kulquinox" /></a>
+							<a target="_blank" href="../../images/gallery/bilde10.jpg"><img src="../../images/gallery/bilde10small.jpg" alt="Bilde av en utstilling på Kulquinox" /></a>
 						</div>
 					<div class="image_copyright">
 					<p>
