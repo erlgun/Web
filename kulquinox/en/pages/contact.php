@@ -4,9 +4,23 @@ $folder = '1';
 include '../inc/top.inc.php';
 include '../inc/menu.inc.php';
 ?>
+
 <div id="sidebar">
 
+	<lh>
+	Email:
+	</lh>
+	<li>
+	festival@cosmicwind.org
+	</li>	
+	<lh>
+	Phone number:
+	</lh>
+	<li>
+	0047 400 48 413
+	</li>	
 </div>
+
 <div id="inner_content">
 	<h2>Contact Kulquinox by form</h2>
 	<form action="#top" method="post">

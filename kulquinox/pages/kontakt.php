@@ -6,6 +6,18 @@ include '../inc/menu.inc.php';
 ?>
 <div id="sidebar">
 
+	<lh>
+	Epost:
+	</lh>
+	<li>
+	festival@cosmicwind.org
+	</li>	
+	<lh>
+	Tlf: 
+	</lh>
+	<li>
+	0047 400 48 413
+	</li>
 </div>
 <div id="inner_content">
 	<h2>Kontakt Kulquinox via skjema</h2>

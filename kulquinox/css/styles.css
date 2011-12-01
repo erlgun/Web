@@ -158,6 +158,19 @@ div.event_stub {
 	
 }
 
+#sidebar {
+	float: left;
+	width:18%;
+	padding: 6px;
+
+	
+}
+
+#sidebar li {
+	padding: 2px 2px;
+	list-style-type: none;
+}
+
 #inner_content {
 	float:left;
 	width: 75%;
@@ -304,6 +317,11 @@ p {
 table.prices {
 	font-family: "Century Gothic", "Trebuchet MS", arial, sans-serif;
 	padding-left: 24px;
+}
+
+#sidebar li, lh {
+	font-family: "Century Gothic", "Trebuchet MS", arial, sans-serif;
+	letter-spacing: 0.05em;
 }
 
 #content p {
