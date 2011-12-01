@@ -5,12 +5,13 @@ include '../inc/top.inc.php';
 include '../inc/menu.inc.php';
 ?>
 
-				<h3>Maps and parking</h3>
+				<h3>Location</h3>
 				<p>
-					<img src="http://maps.googleapis.com/maps/api/staticmap?&amp;center=59.890549,10.525014&amp;zoom=15&amp;size=400x400&amp;maptype=roadmap&amp;markers=color:0x7f8d53|59.890549,10.525014&amp;sensor=false" alt="map showing where the festival is set" />
+					The festival is located in Brambanigården (marked on the map), Kinoveien 2, 1337 Sandvika. Travellers by public transport is recommended to take the train or bus to Sandvika station.
+					From there it will be 200-meter walk down Rådmann Halmrasts vei (gågate) to Brambanigården.
 				</p>
 				<p>
-					Parking
+					<img src="http://maps.googleapis.com/maps/api/staticmap?&amp;center=59.890549,10.525014&amp;zoom=15&amp;size=400x400&amp;maptype=roadmap&amp;markers=color:0x7f8d53|59.890549,10.525014&amp;sensor=false" alt="map showing where the festival is set" />
 				</p>
 				<a id="tickets"></a>
 				<h3>Tickets</h3>
