@@ -248,10 +248,12 @@ td.column-3{
 }
 table.indextable{
 	background-color: #DFEBF2;
-	
 }
 table.risiko{
 	width: 50%;
+}
+table.report_menu {
+	background-color: #DFEBF2;
 }
 
 /* BOKSER ./gruppemedlemmer.html */
