@@ -11,7 +11,7 @@ include '../../../inc/artist_menu.inc.php';
 							<img src="../../../images/artists/tuva_tariq.jpg" alt="Bilde av artisten Tuva og Tariq"  />
 							<p>
 								Tuva Syvertsen og Jan Tariq Rui-Rahman eller bedre kjent som Tuva & Tariq byr på rolig og akustisk folkemusikk.
-								Det spilles både på gitar, fele og munspill.
+								Det spilles både på gitar, fele og munnspill.
 								Tuva & Tariq er kjent fra bandene Valkyrian Allstars og WE.
 								De har holdt på siden 2010 og neste år slipper de sin første cd.
 							</p>

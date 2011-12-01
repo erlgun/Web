@@ -19,7 +19,7 @@ include '../../../inc/artist_menu.inc.php';
 							Han skjønte aldri hva som var så stas med fuzzgitarer, og etter å ha fått musikerbagasje fra Folk &amp; Røvere, chilensk danseband, Penthouse Playboys og Snuten begynte han lage noe som lignet på den første popmusikken han hørte.
 						</p>
 						<p>
-							KongSverre har tidligere gitt ut to album, Natur og Jazzelektro på sin egen label Roger Sunshine Records. Fugl (Beatservice 2009) er det siste skuddet på stammen, som så langt har møtt en kollektiv kald skulder fra den landsdekkende pressen. Det har visst skjedd med Jan Guillou flere ganger også, så det gir ingen grunn til bekymring.
+							Kong Sverre har tidligere gitt ut to album, Natur og Jazzelektro på sin egen label Roger Sunshine Records. Fugl (Beatservice 2009) er det siste skuddet på stammen, som så langt har møtt en kollektiv kald skulder fra den landsdekkende pressen. Det har visst skjedd med Jan Guillou flere ganger også, så det gir ingen grunn til bekymring.
 						</p>
 					    <p>
 							Selv for en konge kan det være vanskelig å bestemme seg, så plata inneholder både norske og engelske tekster, poplåter side om side med mer dronende lydlandskap, både kvinnefiendtlige og kvinnevennlige temaer, samt gode rim og nødrim fra kongens hånd.
