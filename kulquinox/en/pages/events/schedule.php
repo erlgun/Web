@@ -5,7 +5,7 @@ include '../../inc/top.inc.php';
 include '../../inc/menu.inc.php';
 ?>
 <h2>Schedule</h2>
-<h3>23 March</h3>
+<h3>March 23</h3>
 		<table class = "schedule">
 				
 				<tr>
@@ -40,7 +40,7 @@ include '../../inc/menu.inc.php';
 				</tr>	
 
 		</table>
-<h3>24 March</h3>
+<h3>March 24</h3>
 
 		<table class = "schedule">
 				
