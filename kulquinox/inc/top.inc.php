@@ -59,7 +59,7 @@ switch($folder) {
 	}
 	?></h1>
 				<ul>
-					<li>Neste Kulquinox:</li>
+					<li>Neste festival:</li>
 					<li>23.-24. mars</li>
 				</ul>
 				</div>
