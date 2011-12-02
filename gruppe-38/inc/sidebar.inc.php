@@ -12,6 +12,6 @@ $active[$current] = ' active';
 						<a href=".<?php if($current=='Forsiden'){echo '/pages';}else{echo '';} ?>/gruppemedlemmer.php" class="constantlink <?php echo $active[Gruppemedlemmer] ?>">Gruppemedlemmer</a>
 						<a href=".<?php if($current=='Forsiden'){echo '/pages';}else{echo '';} ?>/midtveisrapport.php" class="constantlink <?php echo $active[Midtveisrapport] ?>">Midtveisrapport</a>
 						<a href=".<?php if($current=='Forsiden'){echo '/pages';}else{echo '';} ?>/sluttrapport.php" class="constantlink <?php echo $active[Sluttrapport] ?>">Sluttrapport</a>
-						<a href="http://student.iu.hio.no/~s180339/kulquinox/" class="constantlink <?php echo $active[Produktsiden] ?>">Produktsiden</a>
+						<a href="http://www.stud.hio.no/~s180339/kulquinox/" class="constantlink <?php echo $active[Produktsiden] ?>">Produktsiden</a>
 						</div>
 					<div id="content">
