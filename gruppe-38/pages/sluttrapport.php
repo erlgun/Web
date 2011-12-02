@@ -370,14 +370,14 @@ Produktsiden har blitt programmert i HTML, CSS og php. For å sikre at produktsid
 <p>
 Der de største div-elementer avsluttes i HTML er det lagt inn kommentar om hvilket div-element som ble avsluttet. Dette har gjort det enklere å forandre den logiske plasseringen av elementene og gjort større endringer i kildekoden håndterbart. For eksempel var plasseringen av #footer noe som ble forandret underveis. Denne kommenteringen viste seg svært nyttig under utviklingen av koden.
 </p>
-<img src="../images/kode2.png" alt="Kodesnutt i php" />
+<img src="../images/kode2.png" alt="Kommentar i HTML" />
 <p>
 Under slutten av prosjektet ble det laget en engelsk versjon av siden. Denne ble lagt til mappen ./en.  Stilark lot vi være i ./css og alle bilder være i ./images. Dette har også vært et av tiltakene som gjør videre utvikling og arbeid med siden håndterbar og effektiv.
 </p>
 <p>
 Stilarket ble etterhvert delt opp etter forskjellig typer stiling. Slik kan man lette finne frem til, forandre på, og justere fonter, farger og visuell plassering av elementer. Å finne frem til forskjellige klasser og id-er kan selvfølgelig gjøres med cmd+F (ctrl+F i Windows og Linux), men å samle inn stilingen under forskjellige kategorier gjør prøving og feiling mer effektivt. Spesielt under valg av fonter og farger har dette vært en god metode å jobbe på.
 </p>
-<img src="../images/kode3.png" alt="Kodesnutt i php" />
+<img src="../images/kode3.png" alt="Kommentar i CSS" />
 
 <a id="Metode"></a>
 <h4>2.2.3 Valgt "metode" i prosjektet</h4>
@@ -780,6 +780,12 @@ Om fonter
 Den gamle kulquinox.no siden.
 Den finnes under ressurser i zip filen
 </p>
+
+<h5>Sluttrapporten som pdf</h5>
+<p>
+	Sluttrapporten kan også lastes ned som .pdf-dokument. <a href="../docs/sluttrapport_endelig_versjon.pdf">Sluttrapport PDF</a>.
+</p>
+
 <?php
 include '../inc/footer.inc.php';
 ?>
