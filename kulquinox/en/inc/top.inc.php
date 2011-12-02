@@ -4,7 +4,7 @@
 		<title>Kulquinox - <?php echo $current; ?></title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8">
 		<meta name="description" content="Kulquinox is a cultural festival in Sandvika,Norway.">
-		<meta name="keywords" content="kulquinox, cosmic wind, cultural collaborations, festival sandvika, equinox, kulquinox english , culture bærum, culture festival sandvika"
+		<meta name="keywords" content="kulquinox, cosmic wind, cultural collaborations, festival sandvika, equinox, kulquinox english , culture bærum, culture festival sandvika">
 <?php
 # THIS SECTION CHOOSES RELATIVE URL OF styles.css
 switch($folder) {
