@@ -3,7 +3,6 @@
 	This stylesheet is written by Gruppe 38 Webprosjekt @ HiOA, autumn 2011.
 */
 
-
 /* MAIN ELEMENT STYLING */
 /* 
 	This section contains general styling of main elements, div elements and classes.
@@ -272,11 +271,101 @@ div.imagelarge {
 }
 
 
+/*  COLORS */
+/*
+All colors here, except link colors. Go to section LINK STYLING for link colors.
+
+Colors in use (first main colors, then complementaries):
+
+Black:		#1e1e1e
+Brown:		#41342d
+Green:		#7f8d53
+Yellow:		#f5cd72
+Khaki:		#ccc1a3
+
+Blue:		#0A328D (c. from yellow)
+Dark blue: 	#333E5C (c. from khaki)
+
+*/
+
+body {
+	background-color: #f5cd72;
+}
+
+#header {
+	border: 2px solid #1e1e1e;
+	background-color: #41342d;
+}
+#header_menu {
+	background-color: #7f8d53;
+	border-left: 2px dotted #00111c;
+}
+
+#header_banner ul {
+	color:#f5cd72;
+}
+
+#menu {
+	border: 2px solid #1e1e1e;
+	background-color: #7f8d53;
+}
+
+#under_menu {
+	background-color: #CCC1A3;
+	border-top: 2px solid #41342d;
+}
+
+#content {
+	background-color: #ccc1a3;
+	color: #1e1e1e;
+	border: 2px solid #1e1e1e;
+}
+
+#sidebar_menu {
+	background-color: #7f8d53;
+}
+
+#footer {
+	background-color: #41342d;
+	color: #f5cd72;
+	border: 2px solid #1e1e1e;
+}
+
+li.facebook {
+	background-color: #3b5998;
+	padding: 3px;
+}
+
+li.twitter {
+	background-color: #0084B4;
+	padding: 3px;
+}
+
+li.tickets {
+	background-color: #ccc1a3;
+	border: solid red;
+	padding: 3px;
+}
+
+li.header_menu_items {
+	padding: 3px;
+}
+
+li.button {
+	background-color: #41342d;
+}
+
+li.active {
+	background-color: #1e1e1e;
+}
+
+
 /* TYPOGRAPHY */
 /*
 	This section contains:
-	* All fonts.
+	* All fonts
 	* Styling of <h*>-tags, <p>-tags and <ul>-tags.
+	* Ticket prices table
 */
 
 html, body {
@@ -692,93 +781,4 @@ div.event_stub a:active {
 #to_top a:active {
 	color: #f5cd72;
 	text-decoration: underline;
-}
-
-
-/*  COLORS */
-/*
-All colors here, except link colors. Go to section LINK STYLING for link colors.
-
-Colors in use (first main colors, then complementaries):
-
-Black:		#1e1e1e
-Brown:		#41342d
-Green:		#7f8d53
-Yellow:		#f5cd72
-Khaki:		#ccc1a3
-
-Blue:		#0A328D (c. from yellow)
-Dark blue: 	#333E5C (c. from khaki)
-
-*/
-
-body {
-	background-color: #f5cd72;
-}
-
-#header {
-	border: 2px solid #1e1e1e;
-	background-color: #41342d;
-}
-#header_menu {
-	background-color: #7f8d53;
-	border-left: 2px dotted #00111c;
-}
-
-#header_banner ul {
-	color:#f5cd72;
-}
-
-#menu {
-	border: 2px solid #1e1e1e;
-	background-color: #7f8d53;
-}
-
-#under_menu {
-	background-color: #CCC1A3;
-	border-top: 2px solid #41342d;
-}
-
-#content {
-	background-color: #ccc1a3;
-	color: #1e1e1e;
-	border: 2px solid #1e1e1e;
-}
-
-#sidebar_menu {
-	background-color: #7f8d53;
-}
-
-#footer {
-	background-color: #41342d;
-	color: #f5cd72;
-	border: 2px solid #1e1e1e;
-}
-
-li.facebook {
-	background-color: #3b5998;
-	padding: 3px;
-}
-
-li.twitter {
-	background-color: #0084B4;
-	padding: 3px;
-}
-
-li.tickets {
-	background-color: #ccc1a3;
-	border: solid red;
-	padding: 3px;
-}
-
-li.header_menu_items {
-	padding: 3px;
-}
-
-li.button {
-	background-color: #41342d;
-}
-
-li.active {
-	background-color: #1e1e1e;
 }
