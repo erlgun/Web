@@ -107,7 +107,7 @@ include '../inc/sidebar.inc.php';
 	</tr>	
 
 	<tr>	
-		<td>2.3.5</td><td><a href="#WKAG">WKAG</a></td>		
+		<td>2.3.5</td><td><a href="#WCAG">WCAG</a></td>		
 	</tr>	
 	
 	<tr>
@@ -163,7 +163,7 @@ include '../inc/sidebar.inc.php';
 	</tr>
 	
 	<tr>	
-		<td>3.2</td><td><a href="#Tiltak_videre_arbeid">Forslag til tiltak eller videre arbeid</a></td>		
+		<td>3.2</td><td><a href="#Tiltak_videre_arbeid">Forslag til tiltak og videre arbeid</a></td>		
 	</tr>
 
 	<tr>
@@ -237,7 +237,7 @@ Når det gjelder arbeidet har vi spilt på hverandres styrker og hjulpet hverandre
 Innleveringen er den konseptuelle versjonen av nettsiden og noe av informasjonen vil være fiktiv. Programmet er tatt fra forrige festival og er ment for å illustrere hvordan programmet vil ta seg ut til vårens festival. Informasjon om nye artister o.l.  er for øyeblikket ikke klart. Når det gjelder galleriet har vi ikke fått bilder fra alle tidligere festivaler, så bildene i galleriet er ikke nødvendigvis representativ for det gitte året.
 </p>
 <p>
-Kulquinox.no og websiden vi har levert vil ha noen forskjeller. Den nye www.kulquinox.no vil bli en enklere versjon inntil vårens program er klart.
+<a href="www.Kulquinox.no">Kulquinox.no</a> og websiden vi har levert vil ha noen forskjeller. Den nye <a href="www.Kulquinox.no">www.Kulquinox.no</a> vil bli en enklere versjon inntil vårens program er klart.
 </p>
 <p>
 På siden vi leverer har vi kommentert ut nøkkelordstaggen, for å ikke konkurrere med den kommende www.kulquinox.no med hensyn til søkemotorer.
@@ -245,7 +245,7 @@ På siden vi leverer har vi kommentert ut nøkkelordstaggen, for å ikke konkurrere
 <a id="Sammendrag"></a>
 <h4>1.3 Sammendrag</h4>
 <p>
-Vi har i samarbeid laget siden http://www.kulquinox.no/ ved bruk av HTML, CSS og PHP. Brukervennlighet og et estetisk design har vært i høysetet. 
+Vi har i samarbeid laget siden <a href="http://student.iu.hio.no/~s180339/kulquinox/">Kulquinox.no</a> ved bruk av HTML, CSS og PHP. Brukervennlighet og et estetisk design har vært i høysetet. 
 </p>
 <p>
 Websiden validerer i HTML5 og CSS 2.1, den følger også WCAG AA standarden.
@@ -276,11 +276,11 @@ Nicolai har tidligere vært frivillig hos Kulquinox har sett et behov for en ny s
 <p>
 Link backs, vi har registret/sendt søknad hos:
 
-www.startsiden.no
-www.allesider.no
-www.facebook.com
-www.twitter.com
-www.festivalnorge.no
+<a href="www.Kulquinox.no">www.startsiden.no</a>
+<a href="www.Kulquinox.no">www.allesider.no</a>
+<a href="www.Kulquinox.no">www.facebook.com</a>
+<a href="www.Kulquinox.no">www.twitter.com</a>
+<a href="www.Kulquinox.no">www.festivalnorge.no</a>
 
 Vi nevner dette fordi det ikke er synlig på websiden.
 
@@ -292,7 +292,7 @@ Vi nevner dette fordi det ikke er synlig på websiden.
 Kulquinox sine gamle nettsider er vanskelig å søke opp på Google og harmonerer dårlig med dagens standarder og forventninger for hva en informasjonsside skal tilby. Dette er et uutnyttet potensiale for festivalens markedsføring. Websiden mangler dessuten universell utforming, som igjen utelukker grupper med nedsatte funksjonsevner å finne relevant informasjon om arrangementet. Festivalen har også hatt få besøkende.
 </p>
 <a id="Motivasjon_for_prosjektet"></a>
-<h4>2.1.2 Motivasjon fo prosjektet</h4>
+<h4>2.1.2 Motivasjon for prosjektet</h4>
 <p>
 Nicolai har som frivillig i Kulquinox kjennskap til festivalen. Kulquinox trenger en ny side for å spre sitt glade budskap. Alle av oss synes det var bedre å lage en ekte produktside istedenfor en fiktiv. Det er også et ekstra press i  å lage en reell produktside for andre, da det stiller helt andre krav. 
 </p>
@@ -485,8 +485,8 @@ Fordi det gjennom hele prosjektet har blitt fokusert på god lesbarhet er det val
 <p>
 Siden benytter flere menyvalg, derfor er menyen tydeliggjort ved hjelp av store knapper som forandrer farge når man trykker på dem. Slik indikerer de hvor på siden man befinner seg og fungerer som en brødsmulesti. Undermenyen er også skilt fra hovedmenyen ved å bruke en annen farge som bakgrunn(fig. 10), men beholdt fargene fra hovedmenyknappene. Fordi vi har vært konsekvent på valg av faste farger har det ikke gått på kompromiss med den estetiske profilen.
 </p>
-<a id="WKAG"></a>
-<h4>2.3.5 WKAG</h4>
+<a id="WCAG"></a>
+<h4>2.3.5 WCAG</h4>
 <p>
 <p>
 Når disse retningslinjene blir fulgt, blir websiden mer tilgjengelig for personer med nedsatt funksjonsevne, som blant annet svaksynte, døve eller hørselhemmede samt personer med lese- og skrivevansker.
@@ -629,7 +629,7 @@ Det er vanskelig å si hvor godt resultatet er før artistsidene til vårens festiv
 </p>
 
 <a id="Tiltak_videre_arbeid"></a>
-<h4>3.2 Forslag til tiltak eller videre arbeid</h4>
+<h4>3.2 Forslag til tiltak og videre arbeid</h4>
 <p>
 Kulquinox ønsker at vi skal fortsette å drifte websiden etter prosjektslutt, det har vi sagt oss villig til å gjøre. På den annen side er det også nå det begynner, fordi utviklingen av siden har vært å lage et solid fundament å bygge videre på.
 </p>
@@ -658,7 +658,7 @@ Under menyene film, teater og utstilling, vil vi bruke samme system som er blitt
 <a id="Styringsdokumenter"></a>
 <h4>4.1.1 Styringsdokumenter</h4>
 <p>
-http://student.iu.hio.no/~s180339/Webprosjekt/gruppe-38/
+<a href="http://student.iu.hio.no/~s180339/Webprosjekt/gruppe-38/">http://student.iu.hio.no/~s180339/Webprosjekt/gruppe-38/</a>
 </p>
 
 <a id="Kildekode"></a>
@@ -673,10 +673,10 @@ http://student.iu.hio.no/~s180339/Webprosjekt/gruppe-38/
 Git: Vi har ikke brukt Git konsekvent gjennom hele prosjektet og den som har sendt inn commits har ikke nødvendigvis gjort arbeidet bak.
 </p>
 <p>
-https://github.com/erWulf/Web (link til vår repository)
+<a href="https://github.com/erWulf/Web ">https://github.com/erWulf/Web</a> (Link til vårt repository) 
 </p>
 <p>
-git://github.com/erWulf/Web.git (Link til read only access av repository.)
+git://github.com/erWulf/Web.git (Link til read only access av vårt repository.)
 </p>
 
 <a id="Kildehenvisninger"></a>
@@ -699,7 +699,7 @@ Webprogrammering i PHP av Svend Andreas Horgen
 <h4>4.2.2 Websider</h4>
 <p>
 Googles starter guide for søkemotoroptimalisering: 
-http://static.googleusercontent.com/external_content/untrusted_dlcp/www.google.com/no//webmasters/docs/search-engine-optimization-starter-guide.pdf
+<a href="http://static.googleusercontent.com/external_content/untrusted_dlcp/www.google.com/no//webmasters/docs/search-engine-optimization-starter-guide.pdf">http://static.googleusercontent.com/external_content/untrusted_dlcp/www.google.com/no//webmasters/docs/search-engine-optimization-starter-guide.pdf</a>
 
 </p>
 <?php
