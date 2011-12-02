@@ -282,6 +282,7 @@ Nicolai har tidligere vært frivillig hos Kulquinox har sett et behov for en ny s
 </p>
 <p>
 Link backs, vi har registret/sendt søknad hos:
+</p>
 <ul>
  <li><a href="http://www.startsiden.no">www.startsiden.no</a></li>
  <li><a href="http://www.allesider.no">www.allesider.no</a></li>
@@ -289,10 +290,8 @@ Link backs, vi har registret/sendt søknad hos:
  <li><a href="http://www.twitter.com">www.twitter.com</a></li>
  <li><a href="http://www.festivalnorge.no">www.festivalnorge.no</a></li>
 </ul>
-
+<p>
 Vi nevner dette fordi det ikke er synlig på websiden.
-
-
 </p>
 <a id="Problemformulering"></a>
 <h4>2.1.1 Problemformulering</h4>
@@ -446,7 +445,7 @@ Fjerdeutkast (Prototype, fig. 5):
 </p>
 <img src="../images/fignr5_prototype2_mindre.jpg" alt="Andre prototype av siden" />
 <p>
-Her er fargene svart og gult valgt, som har veldig god kontrast. Headeren er i grafikk, men er også en <h> tag.
+Her er fargene svart og gult valgt, som har veldig god kontrast. Headeren er i grafikk, men er også en h tag.
 </p>
 <p>
 Det endelige produktet (fig. 6):
@@ -457,6 +456,7 @@ Det endelige produktet har videreført idéene fra tidligere skisser og prototyper
 </p>
 <p>
 Sidekart:
+</p>
 <ul>
  <li>På Plakaten</li> 
  <li>Artister</li> 
@@ -470,7 +470,7 @@ Sidekart:
  <li>Kontakt</li> 
  <li>Sidekart</li> 
 </ul>
-</p>
+
 
 
 <a id="Beskrivelse_funskjonalitet"></a>
@@ -491,7 +491,7 @@ Siden er skalerbar ned til 800x600 oppløsning, dermed fungerer den på de fleste 
 Engelsk oversettelse
 </p>
 <p>
-Hele siden er oversatt til engelsk etter forespørsel fra Kulquinox. Dagens festivaler skal nå ut til ett så bredt publikum som mulig, derfor er det nødvendig å tilby et internasjonalt alternativ. For å gjøre søking lettest mulig for internasjonale brukere har vi satt <html lang="en">, laget egne søkeord for engelsk, og oversatte alle sidenavn og mapper.
+Hele siden er oversatt til engelsk etter forespørsel fra Kulquinox. Dagens festivaler skal nå ut til ett så bredt publikum som mulig, derfor er det nødvendig å tilby et internasjonalt alternativ. For å gjøre søking lettest mulig for internasjonale brukere har vi satt html lang="en", laget egne søkeord for engelsk, og oversatte alle sidenavn og mapper.
 </p>
 <p>
 Det er også foretatt et bevisst valgt å ikke legge dobbelt med stilark og bilder. Dette gjør siden mer håndterbar på utviklingssiden og er plassbesparende.
@@ -598,7 +598,7 @@ Produktmål:
 	<li>Lage en løsning for å sende inn spørsmål til festivalen via skjema</li>
 	<li>Informasjon for gjester med handicap</li>
 </ul>
-</p>
+
 <p>
 Når det gjelder produktmålene våre har vi oppfylt de fleste, men ikke all informasjon er på plass fra Kulquinox.
 </p>
