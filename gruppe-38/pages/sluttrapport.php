@@ -224,7 +224,7 @@ include '../inc/sidebar.inc.php';
 
 </table>
 <a id="Innledning"></a>
-<h4>1. Innledning</h4>
+<h3>1. Innledning</h3>
 
 <a id="Forside"></a>
 <h4>1.1 Forside</h4>
@@ -267,7 +267,7 @@ Websiden støtter tekst til tale programmer og tekstbaserte nettlesere f.eks. Lyn
 Under utviklingen av nettsiden hadde vi flere prototyper av websiden, og sirklet oss til slutt inn på det resultatet som vi var ute etter. Vi synes at samarbeidet har gått bra, og er godt fornøyd med resultatet.
 </p>
 <a id="Hoveddel"></a>
-<h4>2. Hoveddel</h4>
+<h3>2. Hoveddel</h3>
 
 <a id="Innledning_til_hoveddel"></a>
 <h4>2.1 Innledning til hoveddel</h4>
@@ -503,9 +503,7 @@ For å gi siden en klar profil, ble det gått gjennom grafisk materiale fra den ti
 Underveis ble "Kulquinox"-logoen fra festivalkartet brukt, men på grunn av den lave oppløsning på det tilsendte materiale ble logoen for kornete. Vi måtte dessuten legge "usynlig" tekst bak grafikken for å oppnå leselighet med screenreaders/Lynx. Isteden ble det valgt grafiske elementer gruppen likte (merk: elementene i rødt kommer fra den høyest oppløste versjonen, som ble tilsendt etter forespørsel til Øyvind Aamodt). Deretter brukte vi de valgte grafiske elementene som bakgrunn i headeren (fig. 8). Slik ble det lett å tilpasse headeren med resten av innholdet på siden.
 </p>
 <img src="../images/fignr8_kulqheader_mindre.jpg" alt="Header til endelige siden" />
-<p>
-Fargevalg
-</p>
+<h5>Fargevalg</h5>
 <p>
 For å beholde gjenkjennelsesfaktoren har vi brukt fargene gul og grønt, som Kulquinox har hatt tidligere (fig. 9), men passet på å ikke legge dem i direkte kombinasjon der det er tekst. Dette har vi løst ved å implementere en mørk brunfarge. Kontrasten på gult og brunt i headeren tilfredsstiller WCAG 2.0 AAA.
 </p>
@@ -513,9 +511,7 @@ For å beholde gjenkjennelsesfaktoren har vi brukt fargene gul og grønt, som Kulq
 <p>
 Det ble valgt nærmest sort tone for brødtekst, her med en svak sandfarget bakgrunn. Det har vært viktig at vi bruker fargene konsekvent, bl.a. har vi hatt brunt i header og footer, med den samme gulfargen i teksten. Dette gir en klar grafisk profil. På lenker er det brukt komplementærfarger av henholdsvis gult og sandfargen. For å komme frem til gode fargekombinasjoner verktøyet Adobe Kuler benyttet (kuler.adobe.com).
 </p>
-<p>
-Fontvalg
-</p>
+<h5>Fontvalg</h5>
 <p>
 Fordi det gjennom hele prosjektet har blitt fokusert på god lesbarhet er det valgt sans-serif-fonter for hele siden. Det ble gjort forsøk med serif-fonter i underoverskrifter, men sans-serif-fonter gjør det enklere å holde en konsis, ryddig, lettlest og estetisk profil. Sans-serif gir også bedre lesbarhet for skjerm, derfor falt valget lett på en slik font.
 </p>
@@ -606,7 +602,7 @@ Etter vår mening er koden godt strukturert, dette vil gjøre utviklerjobben sener
 Styret i Kulquinox er fornøyd med det resultatet vi har kommer til.
 </p>
 <a id="Avslutningsdel"></a>
-<h4>3. Avslutningsdel</h4>
+<h3>3. Avslutningsdel</h3>
 
 <a id="Oppsummering"></a>
 <h4>3.1 Oppsummering av arbeidet:</h4>
@@ -688,7 +684,7 @@ Under menyene film, teater og utstilling, vil vi bruke samme system som er blitt
 </p>
 
 <a id="Henvisningsdel"></a>
-<h4>4 Henvisningsdel</h4>
+<h3>4 Henvisningsdel</h3>
 
 <a id="Vedlegg"></a>
 <h4>4.1 Vedlegg</h4>
