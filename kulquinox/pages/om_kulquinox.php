@@ -5,7 +5,7 @@ include '../inc/top.inc.php';
 include '../inc/menu.inc.php';
 ?>
 
-				<h2>Kultur + Equinox = Kulquinox</h2>
+				<h2>Kultur + Equinox = Kulquinox = Kulturjevndøgn</h2>
 				<p>
 					<img src="../images/tidlig_festival_bakgaard.jpg" alt="bilde from kulquinox 2009">
 				</p>

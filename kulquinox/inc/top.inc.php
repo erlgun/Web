@@ -32,7 +32,6 @@ switch($folder) {
 	break;
 }
 ?>
-		
 		<meta name="description" content="Kulquinox er en kulturfestival i Sandvika for barn, unge, voksne og gamle">
 		<meta name="keywords" content="kulkunox, culquinox, culqunox, kulquinox, culcuinox, culcynox, kulkynox, cosmic wind, cultural collaborations, festival sandvika, kulturfestival sandvika, kulturfestival, kulturjevndøgn, kultur sandvika, kultur bærum, festival bærum, culture festival sandvika, kilkinoks, kulkinox, kulkinoks">
 	</head>
@@ -58,43 +57,43 @@ switch($folder) {
 		break;
 	}
 	?></h1>
-				<ul>
-					<li>Neste festival:</li>
-					<li>23.-24. mars</li>
-				</ul>
+					<ul>
+						<li>Neste festival:</li>
+						<li>23.-24. mars</li>
+					</ul>
 				</div>
 				<div id="header_menu">
 					<ul class="header_menu_list">
-							<li class="facebook"><a href="http://www.facebook.com/kulquinox">Lik oss på Facebook</a></li>
-							<li class="twitter"><a href="https://twitter.com/#!/Kulquinox">Følg oss på Twitter</a></li>
+						<li class="facebook"><a href="http://www.facebook.com/kulquinox">Lik oss på Facebook</a></li>
+						<li class="twitter"><a href="https://twitter.com/#!/Kulquinox">Følg oss på Twitter</a></li>
 <?php
 switch ($folder) {
 	case('0'):
 ?>
-							<li class="tickets"><a href="./pages/info.php#billetter">Billetter</a></li>
-							<li class="header_menu_items"><a href="./pages/samarbeidspartnere.php">Samarbeidspartnere</a></li>
-							<li class="header_menu_items"><a href="./en/index.php">English</a></li>
+						<li class="tickets"><a href="./pages/info.php#billetter">Billetter</a></li>
+						<li class="header_menu_items"><a href="./pages/samarbeidspartnere.php">Samarbeidspartnere</a></li>
+						<li class="header_menu_items"><a href="./en/index.php">English</a></li>
 <?php
 	break;
 	case('1'):
 ?>
-							<li class="tickets"><a href="../pages/info.php#billetter">Billetter</a></li>
-							<li class="header_menu_items"><a href="../pages/samarbeidspartnere.php">Samarbeidspartnere</a></li>
-							<li class="header_menu_items"><a href="../en/index.php">English</a></li>
+						<li class="tickets"><a href="../pages/info.php#billetter">Billetter</a></li>
+						<li class="header_menu_items"><a href="../pages/samarbeidspartnere.php">Samarbeidspartnere</a></li>
+						<li class="header_menu_items"><a href="../en/index.php">English</a></li>
 <?php
 	break;
 	case('2'):
 ?>
-							<li class="tickets"><a href="../../pages/info.php#billetter">Billetter</a></li>
-							<li class="header_menu_items"><a href="../../pages/samarbeidspartnere.php">Samarbeidspartnere</a></li>
-							<li class="header_menu_items"><a href="../../en/index.php">English</a></li>
+						<li class="tickets"><a href="../../pages/info.php#billetter">Billetter</a></li>
+						<li class="header_menu_items"><a href="../../pages/samarbeidspartnere.php">Samarbeidspartnere</a></li>
+						<li class="header_menu_items"><a href="../../en/index.php">English</a></li>
 <?php
 	break;
 	case('3'):
 ?>
-							<li class="tickets"><a href="../../../pages/.php#billetter">Billetter</a></li>
-							<li class="header_menu_items"><a href="../../../pages/samarbeidspartnere.php">Samarbeidspartnere</a></li>
-							<li class="header_menu_items"><a href="../../../en/index.php">English</a></li>
+						<li class="tickets"><a href="../../../pages/.php#billetter">Billetter</a></li>
+						<li class="header_menu_items"><a href="../../../pages/samarbeidspartnere.php">Samarbeidspartnere</a></li>
+						<li class="header_menu_items"><a href="../../../en/index.php">English</a></li>
 <?php
 	break;
 }

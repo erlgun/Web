@@ -16,7 +16,7 @@
 
 body {
 	background-repeat: repeat; 
-	overflow-y: scroll;
+/*	overflow-y: scroll;*/ /* Overflow-y does not validate with CSS 2.1 */
 }
 
 #wrap {
@@ -26,6 +26,8 @@ body {
 	position: absolute;
 	left: 1%;
 }
+
+/* Header */
 
 #header {
 	width: 100%;
@@ -72,6 +74,8 @@ ul.header_menu_list {
 	padding-right: 22px;
 }
 
+/* Menus */
+
 #menu {
 	width: 100%;
 	padding-top: 5px;
@@ -85,9 +89,11 @@ ul.header_menu_list {
 	height: 30px;
 	clear: both;
 }
+
 #main_menu {
 	padding: 4px 20px 0 20px;
 }
+
 #under_menu {
 	padding: 8px 20px 0 20px;
 }
@@ -109,6 +115,21 @@ ul.header_menu_list {
 	padding: 2px 5px;
 }
 
+#sidebar_menu li {
+	padding: 2px 2px;
+	list-style-type: none;
+}
+
+#sidebar_menu {
+	float: left;
+	width:18%;
+	padding: 6px;
+	border-right: 2px dotted #1e1e1e;
+	border-bottom: 2px dotted #1e1e1e;
+	
+}
+
+/* Content */
 
 #content {
 	width: 100%;
@@ -116,6 +137,16 @@ ul.header_menu_list {
 	float: left;
 	margin-right: 20px;
 	margin-bottom: 20px;
+}
+
+#inner_content {
+	float:left;
+	width: 75%;
+	padding:15px 10px 15px 15px;
+}
+
+#artist_text {
+	float:left;
 }
 
 #news {
@@ -132,10 +163,8 @@ ul.header_menu_list {
 #sitemap li {
 	list-style-type: none;
  	letter-spacing: 0.1em;
-	padding: 2px 5px;
+	padding: 6px 24px;
 }
-
-
 
 div.event_stub {
 	width: 150px;   /*20 %*/
@@ -144,41 +173,19 @@ div.event_stub {
 	float: left;
 }
 
-#sidebar_menu li {
-	padding: 2px 2px;
-	list-style-type: none;
-}
-
-#sidebar_menu {
-	float: left;
-	width:18%;
-	padding: 6px;
-	border-right: 2px dotted #1e1e1e;
-	border-bottom: 2px dotted #1e1e1e;
-	
-}
-
 #sidebar {
 	float: left;
-	width:18%;
-	padding: 6px;
-
-	
+	width:20%;
+	padding: 24px 6px;
 }
 
 #sidebar li {
-	padding: 2px 2px;
 	list-style-type: none;
 }
 
-#inner_content {
-	float:left;
-	width: 75%;
-	padding:15px 10px 15px 15px;
-}
-
-#artist_text {
-	float:left;
+#poster_page {
+	float: left;
+	width: 600px;
 }
 
 table.prices {
@@ -192,20 +199,17 @@ table.schedule {
 	text-align:center;
 	width:600px;
 	font-size:20px;
-
 }
 
 table.schedule th {
 	text-align:center;
 	padding-left: 10px;
-
 	border: 1px solid black;
 }
 
 table.schedule td{
 	text-align:center;
 	padding-left: 10px;
-
 	border: 1px solid black;
 }
 
@@ -215,25 +219,19 @@ div.image_copyright {
 	padding:15px 10px 15px 15px;
 }
 
-#poster_page {
-	float: left;
-	width: 600px;
-}
-
 div.image {
 	padding:2px;
-
-
 	float:left;
 	text-align:center;
 }
+
 div.imagelarge {
 	padding:2px;
-
-
 	float:left;
 	text-align:center;
 } 
+
+/* Footer */
 
 #footer {
 	width: 100%;
@@ -249,18 +247,22 @@ div.imagelarge {
 	width: 25%;
 	border-right: 2px dotted #f5cd72;	
 }
+
 #footer_links {
 	padding-top: 6px;
 }
+
 #copyright {
 	float:left;
 	padding-top: 8px;
 }
+
 #to_top {
 	float: left;
 	width: 48%;
 	padding-top: 44px;
 }
+
 #validators {
 	float:right;
 	width: 25%;
@@ -305,18 +307,12 @@ h3 {
 
 h4 {
 	font-size: 1.2em;
-	
 }
 
 p {
 	letter-spacing: 0.05em;
 	padding: 12px 30px 6px 12px;
 	font-size: 0.9em;
-}
-
-table.prices {
-	font-family: "Century Gothic", "Trebuchet MS", arial, sans-serif;
-	padding-left: 24px;
 }
 
 #sidebar li, lh {
@@ -334,32 +330,36 @@ table.prices {
 	padding: 2px 0;
 }
 
-
 #footer_links p {
 	padding: 6px;
 }
+
 #copyright p {
 	padding: 6px;
 }
+
 #validators p {
 	font-size: 0.55em;
 	float: right;
 	padding: 6px;
 }
+
 #to_top p {
 	text-align: center;
 	padding: 6px;
 }
 
-
 #sidebar_menu h3 {
 	padding: 6px 6px 6px 0px;
-	
+}
+
+table.prices {
+	font-family: "Century Gothic", "Trebuchet MS", arial, sans-serif;
+	padding-left: 24px;
 }
 
 ul.header_menu_list {
 	font-size: 0.9em;
-	
 }
 
 ul.sidebar_menu_items {
@@ -367,21 +367,7 @@ ul.sidebar_menu_items {
 }
 
 
-
 /* LINK STYLING */
-
-a:link {
-	
-}
-a:visited {
-	
-}
-a:hover {
-	
-}
-a:active {
-	
-}
 
 h1.banner a:link {
 	color: #f5cd72;
@@ -398,86 +384,6 @@ h1.banner a:hover {
 h1.banner a:active {
 		color: #f5cd72;
 		text-decoration: none;
-}
-
-li.header_menu_items a:link {
-	color: #1e1e1e;
-	text-decoration: none;
-	
-}
-li.header_menu_items a:visited {
-	color: #1e1e1e;
-	text-decoration: none;
-	
-}
-li.header_menu_items a:hover{
-	color: #1e1e1e;
-	text-decoration: underline;
-	
-}
-li.header_menu_items a:active {
-	color: #1e1e1e;
-	text-decoration: none;
-}
-li.facebook a:link {
-	color: #eceff5;
-	text-decoration: none;
-	
-}
-li.facebook a:visited {
-	color: #eceff5;
-	text-decoration: none;
-	
-}
-li.facebook a:hover {
-	color: #eceff5;
-	text-decoration: underline;
-	
-}
-li.facebook a:active {
-	color: #eceff5;
-	text-decoration: underline;
-	
-}
-li.twitter a:link {
-	color: #ffffff;
-	text-decoration: none;
-	
-}
-li.twitter a:visited {
-	color: #ffffff;
-	text-decoration: none;
-	
-}
-li.twitter a:hover {
-	color: #ffffff;
-	text-decoration: underline;
-	
-}
-li.twitter a:active {
-	color: #ffffff;
-	text-decoration: underline;
-	
-}
-li.tickets a:link {
-	color: #1e1e1e;
-	text-decoration: none;
-	
-}
-li.tickets a:visited {
-	color: #1e1e1e;
-	text-decoration: none;
-	
-}
-li.tickets a:hover {
-	color: #1e1e1e;
-	text-decoration: underline;
-	
-}
-li.tickets a:active {
-	color: #1e1e1e;
-	text-decoration: underline;
-	
 }
 
 h2 a:link {
@@ -548,59 +454,74 @@ p.front_page a:active {
 	text-decoration: underline;
 }
 
-#validators a:link {
+li.header_menu_items a:link {
+	color: #1e1e1e;
 	text-decoration: none;
-	color: #f5cd72;
 }
-#validators a:visited {
+li.header_menu_items a:visited {
+	color: #1e1e1e;
 	text-decoration: none;
-	color: #f5cd72;
 }
-#validators a:hover {
-	color: #f5cd72;
+li.header_menu_items a:hover{
+	color: #1e1e1e;
 	text-decoration: underline;
 }
-#validators a:active {
-	color: #f5cd72;
+li.header_menu_items a:active {
+	color: #1e1e1e;
+	text-decoration: none;
+}
+
+li.facebook a:link {
+	color: #eceff5;
+	text-decoration: none;
+}
+li.facebook a:visited {
+	color: #eceff5;
+	text-decoration: none;
+}
+li.facebook a:hover {
+	color: #eceff5;
+	text-decoration: underline;
+}
+li.facebook a:active {
+	color: #eceff5;
 	text-decoration: underline;
 }
 
-#footer_links a:link {
+li.twitter a:link {
+	color: #ffffff;
 	text-decoration: none;
-	color: #f5cd72;
 }
-#footer_links a:visited {
+li.twitter a:visited {
+	color: #ffffff;
 	text-decoration: none;
-	color: #f5cd72;
 }
-#footer_links a:hover {
-	color: #f5cd72;
+li.twitter a:hover {
+	color: #ffffff;
 	text-decoration: underline;
 }
-#footer_links a:active {
-	color: #f5cd72;
+li.twitter a:active {
+	color: #ffffff;
 	text-decoration: underline;
 }
-#to_top a:link {
-	color: #f5cd72;
+
+li.tickets a:link {
+	color: #1e1e1e;
 	text-decoration: none;
-	
 }
-#to_top a:visited {
-	color: #f5cd72;
+li.tickets a:visited {
+	color: #1e1e1e;
 	text-decoration: none;
-	
 }
-#to_top a:hover {
-	color: #f5cd72;
+li.tickets a:hover {
+	color: #1e1e1e;
 	text-decoration: underline;
-	
 }
-#to_top a:active {
-	color: #f5cd72;
+li.tickets a:active {
+	color: #1e1e1e;
 	text-decoration: underline;
-	
 }
+
 li.button a:link {
 	text-decoration: none;
 	color: #e1e1e1;
@@ -672,19 +593,70 @@ li.active_sidebar_link a:active {
 }
 
 li.sitemap_links a:link {
-	color: red;
+	color: #1e1e1e;
 	text-decoration: none;
 }
 li.sitemap_links a:visited {
-	color: red;
+	color: #1e1e1e;
 	text-decoration: none;
 }
 li.sitemap_links a:hover {
-	color:black;
+	color: #1e1e1e;
 	text-decoration: underline;
 }
 li.sitemap_links a:active {
-	color: black;
+	color: #1e1e1e;
+	text-decoration: underline;
+}
+
+#footer_links a:link {
+	text-decoration: none;
+	color: #f5cd72;
+}
+#footer_links a:visited {
+	text-decoration: none;
+	color: #f5cd72;
+}
+#footer_links a:hover {
+	color: #f5cd72;
+	text-decoration: underline;
+}
+#footer_links a:active {
+	color: #f5cd72;
+	text-decoration: underline;
+}
+
+#validators a:link {
+	text-decoration: none;
+	color: #f5cd72;
+}
+#validators a:visited {
+	text-decoration: none;
+	color: #f5cd72;
+}
+#validators a:hover {
+	color: #f5cd72;
+	text-decoration: underline;
+}
+#validators a:active {
+	color: #f5cd72;
+	text-decoration: underline;
+}
+
+#to_top a:link {
+	color: #f5cd72;
+	text-decoration: none;
+}
+#to_top a:visited {
+	color: #f5cd72;
+	text-decoration: none;
+}
+#to_top a:hover {
+	color: #f5cd72;
+	text-decoration: underline;
+}
+#to_top a:active {
+	color: #f5cd72;
 	text-decoration: underline;
 }
 
