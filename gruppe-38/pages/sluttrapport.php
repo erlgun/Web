@@ -361,18 +361,18 @@ Utviklingen startet i det små. Vi startet med å tegne skisser til hvordan vi vil
 <p>
 Produktsiden har blitt programmert i HTML, CSS og php. For å sikre at produktsiden skal være lett å bruke under videre utvikling har struktur av koden blitt høyt prioritert. Funksjonen include i php har vært spesielt gunstig. Slik kan man gjøre endringer i header, footer og menyer uten å forandre på alle undersider. Alle undersider begynner med variabelen $current = 'Valgt underside'. Denne variabelen, i tillegg til å bli skrevet ut i tittelen, angir ved hjelp av kontrollstrukturen switch den relative url til interne lenker. Samtidig finnes variabelen $folder = 'tall'. Dette tallet angir hvor mange mapper fra roten den valgte siden er på. Dette har vært nyttig på undersider med lik tittel. For eksempel de forskjellige bandene under artistsidene.
 </p>
-<img src="../images/Kode1.png" alt="Kodesnutt i php" />
+<img src="../images/kode1.png" alt="Kodesnutt i php" />
 <p>
 Der de største div-elementer avsluttes i HTML er det lagt inn kommentar om hvilket div-element som ble avsluttet. Dette har gjort det enklere å forandre den logiske plasseringen av elementene og gjort større endringer i kildekoden håndterbart. For eksempel var plasseringen av #footer noe som ble forandret underveis. Denne kommenteringen viste seg svært nyttig under utviklingen av koden.
 </p>
-<img src="../images/Kode2.png" alt="Kodesnutt i php" />
+<img src="../images/kode2.png" alt="Kodesnutt i php" />
 <p>
 Under slutten av prosjektet ble det laget en engelsk versjon av siden. Denne ble lagt til mappen ./en.  Stilark lot vi være i ./css og alle bilder være i ./images. Dette har også vært et av tiltakene som gjør videre utvikling og arbeid med siden håndterbar og effektiv.
 </p>
 <p>
 Stilarket ble etterhvert delt opp etter forskjellig typer stiling. Slik kan man lette finne frem til, forandre på, og justere fonter, farger og visuell plassering av elementer. Å finne frem til forskjellige klasser og id-er kan selvfølgelig gjøres med cmd+F (ctrl+F i Windows og Linux), men å samle inn stilingen under forskjellige kategorier gjør prøving og feiling mer effektivt. Spesielt under valg av fonter og farger har dette vært en god metode å jobbe på.
 </p>
-<img src="../images/Kode3.png" alt="Kodesnutt i php" />
+<img src="../images/kode3.png" alt="Kodesnutt i php" />
 
 <a id="Metode"></a>
 <h4>2.2.3 Valgt "metode" i prosjektet</h4>
@@ -738,7 +738,26 @@ Webprogrammering i PHP av Svend Andreas Horgen
 <p>
 Googles starter guide for søkemotoroptimalisering: 
 <a href="http://static.googleusercontent.com/external_content/untrusted_dlcp/www.google.com/no//webmasters/docs/search-engine-optimization-starter-guide.pdf">http://static.googleusercontent.com/external_content/untrusted_dlcp/www.google.com/no//webmasters/docs/search-engine-optimization-starter-guide.pdf</a>
-
+</p>
+<p>
+W3CSchools
+<a href="http://www.w3schools.com/">http://www.w3schools.com/</a>
+</p>
+<p>
+CSS tricks
+<a href="http://css-tricks.com/">http://css-tricks.com/ </a>
+</p>
+<p>
+WCAG
+ <a href="http://www.w3.org/TR/WCAG10/">http://www.w3.org/TR/WCAG10/ </a>
+</p>
+<p>
+Om fonter
+ <a href="http://kathymarks.com/archives/2006/11/best_fonts_for_the_web_1.html ">http://kathymarks.com/archives/2006/11/best_fonts_for_the_web_1.html  </a>
+</p>
+<p>
+Den gamle kulquinox.no siden.
+Den finnes under ressurser i zip filen
 </p>
 <?php
 include '../inc/footer.inc.php';
