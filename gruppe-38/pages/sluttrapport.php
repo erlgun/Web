@@ -237,7 +237,7 @@ Når det gjelder arbeidet har vi spilt på hverandres styrker og hjulpet hverand
 Innleveringen er den konseptuelle versjonen av nettsiden og noe av informasjonen vil være fiktiv. Programmet er tatt fra forrige festival og er ment for å illustrere hvordan programmet vil ta seg ut til vårens festival. Informasjon om nye artister o.l.  er for øyeblikket ikke klart. Når det gjelder galleriet har vi ikke fått bilder fra alle tidligere festivaler, så bildene i galleriet er ikke nødvendigvis representativ for det gitte året.
 </p>
 <p>
-<a href="www.Kulquinox.no">Kulquinox.no</a> og websiden vi har levert vil ha noen forskjeller. Den nye <a href="www.Kulquinox.no">www.Kulquinox.no</a> vil bli en enklere versjon inntil vårens program er klart.
+<a href="http://www.Kulquinox.no">Kulquinox.no</a> og websiden vi har levert vil ha noen forskjeller. Den nye <a href="http://www.Kulquinox.no">www.Kulquinox.no</a> vil bli en enklere versjon inntil vårens program er klart.
 </p>
 <p>
 På siden vi leverer har vi kommentert ut nøkkelordstaggen, for å ikke konkurrere med den kommende www.kulquinox.no med hensyn til søkemotorer.
@@ -276,11 +276,11 @@ Nicolai har tidligere vært frivillig hos Kulquinox har sett et behov for en ny 
 <p>
 Link backs, vi har registret/sendt søknad hos:
 <ul>
- <li><a href="www.Kulquinox.no">www.startsiden.no</a></li>
- <li><a href="www.Kulquinox.no">www.allesider.no</a></li>
- <li><a href="www.Kulquinox.no">www.facebook.com</a></li>
- <li><a href="www.Kulquinox.no">www.twitter.com</a></li>
- <li><a href="www.Kulquinox.no">www.festivalnorge.no</a></li>
+ <li><a href="http://www.startsiden.no">www.startsiden.no</a></li>
+ <li><a href="http://www.allesider.no">www.allesider.no</a></li>
+ <li><a href="http://www.facebook.com">www.facebook.com</a></li>
+ <li><a href="http://www.twitter.com">www.twitter.com</a></li>
+ <li><a href="http://www.festivalnorge.no">www.festivalnorge.no</a></li>
 </ul>
 
 Vi nevner dette fordi det ikke er synlig på websiden.
@@ -318,15 +318,20 @@ Websiden vi lager vil inneholde mye av den samme informasjonen som er på den n�
 Følgende er hvilke teknologier og hvilke standarder vi følger
 </p>
 <p>
-Teknologi:
-?	HTML 
-?	CSS 
-?	PHP 
- Standarder:
-?	HTML5 
-?	CSS 2.1 
-?	WCAG AA 
+		Teknologi:
 </p>
+		<ul>
+			<li>HTML</li>
+			<li>CSS</li>
+			<li>PHP</li>
+		</ul>
+<p>Standarder:
+</p>
+		<ul>
+			<li>HTML5</li>
+			<li>CSS 2.1</li>
+			<li>WCAG AA</li>
+		</ul>
 <p>
 HTML, CSS og PHP bruker vi for å utvikle siden, vi følger HTML5 standarden og CSS 2.1 standarden. 
 </p>
@@ -526,7 +531,7 @@ nettsiden, for så å sammenligne med hva vi har fått til.
 Fra styringsdokumentene:
 </p>
 <p>
-Mål
+Mål:
 </p>
 <p>
 Vi ønsker å lage et forslag til ny webløsning som kan overta for den eksisterende før året er omme. Den skal tilpasses dagens krav for universell utforming samtidig ha en funksjonell og estetisk design. Øke antall besøkende for festivalen. 
@@ -534,21 +539,23 @@ Vi ønsker å lage et forslag til ny webløsning som kan overta for den eksister
 <p>
 Produktmål:
 </p>
-<p>
-	
-?	Informasjon om tid og sted. 
-?	Informasjon om billetter, pris, hvor de kan kjøpes. 
-?	Lage en oversiktlig programside hvor det kan legges inn informasjon om: 
-?	Artister/band 
-?	Film 
-?	Teater 
-?	Kunst/Utstillinger 
-?	Foredrag som skal holdes 
-?	Tilpasse webløsningen for sosiale medier 
-?	Lage et galleri med fotografier fra tidligere arrangementer 
-?	Beskrivelse av festivalens bakgrunn og historie 
-?	Lage en løsning for å sende inn spørsmål til festivalen via skjema 
-?	Informasjon for gjester med handicap 
+<ul>
+	<li>Informasjon om tid og sted.</li>
+	<li>Informasjon om billetter, pris, hvor de kan kjøpes.</li>
+	<li>Lage en oversiktlig programside hvor det kan legges inn informasjon om:
+		<ul>
+			<li>Artister/band</li>
+			<li>Film</li>
+			<li>Teater</li>
+			<li>Kunst/Utstillinger</li>
+			<li>Foredrag som skal holdes</li>
+		</ul></li>
+	<li>Tilpasse webløsningen for sosiale medier</li>
+	<li>Lage et galleri med fotografier fra tidligere arrangementer</li>
+	<li>Beskrivelse av festivalens bakgrunn og historie</li>
+	<li>Lage en løsning for å sende inn spørsmål til festivalen via skjema</li>
+	<li>Informasjon for gjester med handicap</li>
+</ul>
 </p>
 <p>
 Når det gjelder produktmålene våre har vi oppfylt de fleste, men ikke all informasjon er på plass fra Kulquinox.
