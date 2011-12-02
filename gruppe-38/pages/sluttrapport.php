@@ -75,7 +75,11 @@ include '../inc/sidebar.inc.php';
 	</tr>
 
 	<tr>	
-		<td>2.2.2</td><td><a href="#Metode">Valgt "metode" i prosjektet.</a></td>		
+		<td>2.2.2</td><td><a href="#kode">Om kode/struktur</a></td>		
+	</tr>	
+	
+	<tr>	
+		<td>2.2.3</td><td><a href="#Metode">Valgt "metode" i prosjektet.</a></td>		
 	</tr>
 
 	<tr>
@@ -308,6 +312,7 @@ Videre drift av siden er også en motivasjonsfaktor.
 <p>
 Bakgrunnen for utviklingen av websiden er den gamle websiden (fig. 1).
 </p>
+<img src="../images/fignr1_gamlekulq_mindre.jpg" alt="Bilde av gamle kulquinox" />
 <p>
 Den gamle siden er hverken fin å se på eller god å bruke. Det  er veldig uklart hva som er trykkbart på hovedsiden. Skriften er utydelig fordi de har lagt til store deler av den består av grafikk. Fontvalget er også uheldig, da serif-fonter ikke er optimalt for skjerm. Fargebruken er ytterst forstyrrende og gjør at man som bruker gjerne går vekk fra siden med en gang. Logoen/headeren vil være uleselig for en fargeblind, men også med et normalt syn kan det være vanskelig å forstå hva som står på den.
 </p>
@@ -350,8 +355,25 @@ Kontaktskjemaet vårt følger WCAG AA i den forstand at brukerne får en feilmel
 <p>
 Utviklingen startet i det små. Vi startet med å tegne skisser til hvordan vi ville at siden skulle se ut. Utifra skissene lagde vi en skallside, og ut i fra skallsiden lagde vi selve siden. Vi hadde også en del ønsker fra Kulquinox og krav fra oppgaveteksten å forholde oss til.  Fra begynnelsen har vi lagt stor vekt på brukervennlighet på hjemmesiden, da det er et mangfold av brukere på Kulquinox. Vi har fra begynnelsen  fulgt WCAG AA standarden. Da vi fikk skallet til siden opp , ble ting enklere, vi lagde menyer og undermenyer. 
 </p>
+
+<a id="Kode"></a>
+<h4>2.2.2 Utvikling av selve arbeidet(prossesen)</h4>
+<p>
+Produktsiden har blitt programmert i HTML, CSS og php. For å sikre at produktsiden skal være lett å bruke under videre utvikling har struktur av koden blitt høyt prioritert. Funksjonen include i php har vært spesielt gunstig. Slik kan man gjøre endringer i header, footer og menyer uten å forandre på alle undersider. Alle undersider begynner med variabelen $current = 'Valgt underside'. Denne variabelen, i tillegg til å bli skrevet ut i tittelen, angir ved hjelp av kontrollstrukturen switch den relative url til interne lenker. Samtidig finnes variabelen $folder = 'tall'. Dette tallet angir hvor mange mapper fra roten den valgte siden er på. Dette har vært nyttig på undersider med lik tittel. For eksempel de forskjellige bandene under artistsidene.
+</p>
+
+<p>
+Der de største div-elementer avsluttes i HTML er det lagt inn kommentar om hvilket div-element som ble avsluttet. Dette har gjort det enklere å forandre den logiske plasseringen av elementene og gjort større endringer i kildekoden håndterbart. For eksempel var plasseringen av #footer noe som ble forandret underveis. Denne kommenteringen viste seg svært nyttig under utviklingen av koden.
+</p>
+<p>
+Under slutten av prosjektet ble det laget en engelsk versjon av siden. Denne ble lagt til mappen ./en.  Stilark lot vi være i ./css og alle bilder være i ./images. Dette har også vært et av tiltakene som gjør videre utvikling og arbeid med siden håndterbar og effektiv.
+</p>
+<p>
+Stilarket ble etterhvert delt opp etter forskjellig typer stiling. Slik kan man lette finne frem til, forandre på, og justere fonter, farger og visuell plassering av elementer. Å finne frem til forskjellige klasser og id-er kan selvfølgelig gjøres med cmd+F (ctrl+F i Windows og Linux), men å samle inn stilingen under forskjellige kategorier gjør prøving og feiling mer effektivt. Spesielt under valg av fonter og farger har dette vært en god metode å jobbe på.
+</p>
+
 <a id="Metode"></a>
-<h4>2.2.2 Valgt "metode" i prosjektet</h4>
+<h4>2.2.3 Valgt "metode" i prosjektet</h4>
 <p>
 Vi har brukt flere metoder i prosjektet, når det gjelder selve siden har vi  hovedsakelig  prøvd å få ting til å bli slik vi vil uten videre litteratursøk og -lesning. Har vi prøvd og feilet en stund tyr vi til litteratursøk, og leser oss opp på det gitte emne. Når det gjelder søkemotoroptimalisering har vi basert oss kun på litteratursøk- og lesning. 
 </p>
@@ -390,30 +412,35 @@ Beskrivelse av funksjonalitet og design er beskrevet i henholdsvis kapittel 2.3.
 <p>
 Førsteutkast:
 </p>
+<img src="../images/fignr2_skisse1_mindre.jpg" alt="Første utkast av siden" />
 <p>
 Dette er den første tegningen av hvordan websiden skal se ut. Utkastet likner noe på hvordan det endelige resultatet ble. Galleriet ble ikke slik som på tegningen, likevel er det galleriet i sluttproduktet tilfredsstillende.
 </p>
 <p>
 Andreutkast:
 </p>
+<img src="../images/fignr3_skisse2_mindre.jpg" alt="Andre utkast av siden" />
 <p>
 Her er en tidlig skisse til produktsiden. Et enkelt menysystem som er beholdt helt til det endelige produktet. Det ble brukt linjal for å holde forholdene mellom de tenkte elementene ryddig og oversiktlig.
 </p>
 <p>
 Tredjeutkast (prototype, fig. 4): 
 </p>
+<img src="../images/fignr4_prototype1_mindre.jpg" alt="Første prototype av siden" />
 <p>
 Dette er prototypen til hvordan den grunnleggende funksjonaliteten på siden blir. Fargene er ikke endelige, men ment for å markere de forskjellige div-elementene. På siden er det valgt "Program" på hovedmenyen, slik får man opp en undermeny med artister, film, utstilling og tidsskjema. Av praktiske årsaker ble "Program" byttet ut med "På plakaten" i det endelige resultatet. Dette ble gjort etter innspill fra festivalens styre fordi de mente ordet "program" passet bedre der det sto "tidsskjema".
 </p>
 <p>
 Fjerdeutkast (Prototype nr 2):
 </p>
+<img src="../images/fignr5_prototype2_mindre.jpg" alt="Andre prototype av siden" />
 <p>
 Her er fargene svart og gult valgt, som har veldig god kontrast. Headeren er i grafikk, men er også en <h> tag.
 </p>
 <p>
 Det endelige produktet:
 </p>
+<img src="../images/fignr6_endeligprodukt_mindre.jpg" alt="Endelig produktet" />
 <p>
 Det endelige produktet har videreført idéene fra tidligere skisser og prototyper, men allikevel er det et langt mer utviklet produkt. Headeren i ren grafikk ble forkastet fordi den var vanskelig å få til å passe med resten av innholdet. Menyene er noe endret i forhold til tidligere versjoner. De markerte menyvalgene fungerer som en brødsmulesti på hvor man befinner seg.
 </p>
@@ -469,15 +496,18 @@ Kulquinox har en bred brukermasse med personer i alle aldre. Produktsiden skal  
 <p>
 For å gi siden en klar profil, ble det gått gjennom grafisk materiale fra den tidligere nettsiden. Det ble funnet et oversiktskart(fig. 7) over festivalområdet som inneholdt flere spennende grafiske elementer. 
 </p>
+<img src="../images/fignr7_kulqkart_mindre.jpg" alt="Bilde av ett kart fra Kulquinox" />
 <p>
 Underveis ble "Kulquinox"-logoen fra festivalkartet brukt, men på grunn av den lave oppløsning på det tilsendte materiale ble logoen for kornete. Vi måtte dessuten legge "usynlig" tekst bak grafikken for å oppnå leselighet med screenreaders/Lynx. Isteden ble det valgt grafiske elementer gruppen likte (merk: elementene i rødt kommer fra den høyest oppløste versjonen, som ble tilsendt etter forespørsel til Øyvind Aamodt). Deretter brukte vi de valgte grafiske elementene som bakgrunn i headeren (fig. 8). Slik ble det lett å tilpasse headeren med resten av innholdet på siden.
 </p>
+<img src="../images/fignr8_kulqheader_mindre.jpg" alt="Header til endelige siden" />
 <p>
 Fargevalg
 </p>
 <p>
 For å beholde gjenkjennelsesfaktoren har vi brukt fargene gul og grønt, som Kulquinox har hatt tidligere (fig. 9), men passet på å ikke legge dem i direkte kombinasjon der det er tekst. Dette har vi løst ved å implementere en mørk brunfarge. Kontrasten på gult og brunt i headeren tilfredsstiller WCAG 2.0 AAA.
 </p>
+<img src="../images/fignr9_kulqgammelheader_mindre.jpg" alt="Bilde av gammel logo" />
 <p>
 Det ble valgt nærmest sort tone for brødtekst, her med en svak sandfarget bakgrunn. Det har vært viktig at vi bruker fargene konsekvent, bl.a. har vi hatt brunt i header og footer, med den samme gulfargen i teksten. Dette gir en klar grafisk profil. På lenker er det brukt komplementærfarger av henholdsvis gult og sandfargen. For å komme frem til gode fargekombinasjoner verktøyet Adobe Kuler benyttet (kuler.adobe.com).
 </p>
@@ -490,6 +520,7 @@ Fordi det gjennom hele prosjektet har blitt fokusert på god lesbarhet er det va
 <p>
 Siden benytter flere menyvalg, derfor er menyen tydeliggjort ved hjelp av store knapper som forandrer farge når man trykker på dem. Slik indikerer de hvor på siden man befinner seg og fungerer som en brødsmulesti. Undermenyen er også skilt fra hovedmenyen ved å bruke en annen farge som bakgrunn(fig. 10), men beholdt fargene fra hovedmenyknappene. Fordi vi har vært konsekvent på valg av faste farger har det ikke gått på kompromiss med den estetiske profilen.
 </p>
+<img src="../images/fignr10_kulqmeny_mindre.jpg" alt="Bilde av hovedmeny" />
 <a id="WCAG"></a>
 <h4>2.3.5 WCAG</h4>
 <p>
@@ -519,7 +550,7 @@ Det finnes også et sidekart som er oversiktlig og lett å bruke.
 Innholdet på siden er relevant informasjon, som er skrevet lett og med korte settinger.
 Dette gjelder ikke bare tekst med også bilder, vi har valgt å kun ha med bilder som gir mening, ikke bare for  å være dekorative. Dette sikrer festivalen og brukere en solid, gjennomtenkt og funksjonell side.
 </p>
-</p>
+
 
 <a id="Evaluering"></a>
 <h4>2.4 Evaluering av resultat(nettsiden)</h4>
