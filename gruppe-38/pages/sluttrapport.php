@@ -75,7 +75,7 @@ include '../inc/sidebar.inc.php';
 	</tr>
 
 	<tr>	
-		<td>2.2.2</td><td><a href="#kode">Om kode/struktur</a></td>		
+		<td>2.2.2</td><td><a href="#Kode">Om kode/struktur</a></td>		
 	</tr>	
 	
 	<tr>	
@@ -147,11 +147,11 @@ include '../inc/sidebar.inc.php';
 	</tr>	
 
 	<tr>	
-		<td>3.1.2</td><td><a href="#GIT">Arbeid med GIT</a></td>		
+		<td>3.1.2</td><td><a href="#Git">Arbeid med Git</a></td>		
 	</tr>
 
 	<tr>	
-		<td>3.1.3</td><td><a href="#Hva_vi_har_lært">Hva har vi lært?</a></td>		
+		<td>3.1.3</td><td><a href="#Hva_har_vi_lært">Hva har vi lært?</a></td>		
 	</tr>
 
 	<tr>	
@@ -616,8 +616,8 @@ Styret i Kulquinox er fornøyd med det resultatet vi har kommer til.
 <p>
 Vi satt opp et ansvarskart, aktivitetsplan, milepælsplan og en samarbeidsavtale, som vi har etter fulgt etter beste evne. Disse styringsdokumentene har hjulpet oss, slik at vi til en hver tid i prosessen vet hvor vi skal være og hvem som skal ha gjort hva. Samarbeidsavtalen sikrer fremdrift i prosjektet. Gruppemøtene har vært hyppige, med onsdag og fredag som faste dager. Før innleveringer og presentasjonen har vi hatt enda hyppigere møter for å sikre at arbeidet skulle bli ferdig og få et best mulig resultat.
 </p>
-<a id="GIT"></a>
-<h4>3.1.2 Arbeid med GIT</h4>
+<a id="Git"></a>
+<h4>3.1.2 Arbeid med Git</h4>
 <p>
 Den 4. november besluttet gruppen å å bruke Git for å få et bedre versjonkontrollsystem. Erlend fikk ansvar for å lære seg det og gi resten en gjennomgang. I startfasen var det innkjøring på Git noe vanskelig og gruppen klarte ikke helt å legge fra seg bruken av Dropbox for å samkjøre utviklingen av nettsiden.
 </p>
