@@ -2,7 +2,7 @@
 			<div id="footer">
 				<div id="copyright_and_footer_links">
 					<div id="footer_links">	
-						<?php
+<?php
 switch ($folder) {
 	case('0'):
 ?>

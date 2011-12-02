@@ -20,6 +20,8 @@ include '../inc/menu.inc.php';
 						<li class="sitemap_links"><a href="galleri/host_2011.php">Galleri</a></li>
 						<li class="sitemap_links"><a href="info.php">Nyttig info</a></li>
 						<li class="sitemap_links"><a href="kontakt.php">Kontakt</a></li>
+						<li class="sitemap_links"><a href="samarbeidspartnere.php">Samarbeidspartnere</a></li>
+						<li class="sitemap_links"><a href="../en/index.php">Site in English</a></li>
 						<li class="sitemap_links"><a href="sidekart.php">Sidekart</a></li>
 				 	</ul>
 				</div>
