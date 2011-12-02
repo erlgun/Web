@@ -147,7 +147,7 @@ include '../inc/sidebar.inc.php';
 	</tr>
 
 	<tr>	
-		<td>3.1.3</td><td><a href="#Hva_vi_har_lært">Hva har vi lært?</a></td>		
+		<td>3.1.3</td><td><a href="#Hva_vi_har_lÃ¦rt">Hva har vi lÃ¦rt?</a></td>		
 	</tr>
 
 	<tr>	
@@ -155,7 +155,7 @@ include '../inc/sidebar.inc.php';
 	</tr>
 
 	<tr>	
-		<td>3.1.5</td><td><a href="#resultat">Hvor godt ble resultatet? (basert på evaluering)</a></td>		
+		<td>3.1.5</td><td><a href="#resultat">Hvor godt ble resultatet? (basert pÃ¥ evaluering)</a></td>		
 	</tr>
 
 	<tr>
@@ -211,7 +211,7 @@ include '../inc/sidebar.inc.php';
 	</tr>
 
 	<tr>
-		<td>4.2.1</td><td><a href="#Fagbøker">Fagbøker</a></td>
+		<td>4.2.1</td><td><a href="#FagbÃ¸ker">FagbÃ¸ker</a></td>
 	</tr>		
 
 	<tr>
@@ -229,38 +229,38 @@ include '../inc/sidebar.inc.php';
 
 <h4>1.2 Forord</h4>
 <p>
-Gruppen vår består  av Martin Johan Grini,  Mathias Groven, Nicolai Grøndahl og Erlend Gunnesen. Ingen av oss har erfaring fra webdesign fra før av. Vi har kun forholdt oss til det vi har lært i pensumbok og forelesningene. Oppgaven vår er å lage en ny side for kulturfestivalen Kulquinox som holder til i Sandvika. Den nåværende siden er ikke brukervennlig og den er vanskelig å finne på Google.
+Gruppen vÃ¥r bestÃ¥r  av Martin Johan Grini,  Mathias Groven, Nicolai GrÃ¸ndahl og Erlend Gunnesen. Ingen av oss har erfaring fra webdesign fra fÃ¸r av. Vi har kun forholdt oss til det vi har lÃ¦rt i pensumbok og forelesningene. Oppgaven vÃ¥r er Ã¥ lage en ny side for kulturfestivalen Kulquinox som holder til i Sandvika. Den nÃ¥vÃ¦rende siden er ikke brukervennlig og den er vanskelig Ã¥ finne pÃ¥ Google.
 </p>
 <p>
-Vi var fra starten av enige om å oppnå et best mulig resultat.
-Når det gjelder arbeidet har vi spilt på hverandres styrker og hjulpet hverandre der det har vært nødvendig. Det har vært viktig for oss at alle skulle ta del i kodingen av siden.  Prosjektet har vært en lærerik og morsom opplevelse , vi har også blitt kjent med hverandre på et mer personlig plan. 
-Innleveringen er den konseptuelle versjonen av nettsiden og noe av informasjonen vil være fiktiv. Programmet er tatt fra forrige festival og er ment for å illustrere hvordan programmet vil ta seg ut til vårens festival. Informasjon om nye artister o.l.  er for øyeblikket ikke klart. Når det gjelder galleriet har vi ikke fått bilder fra alle tidligere festivaler, så bildene i galleriet er ikke nødvendigvis representativ for det gitte året.
+Vi var fra starten av enige om Ã¥ oppnÃ¥ et best mulig resultat.
+NÃ¥r det gjelder arbeidet har vi spilt pÃ¥ hverandres styrker og hjulpet hverandre der det har vÃ¦rt nÃ¸dvendig. Det har vÃ¦rt viktig for oss at alle skulle ta del i kodingen av siden.  Prosjektet har vÃ¦rt en lÃ¦rerik og morsom opplevelse , vi har ogsÃ¥ blitt kjent med hverandre pÃ¥ et mer personlig plan. 
+Innleveringen er den konseptuelle versjonen av nettsiden og noe av informasjonen vil vÃ¦re fiktiv. Programmet er tatt fra forrige festival og er ment for Ã¥ illustrere hvordan programmet vil ta seg ut til vÃ¥rens festival. Informasjon om nye artister o.l.  er for Ã¸yeblikket ikke klart. NÃ¥r det gjelder galleriet har vi ikke fÃ¥tt bilder fra alle tidligere festivaler, sÃ¥ bildene i galleriet er ikke nÃ¸dvendigvis representativ for det gitte Ã¥ret.
 </p>
 <p>
-<a href="www.Kulquinox.no">Kulquinox.no</a> og websiden vi har levert vil ha noen forskjeller. Den nye <a href="www.Kulquinox.no">www.Kulquinox.no</a> vil bli en enklere versjon inntil vårens program er klart.
+<a href="www.Kulquinox.no">Kulquinox.no</a> og websiden vi har levert vil ha noen forskjeller. Den nye <a href="www.Kulquinox.no">www.Kulquinox.no</a> vil bli en enklere versjon inntil vÃ¥rens program er klart.
 </p>
 <p>
-På siden vi leverer har vi kommentert ut nøkkelordstaggen, for å ikke konkurrere med den kommende www.kulquinox.no med hensyn til søkemotorer.
+PÃ¥ siden vi leverer har vi kommentert ut nÃ¸kkelordstaggen, for Ã¥ ikke konkurrere med den kommende www.kulquinox.no med hensyn til sÃ¸kemotorer.
 </p>
 <a id="Sammendrag"></a>
 <h4>1.3 Sammendrag</h4>
 <p>
-Vi har i samarbeid laget siden <a href="http://student.iu.hio.no/~s180339/kulquinox/">Kulquinox.no</a> ved bruk av HTML, CSS og PHP. Brukervennlighet og et estetisk design har vært i høysetet. 
+Vi har i samarbeid laget siden <a href="http://student.iu.hio.no/~s180339/kulquinox/">Kulquinox.no</a> ved bruk av HTML, CSS og PHP. Brukervennlighet og et estetisk design har vÃ¦rt i hÃ¸ysetet. 
 </p>
 <p>
-Websiden validerer i HTML5 og CSS 2.1, den følger også WCAG AA standarden.
+Websiden validerer i HTML5 og CSS 2.1, den fÃ¸lger ogsÃ¥ WCAG AA standarden.
 </p>
 <p>
-Vi har fulgt treklikkregelen, man er aldri mer enn tre klikk unna den informasjonen man er ute etter. Websiden er skalerbar ned til 800x600, den fungerer også på smarttelefoner.
+Vi har fulgt treklikkregelen, man er aldri mer enn tre klikk unna den informasjonen man er ute etter. Websiden er skalerbar ned til 800x600, den fungerer ogsÃ¥ pÃ¥ smarttelefoner.
 </p>
 <p>
-Vi har lært viktigheten av styringsdokumentene.
+Vi har lÃ¦rt viktigheten av styringsdokumentene.
 </p>
 <p>
-Websiden støtter tekst til tale programmer og tekstbaserte nettlesere f.eks. Lynx.
+Websiden stÃ¸tter tekst til tale programmer og tekstbaserte nettlesere f.eks. Lynx.
 </p>
 <p>
-Under utviklingen av nettsiden hadde vi flere prototyper av websiden, og sirklet oss til slutt inn på det resultatet som vi var ute etter. Vi synes at samarbeidet har gått bra, og er godt fornøyd med resultatet.
+Under utviklingen av nettsiden hadde vi flere prototyper av websiden, og sirklet oss til slutt inn pÃ¥ det resultatet som vi var ute etter. Vi synes at samarbeidet har gÃ¥tt bra, og er godt fornÃ¸yd med resultatet.
 </p>
 <a id="Hoveddel"></a>
 <h4>2. Hoveddel</h4>
@@ -268,39 +268,40 @@ Under utviklingen av nettsiden hadde vi flere prototyper av websiden, og sirklet
 <a id="Innledning_til_hoveddel"></a>
 <h4>2.1 Innledning til hoveddel</h4>
 <p>
-Kulquinox er en non-profit festival i Sandvika arrangert av Øyvind Aamodt og hans stiftelse Cosmic Wind Cultural Collaboration, som har som mål å spre glede og kultur i Sandvika. Øyvind Aamodt har brukt store deler av sitt liv på reiser verden rundt, spesielt i Kina, og er glødende opptatt av alle former for kunst og kultur. Han er også kjent fra dokumentaren "Jakten på hukommelsen", tidligere sendt på NRK.
+Kulquinox er en non-profit festival i Sandvika arrangert av Ã˜yvind Aamodt og hans stiftelse Cosmic Wind Cultural Collaboration, som har som mÃ¥l Ã¥ spre glede og kultur i Sandvika. Ã˜yvind Aamodt har brukt store deler av sitt liv pÃ¥ reiser verden rundt, spesielt i Kina, og er glÃ¸dende opptatt av alle former for kunst og kultur. Han er ogsÃ¥ kjent fra dokumentaren "Jakten pÃ¥ hukommelsen", tidligere sendt pÃ¥ NRK.
 </p>
 <p>
-Nicolai har tidligere vært frivillig hos Kulquinox har sett et behov for en ny side, han spurte  folkene bak Kulquinox om de kunne tenk seg å få en ny side, det kunne de. Siden vi har laget er etter vårt skjønn en brukervennlig og estetisk gjennomført side. Vi har jobbet hardt og har etter vår mening kommet fram til en side som både oppfyller Webprosjekt-faget og Kulquinox' krav. Vi har også fokusert på søkemotoroptimalisering og brukervennlighet.
+Nicolai har tidligere vÃ¦rt frivillig hos Kulquinox har sett et behov for en ny side, han spurte  folkene bak Kulquinox om de kunne tenk seg Ã¥ fÃ¥ en ny side, det kunne de. Siden vi har laget er etter vÃ¥rt skjÃ¸nn en brukervennlig og estetisk gjennomfÃ¸rt side. Vi har jobbet hardt og har etter vÃ¥r mening kommet fram til en side som bÃ¥de oppfyller Webprosjekt-faget og Kulquinox' krav. Vi har ogsÃ¥ fokusert pÃ¥ sÃ¸kemotoroptimalisering og brukervennlighet.
 </p>
 <p>
-Link backs, vi har registret/sendt søknad hos:
+Link backs, vi har registret/sendt sÃ¸knad hos:
+<ul>
+ <li><a href="www.Kulquinox.no">www.startsiden.no</a></li>
+ <li><a href="www.Kulquinox.no">www.allesider.no</a></li>
+ <li><a href="www.Kulquinox.no">www.facebook.com</a></li>
+ <li><a href="www.Kulquinox.no">www.twitter.com</a></li>
+ <li><a href="www.Kulquinox.no">www.festivalnorge.no</a></li>
+</ul>
 
-<a href="www.Kulquinox.no">www.startsiden.no</a>
-<a href="www.Kulquinox.no">www.allesider.no</a>
-<a href="www.Kulquinox.no">www.facebook.com</a>
-<a href="www.Kulquinox.no">www.twitter.com</a>
-<a href="www.Kulquinox.no">www.festivalnorge.no</a>
-
-Vi nevner dette fordi det ikke er synlig på websiden.
+Vi nevner dette fordi det ikke er synlig pÃ¥ websiden.
 
 
 </p>
 <a id="Problemformulering"></a>
 <h4>2.1.1 Problemformulering</h4>
 <p>
-Kulquinox sine gamle nettsider er vanskelig å søke opp på Google og harmonerer dårlig med dagens standarder og forventninger for hva en informasjonsside skal tilby. Dette er et uutnyttet potensiale for festivalens markedsføring. Websiden mangler dessuten universell utforming, som igjen utelukker grupper med nedsatte funksjonsevner å finne relevant informasjon om arrangementet. Festivalen har også hatt få besøkende.
+Kulquinox sine gamle nettsider er vanskelig Ã¥ sÃ¸ke opp pÃ¥ Google og harmonerer dÃ¥rlig med dagens standarder og forventninger for hva en informasjonsside skal tilby. Dette er et uutnyttet potensiale for festivalens markedsfÃ¸ring. Websiden mangler dessuten universell utforming, som igjen utelukker grupper med nedsatte funksjonsevner Ã¥ finne relevant informasjon om arrangementet. Festivalen har ogsÃ¥ hatt fÃ¥ besÃ¸kende.
 </p>
 <a id="Motivasjon_for_prosjektet"></a>
 <h4>2.1.2 Motivasjon for prosjektet</h4>
 <p>
-Nicolai har som frivillig i Kulquinox kjennskap til festivalen. Kulquinox trenger en ny side for å spre sitt glade budskap. Alle av oss synes det var bedre å lage en ekte produktside istedenfor en fiktiv. Det er også et ekstra press i  å lage en reell produktside for andre, da det stiller helt andre krav. 
+Nicolai har som frivillig i Kulquinox kjennskap til festivalen. Kulquinox trenger en ny side for Ã¥ spre sitt glade budskap. Alle av oss synes det var bedre Ã¥ lage en ekte produktside istedenfor en fiktiv. Det er ogsÃ¥ et ekstra press i  Ã¥ lage en reell produktside for andre, da det stiller helt andre krav. 
 </p>
 <p>
-Andre motivasjonsfaktorer er at vi lærer webdesign og at vi har noe vi  kan vise til i fremtiden. 
+Andre motivasjonsfaktorer er at vi lÃ¦rer webdesign og at vi har noe vi  kan vise til i fremtiden. 
 </p>
 <p>
-Videre drift av siden er også en motivasjonsfaktor.
+Videre drift av siden er ogsÃ¥ en motivasjonsfaktor.
 </p>
 <a id="Bakgrunnsstoff"></a>
 <h4>2.1.3 Bakgrunnsstoff</h4>
@@ -308,13 +309,13 @@ Videre drift av siden er også en motivasjonsfaktor.
 Bakgrunnen for utviklingen av websiden er den gamle websiden (fig. 1).
 </p>
 <p>
-Den gamle siden er hverken fin å se på eller god å bruke. Det  er veldig uklart hva som er trykkbart på hovedsiden. Skriften er utydelig fordi de har lagt til store deler av den består av grafikk. Fontvalget er også uheldig, da serif-fonter ikke er optimalt for skjerm. Fargebruken er ytterst forstyrrende og gjør at man som bruker gjerne går vekk fra siden med en gang. Logoen/headeren vil være uleselig for en fargeblind, men også med et normalt syn kan det være vanskelig å forstå hva som står på den.
+Den gamle siden er hverken fin Ã¥ se pÃ¥ eller god Ã¥ bruke. Det  er veldig uklart hva som er trykkbart pÃ¥ hovedsiden. Skriften er utydelig fordi de har lagt til store deler av den bestÃ¥r av grafikk. Fontvalget er ogsÃ¥ uheldig, da serif-fonter ikke er optimalt for skjerm. Fargebruken er ytterst forstyrrende og gjÃ¸r at man som bruker gjerne gÃ¥r vekk fra siden med en gang. Logoen/headeren vil vÃ¦re uleselig for en fargeblind, men ogsÃ¥ med et normalt syn kan det vÃ¦re vanskelig Ã¥ forstÃ¥ hva som stÃ¥r pÃ¥ den.
 </p>
 <p>
-Websiden vi lager vil inneholde mye av den samme informasjonen som er på den nåværende siden, men vi vil holde oss til relevant informasjon. I tillegg vil vi etter beste evne optimalisere informasjonen/teksten for web. Vi vil også ta hensyn til de opprinnelige  fargene, og forsøke å bruke farger som opprettholder gjenkjennelsesfaktoren.
+Websiden vi lager vil inneholde mye av den samme informasjonen som er pÃ¥ den nÃ¥vÃ¦rende siden, men vi vil holde oss til relevant informasjon. I tillegg vil vi etter beste evne optimalisere informasjonen/teksten for web. Vi vil ogsÃ¥ ta hensyn til de opprinnelige  fargene, og forsÃ¸ke Ã¥ bruke farger som opprettholder gjenkjennelsesfaktoren.
 </p>
 <p>
-Følgende er hvilke teknologier og hvilke standarder vi følger
+FÃ¸lgende er hvilke teknologier og hvilke standarder vi fÃ¸lger
 </p>
 <p>
 Teknologi:
@@ -327,14 +328,14 @@ Teknologi:
 ?	WCAG AA 
 </p>
 <p>
-HTML, CSS og PHP bruker vi for å utvikle siden, vi følger HTML5 standarden og CSS 2.1 standarden. 
+HTML, CSS og PHP bruker vi for Ã¥ utvikle siden, vi fÃ¸lger HTML5 standarden og CSS 2.1 standarden. 
 </p>
 <p>
 WCAG:
 </p>
 
 <p>
-Kontaktskjemaet vårt følger WCAG AA i den forstand at brukerne får en feilmelding hvis de ikke har fylt ut et eller flere felt. Kontaktsiden har også en alternativ metode for å kontakte festivalen. Dette eventuelt om et skjema ikke skulle sendes grunnet feil på klient- eller serverside.
+Kontaktskjemaet vÃ¥rt fÃ¸lger WCAG AA i den forstand at brukerne fÃ¥r en feilmelding hvis de ikke har fylt ut et eller flere felt. Kontaktsiden har ogsÃ¥ en alternativ metode for Ã¥ kontakte festivalen. Dette eventuelt om et skjema ikke skulle sendes grunnet feil pÃ¥ klient- eller serverside.
 </p>
 <a id="Utvikling_og_metode"></a>
 <h4>2.2 Utvikling og metode</h4>
@@ -342,21 +343,21 @@ Kontaktskjemaet vårt følger WCAG AA i den forstand at brukerne får en feilmeldin
 <a id="Utvikling"></a>
 <h4>2.2.1 Utvikling av selve arbeidet(prossesen)</h4>
 <p>
-Utviklingen startet i det små. Vi startet med å tegne skisser til hvordan vi ville at siden skulle se ut. Utifra skissene lagde vi en skallside, og ut i fra skallsiden lagde vi selve siden. Vi hadde også en del ønsker fra Kulquinox og krav fra oppgaveteksten å forholde oss til.  Fra begynnelsen har vi lagt stor vekt på brukervennlighet på hjemmesiden, da det er et mangfold av brukere på Kulquinox. Vi har fra begynnelsen  fulgt WCAG AA standarden. Da vi fikk skallet til siden opp , ble ting enklere, vi lagde menyer og undermenyer. 
+Utviklingen startet i det smÃ¥. Vi startet med Ã¥ tegne skisser til hvordan vi ville at siden skulle se ut. Utifra skissene lagde vi en skallside, og ut i fra skallsiden lagde vi selve siden. Vi hadde ogsÃ¥ en del Ã¸nsker fra Kulquinox og krav fra oppgaveteksten Ã¥ forholde oss til.  Fra begynnelsen har vi lagt stor vekt pÃ¥ brukervennlighet pÃ¥ hjemmesiden, da det er et mangfold av brukere pÃ¥ Kulquinox. Vi har fra begynnelsen  fulgt WCAG AA standarden. Da vi fikk skallet til siden opp , ble ting enklere, vi lagde menyer og undermenyer. 
 </p>
 <a id="Metode"></a>
 <h4>2.2.2 Valgt "metode" i prosjektet</h4>
 <p>
-Vi har brukt flere metoder i prosjektet, når det gjelder selve siden har vi  hovedsakelig  prøvd å få ting til å bli slik vi vil uten videre litteratursøk og -lesning. Har vi prøvd og feilet en stund tyr vi til litteratursøk, og leser oss opp på det gitte emne. Når det gjelder søkemotoroptimalisering har vi basert oss kun på litteratursøk- og lesning. 
+Vi har brukt flere metoder i prosjektet, nÃ¥r det gjelder selve siden har vi  hovedsakelig  prÃ¸vd Ã¥ fÃ¥ ting til Ã¥ bli slik vi vil uten videre litteratursÃ¸k og -lesning. Har vi prÃ¸vd og feilet en stund tyr vi til litteratursÃ¸k, og leser oss opp pÃ¥ det gitte emne. NÃ¥r det gjelder sÃ¸kemotoroptimalisering har vi basert oss kun pÃ¥ litteratursÃ¸k- og lesning. 
 </p>
 <p>
 Vi har laget flere skisser av siden, som kan ses under 2.3.2 Skjermbilder, site-maps, den siste skissen vil vi betegne som et skall eller en prototype. 
 </p>
 <p>
-Vi bestemte oss også for omfattende brukertesting for å sikre et best mulig resultat. Vi noterte ned ukritisk alle innspill brukerne hadde og gikk gjennom innspillene punkt for punkt. Vi tok alle punktene seriøst og vurderte hvilke punktene vi hadde ett ønske om å gjøre noe med. Resultat ble mange gode endringer, både kosmetisk, funksjonelt samt fjerning av bugs vi ikke hadde oppdaget.
+Vi bestemte oss ogsÃ¥ for omfattende brukertesting for Ã¥ sikre et best mulig resultat. Vi noterte ned ukritisk alle innspill brukerne hadde og gikk gjennom innspillene punkt for punkt. Vi tok alle punktene seriÃ¸st og vurderte hvilke punktene vi hadde ett Ã¸nske om Ã¥ gjÃ¸re noe med. Resultat ble mange gode endringer, bÃ¥de kosmetisk, funksjonelt samt fjerning av bugs vi ikke hadde oppdaget.
 </p>
 <p>
-Som sikkerhetslagring brukte vi fra starten Dropbox, men gikk etterhvert også over til Git for å ha bedre versjonskontroll.
+Som sikkerhetslagring brukte vi fra starten Dropbox, men gikk etterhvert ogsÃ¥ over til Git for Ã¥ ha bedre versjonskontroll.
 </p>
 <a id="Resultater"></a>
 <h4>2.3 Resultater</h4>
@@ -367,13 +368,13 @@ Som sikkerhetslagring brukte vi fra starten Dropbox, men gikk etterhvert også ov
 Websiden har informasjon om, men begrenser seg ikke til, kommende festivaler, priser, artister,  hvordan man kommer seg dit o.s.v.
 </p>
 <p>
-Siden følger konsekvent 3 klikk regelen, som betyr at man aldri er mer enn 3 klikk unna å finne den informasjonen man er ute etter.
+Siden fÃ¸lger konsekvent 3 klikk regelen, som betyr at man aldri er mer enn 3 klikk unna Ã¥ finne den informasjonen man er ute etter.
 </p>
 <p>
-Det endelige produktet består eksterne linker til de sosiale mediene Facebook og Twitter der festivalen har egne profiler.
+Det endelige produktet bestÃ¥r eksterne linker til de sosiale mediene Facebook og Twitter der festivalen har egne profiler.
 </p>
 <p>
-Det finnes også en side med oversikt over samarbeidspartnere, sponsorer og støttespillere.
+Det finnes ogsÃ¥ en side med oversikt over samarbeidspartnere, sponsorer og stÃ¸ttespillere.
 </p>
 <p>
 Beskrivelse av funksjonalitet og design er beskrevet i henholdsvis kapittel 2.3.3 og 2.3.4.
@@ -382,190 +383,190 @@ Beskrivelse av funksjonalitet og design er beskrevet i henholdsvis kapittel 2.3.
 <a id="Skjermbilder"></a>
 <h4>2.3.2 Skjermbilder, site-maps</h4>
 <p>
-Førsteutkast:
+FÃ¸rsteutkast:
 </p>
 <p>
-Dette er den første tegningen av hvordan websiden skal se ut. Utkastet likner noe på hvordan det endelige resultatet ble. Galleriet ble ikke slik som på tegningen, likevel er det galleriet i sluttproduktet tilfredsstillende.
+Dette er den fÃ¸rste tegningen av hvordan websiden skal se ut. Utkastet likner noe pÃ¥ hvordan det endelige resultatet ble. Galleriet ble ikke slik som pÃ¥ tegningen, likevel er det galleriet i sluttproduktet tilfredsstillende.
 </p>
 <p>
 Andreutkast:
 </p>
 <p>
-Her er en tidlig skisse til produktsiden. Et enkelt menysystem som er beholdt helt til det endelige produktet. Det ble brukt linjal for å holde forholdene mellom de tenkte elementene ryddig og oversiktlig.
+Her er en tidlig skisse til produktsiden. Et enkelt menysystem som er beholdt helt til det endelige produktet. Det ble brukt linjal for Ã¥ holde forholdene mellom de tenkte elementene ryddig og oversiktlig.
 </p>
 <p>
 Tredjeutkast (prototype, fig. 4): 
 </p>
 <p>
-Dette er prototypen til hvordan den grunnleggende funksjonaliteten på siden blir. Fargene er ikke endelige, men ment for å markere de forskjellige div-elementene. På siden er det valgt "Program" på hovedmenyen, slik får man opp en undermeny med artister, film, utstilling og tidsskjema. Av praktiske årsaker ble "Program" byttet ut med "På plakaten" i det endelige resultatet. Dette ble gjort etter innspill fra festivalens styre fordi de mente ordet "program" passet bedre der det sto "tidsskjema".
+Dette er prototypen til hvordan den grunnleggende funksjonaliteten pÃ¥ siden blir. Fargene er ikke endelige, men ment for Ã¥ markere de forskjellige div-elementene. PÃ¥ siden er det valgt "Program" pÃ¥ hovedmenyen, slik fÃ¥r man opp en undermeny med artister, film, utstilling og tidsskjema. Av praktiske Ã¥rsaker ble "Program" byttet ut med "PÃ¥ plakaten" i det endelige resultatet. Dette ble gjort etter innspill fra festivalens styre fordi de mente ordet "program" passet bedre der det sto "tidsskjema".
 </p>
 <p>
 Fjerdeutkast (Prototype nr 2):
 </p>
 <p>
-Her er fargene svart og gult valgt, som har veldig god kontrast. Headeren er i grafikk, men er også en <h> tag.
+Her er fargene svart og gult valgt, som har veldig god kontrast. Headeren er i grafikk, men er ogsÃ¥ en <h> tag.
 </p>
 <p>
 Det endelige produktet:
 </p>
 <p>
-Det endelige produktet har videreført idéene fra tidligere skisser og prototyper, men allikevel er det et langt mer utviklet produkt. Headeren i ren grafikk ble forkastet fordi den var vanskelig å få til å passe med resten av innholdet. Menyene er noe endret i forhold til tidligere versjoner. De markerte menyvalgene fungerer som en brødsmulesti på hvor man befinner seg.
+Det endelige produktet har viderefÃ¸rt idÃ©ene fra tidligere skisser og prototyper, men allikevel er det et langt mer utviklet produkt. Headeren i ren grafikk ble forkastet fordi den var vanskelig Ã¥ fÃ¥ til Ã¥ passe med resten av innholdet. Menyene er noe endret i forhold til tidligere versjoner. De markerte menyvalgene fungerer som en brÃ¸dsmulesti pÃ¥ hvor man befinner seg.
 </p>
 <p>
-Sidekart
-
-På Plakaten 
-?	Artister 
-?	Film 
-?	Teater 
-?	Utstilling 
-?	Programmet 
-?	Om Kulquinox 
-?	Galleri 
-?	Nyttig info 
-?	Kontakt 
-?	Sidekart 
+Sidekart:
+<ul>
+ <li>PÃ¥ Plakaten</li> 
+ <li>Artister</li> 
+ <li>Film</li> 
+ <li>Teater</li> 
+ <li>Utstilling</li> 
+ <li>Programmet</li> 
+ <li>Om Kulquinox</li> 
+ <li>Galleri</li> 
+ <li>Nyttig info</li> 
+ <li>Kontakt</li> 
+ <li>Sidekart</li> 
+</ul>
 </p>
-
-
 
 
 <a id="Beskrivelse_funskjonalitet"></a>
 <h4>2.3.3 Beskrivelse av funskjonalitet</h4>
 <p>
-Fordi festivalen har en spredt brukergruppe ønsker vi å holde funksjonaliteten til et grunnleggende nivå. Et enkelt menysystem. En programside med kort informasjon om innslagene. Et galleri med bilder fra tidligere festivaler. Skjema for henvendelser til Kulquinox' kontaktpersoner. Mulighet for å navigere seg gjennom et sidekart. En side med praktisk informasjon om adkomst, billetter og i tillegg informasjon om hvordan utenforstående kan støtte festivalen. Dette er svært viktig da det er en festival drevet av ildsjeler uten store økonomiske ressurser.
+Fordi festivalen har en spredt brukergruppe Ã¸nsker vi Ã¥ holde funksjonaliteten til et grunnleggende nivÃ¥. Et enkelt menysystem. En programside med kort informasjon om innslagene. Et galleri med bilder fra tidligere festivaler. Skjema for henvendelser til Kulquinox' kontaktpersoner. Mulighet for Ã¥ navigere seg gjennom et sidekart. En side med praktisk informasjon om adkomst, billetter og i tillegg informasjon om hvordan utenforstÃ¥ende kan stÃ¸tte festivalen. Dette er svÃ¦rt viktig da det er en festival drevet av ildsjeler uten store Ã¸konomiske ressurser.
 </p>
 <p>
 Praktisk bruk av siden
 </p>
 <p>
-Det viktigste funksjonen siden skal tilby er at brukeren effektivt skal finne frem til nødvendig informasjon. Vi har gitt lenker beskrivende navn som forteller klart hva man går til.
+Det viktigste funksjonen siden skal tilby er at brukeren effektivt skal finne frem til nÃ¸dvendig informasjon. Vi har gitt lenker beskrivende navn som forteller klart hva man gÃ¥r til.
 </p>
 <p>
-Siden er skalerbar ned til 800x600 oppløsning, dermed fungerer den på de fleste smarttelefoner, men også for folk som bruker eldre datautstyr eller ikke kan bruke høy oppløsning pga. svaksynthet.
+Siden er skalerbar ned til 800x600 opplÃ¸sning, dermed fungerer den pÃ¥ de fleste smarttelefoner, men ogsÃ¥ for folk som bruker eldre datautstyr eller ikke kan bruke hÃ¸y opplÃ¸sning pga. svaksynthet.
 </p>
 <p>
 Engelsk oversettelse
 </p>
 <p>
-Hele siden er oversatt til engelsk etter forespørsel fra Kulquinox. Dagens festivaler skal nå ut til ett så bredt publikum som mulig, derfor er det nødvendig å tilby et internasjonalt alternativ. For å gjøre søking lettest mulig for internasjonale brukere har vi satt <html lang="en">, laget egne søkeord for engelsk, og oversatte alle sidenavn og mapper.
+Hele siden er oversatt til engelsk etter forespÃ¸rsel fra Kulquinox. Dagens festivaler skal nÃ¥ ut til ett sÃ¥ bredt publikum som mulig, derfor er det nÃ¸dvendig Ã¥ tilby et internasjonalt alternativ. For Ã¥ gjÃ¸re sÃ¸king lettest mulig for internasjonale brukere har vi satt <html lang="en">, laget egne sÃ¸keord for engelsk, og oversatte alle sidenavn og mapper.
 </p>
 <p>
-Det er også foretatt et bevisst valgt å ikke legge dobbelt med stilark og bilder. Dette gjør siden mer håndterbar på utviklingssiden og er plassbesparende.
+Det er ogsÃ¥ foretatt et bevisst valgt Ã¥ ikke legge dobbelt med stilark og bilder. Dette gjÃ¸r siden mer hÃ¥ndterbar pÃ¥ utviklingssiden og er plassbesparende.
 </p>
 <a id="Beskrivelse_design"></a>
 <h4>2.3.4 Beskrivelse av design</h4>
 <p>
-Metoden for arbeidet på design har vært en prosess der vi startet med å diskutere våre idéer for hvordan siden skal se ut, til å tegne opp hvordan vi ser for oss nettsiden på papir og til slutt prøve og feile med HTML/CSS basert på de skissene fra begynnelsen av designprosessen. 
+Metoden for arbeidet pÃ¥ design har vÃ¦rt en prosess der vi startet med Ã¥ diskutere vÃ¥re idÃ©er for hvordan siden skal se ut, til Ã¥ tegne opp hvordan vi ser for oss nettsiden pÃ¥ papir og til slutt prÃ¸ve og feile med HTML/CSS basert pÃ¥ de skissene fra begynnelsen av designprosessen. 
 </p>
 <p>
-Kulquinox har en bred brukermasse med personer i alle aldre. Produktsiden skal  se kul ut,  samtidig skal den skal være enkel i bruk for folk i alle aldre. Den skal  ikke diskriminere mennesker med nedsatte funksjonsevner, det være seg dårlig syn, nedsatte motoriske evner, eller generelle lesevansker. 
+Kulquinox har en bred brukermasse med personer i alle aldre. Produktsiden skal  se kul ut,  samtidig skal den skal vÃ¦re enkel i bruk for folk i alle aldre. Den skal  ikke diskriminere mennesker med nedsatte funksjonsevner, det vÃ¦re seg dÃ¥rlig syn, nedsatte motoriske evner, eller generelle lesevansker. 
 </p>
 <p>
-For å gi siden en klar profil, ble det gått gjennom grafisk materiale fra den tidligere nettsiden. Det ble funnet et oversiktskart(fig. 7) over festivalområdet som inneholdt flere spennende grafiske elementer. 
+For Ã¥ gi siden en klar profil, ble det gÃ¥tt gjennom grafisk materiale fra den tidligere nettsiden. Det ble funnet et oversiktskart(fig. 7) over festivalomrÃ¥det som inneholdt flere spennende grafiske elementer. 
 </p>
 <p>
-Underveis ble "Kulquinox"-logoen fra festivalkartet brukt, men på grunn av den lave oppløsning på det tilsendte materiale ble logoen for kornete. Vi måtte dessuten legge "usynlig" tekst bak grafikken for å oppnå leselighet med screenreaders/Lynx. Isteden ble det valgt grafiske elementer gruppen likte (merk: elementene i rødt kommer fra den høyest oppløste versjonen, som ble tilsendt etter forespørsel til Øyvind Aamodt). Deretter brukte vi de valgte grafiske elementene som bakgrunn i headeren (fig. 8). Slik ble det lett å tilpasse headeren med resten av innholdet på siden.
+Underveis ble "Kulquinox"-logoen fra festivalkartet brukt, men pÃ¥ grunn av den lave opplÃ¸sning pÃ¥ det tilsendte materiale ble logoen for kornete. Vi mÃ¥tte dessuten legge "usynlig" tekst bak grafikken for Ã¥ oppnÃ¥ leselighet med screenreaders/Lynx. Isteden ble det valgt grafiske elementer gruppen likte (merk: elementene i rÃ¸dt kommer fra den hÃ¸yest opplÃ¸ste versjonen, som ble tilsendt etter forespÃ¸rsel til Ã˜yvind Aamodt). Deretter brukte vi de valgte grafiske elementene som bakgrunn i headeren (fig. 8). Slik ble det lett Ã¥ tilpasse headeren med resten av innholdet pÃ¥ siden.
 </p>
 <p>
 Fargevalg
 </p>
 <p>
-For å beholde gjenkjennelsesfaktoren har vi brukt fargene gul og grønt, som Kulquinox har hatt tidligere (fig. 9), men passet på å ikke legge dem i direkte kombinasjon der det er tekst. Dette har vi løst ved å implementere en mørk brunfarge. Kontrasten på gult og brunt i headeren tilfredsstiller WCAG 2.0 AAA.
+For Ã¥ beholde gjenkjennelsesfaktoren har vi brukt fargene gul og grÃ¸nt, som Kulquinox har hatt tidligere (fig. 9), men passet pÃ¥ Ã¥ ikke legge dem i direkte kombinasjon der det er tekst. Dette har vi lÃ¸st ved Ã¥ implementere en mÃ¸rk brunfarge. Kontrasten pÃ¥ gult og brunt i headeren tilfredsstiller WCAG 2.0 AAA.
 </p>
 <p>
-Det ble valgt nærmest sort tone for brødtekst, her med en svak sandfarget bakgrunn. Det har vært viktig at vi bruker fargene konsekvent, bl.a. har vi hatt brunt i header og footer, med den samme gulfargen i teksten. Dette gir en klar grafisk profil. På lenker er det brukt komplementærfarger av henholdsvis gult og sandfargen. For å komme frem til gode fargekombinasjoner verktøyet Adobe Kuler benyttet (kuler.adobe.com).
+Det ble valgt nÃ¦rmest sort tone for brÃ¸dtekst, her med en svak sandfarget bakgrunn. Det har vÃ¦rt viktig at vi bruker fargene konsekvent, bl.a. har vi hatt brunt i header og footer, med den samme gulfargen i teksten. Dette gir en klar grafisk profil. PÃ¥ lenker er det brukt komplementÃ¦rfarger av henholdsvis gult og sandfargen. For Ã¥ komme frem til gode fargekombinasjoner verktÃ¸yet Adobe Kuler benyttet (kuler.adobe.com).
 </p>
 <p>
 Fontvalg
 </p>
 <p>
-Fordi det gjennom hele prosjektet har blitt fokusert på god lesbarhet er det valgt sans-serif-fonter for hele siden. Det ble gjort forsøk med serif-fonter i underoverskrifter, men sans-serif-fonter gjør det enklere å holde en konsis, ryddig, lettlest og estetisk profil. Sans-serif gir også bedre lesbarhet for skjerm, derfor falt valget lett på en slik font.
+Fordi det gjennom hele prosjektet har blitt fokusert pÃ¥ god lesbarhet er det valgt sans-serif-fonter for hele siden. Det ble gjort forsÃ¸k med serif-fonter i underoverskrifter, men sans-serif-fonter gjÃ¸r det enklere Ã¥ holde en konsis, ryddig, lettlest og estetisk profil. Sans-serif gir ogsÃ¥ bedre lesbarhet for skjerm, derfor falt valget lett pÃ¥ en slik font.
 </p>
 <p>
-Siden benytter flere menyvalg, derfor er menyen tydeliggjort ved hjelp av store knapper som forandrer farge når man trykker på dem. Slik indikerer de hvor på siden man befinner seg og fungerer som en brødsmulesti. Undermenyen er også skilt fra hovedmenyen ved å bruke en annen farge som bakgrunn(fig. 10), men beholdt fargene fra hovedmenyknappene. Fordi vi har vært konsekvent på valg av faste farger har det ikke gått på kompromiss med den estetiske profilen.
+Siden benytter flere menyvalg, derfor er menyen tydeliggjort ved hjelp av store knapper som forandrer farge nÃ¥r man trykker pÃ¥ dem. Slik indikerer de hvor pÃ¥ siden man befinner seg og fungerer som en brÃ¸dsmulesti. Undermenyen er ogsÃ¥ skilt fra hovedmenyen ved Ã¥ bruke en annen farge som bakgrunn(fig. 10), men beholdt fargene fra hovedmenyknappene. Fordi vi har vÃ¦rt konsekvent pÃ¥ valg av faste farger har det ikke gÃ¥tt pÃ¥ kompromiss med den estetiske profilen.
 </p>
 <a id="WCAG"></a>
 <h4>2.3.5 WCAG</h4>
 <p>
 <p>
-Når disse retningslinjene blir fulgt, blir websiden mer tilgjengelig for personer med nedsatt funksjonsevne, som blant annet svaksynte, døve eller hørselhemmede samt personer med lese- og skrivevansker.
+NÃ¥r disse retningslinjene blir fulgt, blir websiden mer tilgjengelig for personer med nedsatt funksjonsevne, som blant annet svaksynte, dÃ¸ve eller hÃ¸rselhemmede samt personer med lese- og skrivevansker.
 </p>
 <p>
-I tillegg til dette gjøres webinnholdet tilgjengelig for personer med nedsatt funksjon eller motorikk, eksempel person med Parkinsons syndrom eller andre som er avhengig av å kun bruke tastaturet til å navigere med (eller for personer som rett og slett foretrekker å navigere med tastaturet). Ikke bare blir siden tilgjengelig for personer med handikap, men det gjør også at siden blir mere funksjonell generelt sett (mange brukere liker å navigere seg med tastaturet uavhengig av funksjonsevne).
+I tillegg til dette gjÃ¸res webinnholdet tilgjengelig for personer med nedsatt funksjon eller motorikk, eksempel person med Parkinsons syndrom eller andre som er avhengig av Ã¥ kun bruke tastaturet til Ã¥ navigere med (eller for personer som rett og slett foretrekker Ã¥ navigere med tastaturet). Ikke bare blir siden tilgjengelig for personer med handikap, men det gjÃ¸r ogsÃ¥ at siden blir mere funksjonell generelt sett (mange brukere liker Ã¥ navigere seg med tastaturet uavhengig av funksjonsevne).
 </p>
 <p>
-Helt fra starten bestemte vi oss for at vår nettside skulle oppfylle WCAG AA sine krav, dette fordi festivalen har et innhold som passer for en stor gruppe personer, målgruppen er barn, ungdom, voksne og eldre.
+Helt fra starten bestemte vi oss for at vÃ¥r nettside skulle oppfylle WCAG AA sine krav, dette fordi festivalen har et innhold som passer for en stor gruppe personer, mÃ¥lgruppen er barn, ungdom, voksne og eldre.
 </p>
 <p>
-Vi har valgt å kun holde oss til HTML 5, CSS og PHP. Dette har vi kompetanse i, men vi ønsker også å holde tilgjengeligheten høy. Siden Java og Flash må installeres på klientsiden er det ikke sikkert alle har dette i sine nettlesere. Når det gjelder farger har vi valgt farger som vi mener representerer festivalen på en bra måte, men dessuten har lik eller høyere kontrast enn 
+Vi har valgt Ã¥ kun holde oss til HTML 5, CSS og PHP. Dette har vi kompetanse i, men vi Ã¸nsker ogsÃ¥ Ã¥ holde tilgjengeligheten hÃ¸y. Siden Java og Flash mÃ¥ installeres pÃ¥ klientsiden er det ikke sikkert alle har dette i sine nettlesere. NÃ¥r det gjelder farger har vi valgt farger som vi mener representerer festivalen pÃ¥ en bra mÃ¥te, men dessuten har lik eller hÃ¸yere kontrast enn 
 </p>
 <p>
 WCAGs krav (3 : 1).
 </p>
 <p>
-Websiden følger WCAG sine krav om at websider fortsatt skal være lesbar med dobbel skriftstørrelse. Dette fungerer helt ned til oppløsningen 1024 x 768. Websiden fungerer også helt ned til 800 x 600, men da ikke med dobbel skriftstørrelse.
+Websiden fÃ¸lger WCAG sine krav om at websider fortsatt skal vÃ¦re lesbar med dobbel skriftstÃ¸rrelse. Dette fungerer helt ned til opplÃ¸sningen 1024 x 768. Websiden fungerer ogsÃ¥ helt ned til 800 x 600, men da ikke med dobbel skriftstÃ¸rrelse.
 </p>
 <p>
-Nettsiden har sin egen brødsmulesti med knapper som til en hver tid viser hvor på websiden du er, dette gjør det veldig lett å navigere, dette er også selvsagt mulig med kun tastaturet.
-Det finnes også et sidekart som er oversiktlig og lett å bruke.
+Nettsiden har sin egen brÃ¸dsmulesti med knapper som til en hver tid viser hvor pÃ¥ websiden du er, dette gjÃ¸r det veldig lett Ã¥ navigere, dette er ogsÃ¥ selvsagt mulig med kun tastaturet.
+Det finnes ogsÃ¥ et sidekart som er oversiktlig og lett Ã¥ bruke.
 </p>
 <p>
-Innholdet på siden er relevant informasjon, som er skrevet lett og med korte settinger.
-Dette gjelder ikke bare tekst med også bilder, vi har valgt å kun ha med bilder som gir mening, ikke bare for  å være dekorative. Dette sikrer festivalen og brukere en solid, gjennomtenkt og funksjonell side.
+Innholdet pÃ¥ siden er relevant informasjon, som er skrevet lett og med korte settinger.
+Dette gjelder ikke bare tekst med ogsÃ¥ bilder, vi har valgt Ã¥ kun ha med bilder som gir mening, ikke bare for  Ã¥ vÃ¦re dekorative. Dette sikrer festivalen og brukere en solid, gjennomtenkt og funksjonell side.
 </p>
 </p>
 
 <a id="Evaluering"></a>
 <h4>2.4 Evaluering av resultat(nettsiden)</h4>
 <p>
-For å evaluere nettsiden velger vi  å se på hva vi satte som mål før vi begynte å lage 
-nettsiden, for så å sammenligne med hva vi har fått til.
+For Ã¥ evaluere nettsiden velger vi  Ã¥ se pÃ¥ hva vi satte som mÃ¥l fÃ¸r vi begynte Ã¥ lage 
+nettsiden, for sÃ¥ Ã¥ sammenligne med hva vi har fÃ¥tt til.
 </p>
 <p>
 Fra styringsdokumentene:
 </p>
 <p>
-Mål
+MÃ¥l
 </p>
 <p>
-Vi ønsker å lage et forslag til ny webløsning som kan overta for den eksisterende før året er omme. Den skal tilpasses dagens krav for universell utforming samtidig ha en funksjonell og estetisk design. Øke antall besøkende for festivalen. 
+Vi Ã¸nsker Ã¥ lage et forslag til ny weblÃ¸sning som kan overta for den eksisterende fÃ¸r Ã¥ret er omme. Den skal tilpasses dagens krav for universell utforming samtidig ha en funksjonell og estetisk design. Ã˜ke antall besÃ¸kende for festivalen. 
 </p>
 <p>
-Produktmål
+ProduktmÃ¥l:
 </p>
 <p>
+	
 ?	Informasjon om tid og sted. 
-?	Informasjon om billetter, pris, hvor de kan kjøpes. 
+?	Informasjon om billetter, pris, hvor de kan kjÃ¸pes. 
 ?	Lage en oversiktlig programside hvor det kan legges inn informasjon om: 
 ?	Artister/band 
 ?	Film 
 ?	Teater 
 ?	Kunst/Utstillinger 
 ?	Foredrag som skal holdes 
-?	Tilpasse webløsningen for sosiale medier 
+?	Tilpasse weblÃ¸sningen for sosiale medier 
 ?	Lage et galleri med fotografier fra tidligere arrangementer 
 ?	Beskrivelse av festivalens bakgrunn og historie 
-?	Lage en løsning for å sende inn spørsmål til festivalen via skjema 
+?	Lage en lÃ¸sning for Ã¥ sende inn spÃ¸rsmÃ¥l til festivalen via skjema 
 ?	Informasjon for gjester med handicap 
 </p>
 <p>
-Når det gjelder produktmålene våre har vi oppfylt de fleste, men ikke all informasjon er på plass fra Kulquinox.
+NÃ¥r det gjelder produktmÃ¥lene vÃ¥re har vi oppfylt de fleste, men ikke all informasjon er pÃ¥ plass fra Kulquinox.
 </p>
 <p>
-Vi har nådd målet vårt om at websiden skal tilpasse dagens krav for universell utforming, og har etter vår mening en funksjonell og estetisk design. Websiden fungerer også i forskjellige operativsystemer. 
+Vi har nÃ¥dd mÃ¥let vÃ¥rt om at websiden skal tilpasse dagens krav for universell utforming, og har etter vÃ¥r mening en funksjonell og estetisk design. Websiden fungerer ogsÃ¥ i forskjellige operativsystemer. 
 </p>
 <p>
-Et av målene vår har vært at den nye websiden blant annet skal være til hjelp for et høyere besøkstall ved neste festival. Det er noe vi ikke kan si noe om før neste festival blir avholdt våren 2012. Produktsiden er tilrettelagt for Google-søk, se kapittel 2.
+Et av mÃ¥lene vÃ¥r har vÃ¦rt at den nye websiden blant annet skal vÃ¦re til hjelp for et hÃ¸yere besÃ¸kstall ved neste festival. Det er noe vi ikke kan si noe om fÃ¸r neste festival blir avholdt vÃ¥ren 2012. Produktsiden er tilrettelagt for Google-sÃ¸k, se kapittel 2.
 </p>
 <p>
-Websiden har en brødsmulesti, som vi fra starten av var usikre på om vi ville få til, så det er vi godt fornøyd med. Websiden er satt opp på slik at man ikke behøver å bruke Flash eller Java.
+Websiden har en brÃ¸dsmulesti, som vi fra starten av var usikre pÃ¥ om vi ville fÃ¥ til, sÃ¥ det er vi godt fornÃ¸yd med. Websiden er satt opp pÃ¥ slik at man ikke behÃ¸ver Ã¥ bruke Flash eller Java.
 </p>
 <p>
-Etter vår mening er koden godt strukturert, dette vil gjøre utviklerjobben senere lettere.
+Etter vÃ¥r mening er koden godt strukturert, dette vil gjÃ¸re utviklerjobben senere lettere.
 </p>
 <p>
-Styret i Kulquinox er fornøyd med det resultatet vi har kommer til.
+Styret i Kulquinox er fornÃ¸yd med det resultatet vi har kommer til.
 </p>
 <a id="Avslutningsdel"></a>
 <h4>3. Avslutningsdel</h4>
@@ -576,77 +577,77 @@ Styret i Kulquinox er fornøyd med det resultatet vi har kommer til.
 <a id="Arbeidet"></a>
 <h4>3.1.1 Hvordan har arbeidet fungert?</h4>
 <p>
-Vi satt opp et ansvarskart, aktivitetsplan, milepælsplan og en samarbeidsavtale, som vi har etter fulgt etter beste evne. Disse styringsdokumentene har hjulpet oss, slik at vi til en hver tid i prosessen vet hvor vi skal være og hvem som skal ha gjort hva. Samarbeidsavtalen sikrer fremdrift i prosjektet. Gruppemøtene har vært hyppige, med onsdag og fredag som faste dager. Før innleveringer og presentasjonen har vi hatt enda hyppigere møter for å sikre at arbeidet skulle bli ferdig og få et best mulig resultat.
+Vi satt opp et ansvarskart, aktivitetsplan, milepÃ¦lsplan og en samarbeidsavtale, som vi har etter fulgt etter beste evne. Disse styringsdokumentene har hjulpet oss, slik at vi til en hver tid i prosessen vet hvor vi skal vÃ¦re og hvem som skal ha gjort hva. Samarbeidsavtalen sikrer fremdrift i prosjektet. GruppemÃ¸tene har vÃ¦rt hyppige, med onsdag og fredag som faste dager. FÃ¸r innleveringer og presentasjonen har vi hatt enda hyppigere mÃ¸ter for Ã¥ sikre at arbeidet skulle bli ferdig og fÃ¥ et best mulig resultat.
 </p>
 <a id="GIT"></a>
 <h4>3.1.2 Arbeid med GIT</h4>
 <p>
-Den 4. november besluttet gruppen å å bruke Git for å få et bedre versjonkontrollsystem. Erlend fikk ansvar for å lære seg det og gi resten en gjennomgang. I startfasen var det innkjøring på Git noe vanskelig og gruppen klarte ikke helt å legge fra seg bruken av Dropbox for å samkjøre utviklingen av nettsiden.
+Den 4. november besluttet gruppen Ã¥ Ã¥ bruke Git for Ã¥ fÃ¥ et bedre versjonkontrollsystem. Erlend fikk ansvar for Ã¥ lÃ¦re seg det og gi resten en gjennomgang. I startfasen var det innkjÃ¸ring pÃ¥ Git noe vanskelig og gruppen klarte ikke helt Ã¥ legge fra seg bruken av Dropbox for Ã¥ samkjÃ¸re utviklingen av nettsiden.
 </p>
 <p>
-Historikken på Git er  ikke komplett. I begynnelsen ble Git brukt litt feil, siden vi gjorde store endringer og ikke mange små. Store endringer ble gjerne hentet fra oppdateringer i Dropbox. Det ble vanskelig å gå tilbake i versjonene når små deler av store oppdateringer var feil.
+Historikken pÃ¥ Git er  ikke komplett. I begynnelsen ble Git brukt litt feil, siden vi gjorde store endringer og ikke mange smÃ¥. Store endringer ble gjerne hentet fra oppdateringer i Dropbox. Det ble vanskelig Ã¥ gÃ¥ tilbake i versjonene nÃ¥r smÃ¥ deler av store oppdateringer var feil.
 </p>
 <p>
-Bruken av kommentering i starten var også mangelfull, da vi flere ganger brukte fraser som "ordnet opp i feil" uten å spesifisere hva vi gjorde. Man kan jo selvsagt gå inn på historikken å se hva som er blitt gjort, men ideen med kommentering er at den skal være beskrivende for den utførte endringen.
+Bruken av kommentering i starten var ogsÃ¥ mangelfull, da vi flere ganger brukte fraser som "ordnet opp i feil" uten Ã¥ spesifisere hva vi gjorde. Man kan jo selvsagt gÃ¥ inn pÃ¥ historikken Ã¥ se hva som er blitt gjort, men ideen med kommentering er at den skal vÃ¦re beskrivende for den utfÃ¸rte endringen.
 </p>
 <p>
-Fordi ikke alle i gruppen brukte Git like aktivt, er det mange commits med oppdateringer av filer som ikke stammer direkte fra brukeren. Eksempel på det kan være at Mathias har jobbet med artistsider og Nicolai har gjort commit av filen. Det er derfor i en del tilfeller uklart hvem som har gjort hvilke endringer på Git-hubben.
+Fordi ikke alle i gruppen brukte Git like aktivt, er det mange commits med oppdateringer av filer som ikke stammer direkte fra brukeren. Eksempel pÃ¥ det kan vÃ¦re at Mathias har jobbet med artistsider og Nicolai har gjort commit av filen. Det er derfor i en del tilfeller uklart hvem som har gjort hvilke endringer pÃ¥ Git-hubben.
 </p>
 <p>
-De siste dagene i prosjektet har gruppen lært å bruke Git mer korrekt, selv om Dropbox også har vært nødvendig, men da spesielt filer som ikke har med koden å gjøre, for eksempel sluttrapport. Kommenteringen er blitt bedre og mer beskrivende. Gruppen har fått en god forståelse for hvor kraftig verktøy Git er under utvikling av kode.
+De siste dagene i prosjektet har gruppen lÃ¦rt Ã¥ bruke Git mer korrekt, selv om Dropbox ogsÃ¥ har vÃ¦rt nÃ¸dvendig, men da spesielt filer som ikke har med koden Ã¥ gjÃ¸re, for eksempel sluttrapport. Kommenteringen er blitt bedre og mer beskrivende. Gruppen har fÃ¥tt en god forstÃ¥else for hvor kraftig verktÃ¸y Git er under utvikling av kode.
 </p>
-<a id="Hva_har_vi_lært"></a>
-<h4>3.1.3 Hva har vi lært?</h4>
+<a id="Hva_har_vi_lÃ¦rt"></a>
+<h4>3.1.3 Hva har vi lÃ¦rt?</h4>
 <p>
-Ingen av gruppemedlemmene kjente hverandre fra før av da gruppen ble satt opp. Vi har blitt kjent med hverandre og lært å samarbeide på en god måte. 
-</p>
-<p>
-Vi har lært viktigheten av gode styringsdokumenter, men også fått lørt mye om hvordan et prosjekt bør styres. Viktigheten av styringsdokumentene ble mer og mer åpenbart etter hvert som prosjektet utviklet seg. Vi trengte faste rammer og milepæler å forholde oss til.
+Ingen av gruppemedlemmene kjente hverandre fra fÃ¸r av da gruppen ble satt opp. Vi har blitt kjent med hverandre og lÃ¦rt Ã¥ samarbeide pÃ¥ en god mÃ¥te. 
 </p>
 <p>
-Vi har dessuten lært om versjonskontrollsystemet GIT.
+Vi har lÃ¦rt viktigheten av gode styringsdokumenter, men ogsÃ¥ fÃ¥tt lÃ¸rt mye om hvordan et prosjekt bÃ¸r styres. Viktigheten av styringsdokumentene ble mer og mer Ã¥penbart etter hvert som prosjektet utviklet seg. Vi trengte faste rammer og milepÃ¦ler Ã¥ forholde oss til.
 </p>
 <p>
-Vi ha opparbeidet høyere kompetanse i HTML, CSS og til en viss gra PHP.
+Vi har dessuten lÃ¦rt om versjonskontrollsystemet GIT.
+</p>
+<p>
+Vi ha opparbeidet hÃ¸yere kompetanse i HTML, CSS og til en viss gra PHP.
 </p>
 
 <a id="hva_kunne_vi_gjort"></a>
 <h4>3.1.4 Hva burde/kunne vi gjort anerledes?</h4>
 <p>
-Styringsdokumentene burde vært opprettet i en fullstendig utgave tidligere for å få faste rammer å forholde oss til.
+Styringsdokumentene burde vÃ¦rt opprettet i en fullstendig utgave tidligere for Ã¥ fÃ¥ faste rammer Ã¥ forholde oss til.
 </p>
 <p>
-Arbeidsmengden burde ha blitt fordelt noe jevnere, slik at vi hadde sluppet å jobbe så mye mot slutten av leveransene. Å koordinere arbeidet bedre med annet skolearbeid hadde også gjort arbeidet mindre hektisk.
+Arbeidsmengden burde ha blitt fordelt noe jevnere, slik at vi hadde sluppet Ã¥ jobbe sÃ¥ mye mot slutten av leveransene. Ã… koordinere arbeidet bedre med annet skolearbeid hadde ogsÃ¥ gjort arbeidet mindre hektisk.
 </p>
 <p>
-Sent i prosjektet  ble en del filnavn og mappenavn i produktsiden endret. Dette kunne blitt gjort tidligere. Det ville gitt oss mer brukertesting til å avdekke enkelte bugs fremprovosert av navnendringene.
+Sent i prosjektet  ble en del filnavn og mappenavn i produktsiden endret. Dette kunne blitt gjort tidligere. Det ville gitt oss mer brukertesting til Ã¥ avdekke enkelte bugs fremprovosert av navnendringene.
 </p>
 
 <a id="resultat"></a>
-<h4>3.1.5 Hvor godt ble resultat? (basert på evaluering)</h4>
+<h4>3.1.5 Hvor godt ble resultat? (basert pÃ¥ evaluering)</h4>
 <p>
-Det er vanskelig å si hvor godt resultatet er før artistsidene til vårens festival kan publiseres. Resultatet avhenger mye av hvordan brukergruppen opplever å finne frem til relevant informasjon og hvorvidt produktsiden gir dem lyst til å oppsøke festivalen. Siden kan være en design- og strukturmessig suksess men ha manglende kommersiell suksess. I forhold til produktmålet vi har satt oss er vi derimot fornøyd med det endelige resultatet.
+Det er vanskelig Ã¥ si hvor godt resultatet er fÃ¸r artistsidene til vÃ¥rens festival kan publiseres. Resultatet avhenger mye av hvordan brukergruppen opplever Ã¥ finne frem til relevant informasjon og hvorvidt produktsiden gir dem lyst til Ã¥ oppsÃ¸ke festivalen. Siden kan vÃ¦re en design- og strukturmessig suksess men ha manglende kommersiell suksess. I forhold til produktmÃ¥let vi har satt oss er vi derimot fornÃ¸yd med det endelige resultatet.
 </p>
 
 <a id="Tiltak_videre_arbeid"></a>
 <h4>3.2 Forslag til tiltak og videre arbeid</h4>
 <p>
-Kulquinox ønsker at vi skal fortsette å drifte websiden etter prosjektslutt, det har vi sagt oss villig til å gjøre. På den annen side er det også nå det begynner, fordi utviklingen av siden har vært å lage et solid fundament å bygge videre på.
+Kulquinox Ã¸nsker at vi skal fortsette Ã¥ drifte websiden etter prosjektslutt, det har vi sagt oss villig til Ã¥ gjÃ¸re. PÃ¥ den annen side er det ogsÃ¥ nÃ¥ det begynner, fordi utviklingen av siden har vÃ¦rt Ã¥ lage et solid fundament Ã¥ bygge videre pÃ¥.
 </p>
 <p>
-Selv om siden er funksjonell og enkel etter endt prosjekt så ser vi at det er ting vi kunne løst på en bedre og mer funksjonell måte.
+Selv om siden er funksjonell og enkel etter endt prosjekt sÃ¥ ser vi at det er ting vi kunne lÃ¸st pÃ¥ en bedre og mer funksjonell mÃ¥te.
 </p>
 <p>
-Foreløpig er planene å innføre et publiseringsverktøy for Kulquinox, slik at man på en enkel måte kan legge ut bilder, nyheter og artistbookinger uten å ha kjennskap til HTML, CSS eller PHP. Slik vil funksjonaliteten økes for arrangørene.
+ForelÃ¸pig er planene Ã¥ innfÃ¸re et publiseringsverktÃ¸y for Kulquinox, slik at man pÃ¥ en enkel mÃ¥te kan legge ut bilder, nyheter og artistbookinger uten Ã¥ ha kjennskap til HTML, CSS eller PHP. Slik vil funksjonaliteten Ã¸kes for arrangÃ¸rene.
 </p>
 <p>
-Disse idéene vil vi jobbe med videre etterhvert som vi lærer mer i studiene våre. At vi er studenter fra alle tre linjene i Webprosjekt er en faglig styrke som vil komme godt ut i produktet vi utvikler.
+Disse idÃ©ene vil vi jobbe med videre etterhvert som vi lÃ¦rer mer i studiene vÃ¥re. At vi er studenter fra alle tre linjene i Webprosjekt er en faglig styrke som vil komme godt ut i produktet vi utvikler.
 </p>
 <p>
-Websiden skal også være tilgjengelig på spansk, det er noe vi vil gjøre i nærmeste fremtid, etter ønske fra styret i Kulquinox. Dette kan tidligst være på plass til neste festival, våren 2012. Foreløpig har vi ingen kontakter som kan gjøre dette, men vi ser an mulighetene som kommer.
+Websiden skal ogsÃ¥ vÃ¦re tilgjengelig pÃ¥ spansk, det er noe vi vil gjÃ¸re i nÃ¦rmeste fremtid, etter Ã¸nske fra styret i Kulquinox. Dette kan tidligst vÃ¦re pÃ¥ plass til neste festival, vÃ¥ren 2012. ForelÃ¸pig har vi ingen kontakter som kan gjÃ¸re dette, men vi ser an mulighetene som kommer.
 </p>
 <p>
-Under menyene film, teater og utstilling, vil vi bruke samme system som er blitt gjort under artister, dette legges ut forløpende etter som vi får vite om nye bookinger til vårens festival.
+Under menyene film, teater og utstilling, vil vi bruke samme system som er blitt gjort under artister, dette legges ut forlÃ¸pende etter som vi fÃ¥r vite om nye bookinger til vÃ¥rens festival.
 </p>
 
 <a id="Henvisningsdel"></a>
@@ -670,21 +671,21 @@ Under menyene film, teater og utstilling, vil vi bruke samme system som er blitt
 <a id="Datamateriale"></a>
 <h4>4.1.3 Datamateriale</h4>
 <p>
-Git: Vi har ikke brukt Git konsekvent gjennom hele prosjektet og den som har sendt inn commits har ikke nødvendigvis gjort arbeidet bak.
+Git: Vi har ikke brukt Git konsekvent gjennom hele prosjektet og den som har sendt inn commits har ikke nÃ¸dvendigvis gjort arbeidet bak.
 </p>
 <p>
-<a href="https://github.com/erWulf/Web ">https://github.com/erWulf/Web</a> (Link til vårt repository) 
+<a href="https://github.com/erWulf/Web ">https://github.com/erWulf/Web</a> (Link til vÃ¥rt repository) 
 </p>
 <p>
-git://github.com/erWulf/Web.git (Link til read only access av vårt repository.)
+git://github.com/erWulf/Web.git (Link til read only access av vÃ¥rt repository.)
 </p>
 
 <a id="Kildehenvisninger"></a>
 <h4>4.2 Kildehenvisninger</h4>
 
 
-<a id="Fagbøker"></a>
-<h4>4.2.1 Fagbøker</h4>
+<a id="FagbÃ¸ker"></a>
+<h4>4.2.1 FagbÃ¸ker</h4>
 <p>
 The  Complete Reference HTML & CSS av Thomas A. Powell
 </p>
@@ -698,7 +699,7 @@ Webprogrammering i PHP av Svend Andreas Horgen
 <a id="Websider"></a>
 <h4>4.2.2 Websider</h4>
 <p>
-Googles starter guide for søkemotoroptimalisering: 
+Googles starter guide for sÃ¸kemotoroptimalisering: 
 <a href="http://static.googleusercontent.com/external_content/untrusted_dlcp/www.google.com/no//webmasters/docs/search-engine-optimization-starter-guide.pdf">http://static.googleusercontent.com/external_content/untrusted_dlcp/www.google.com/no//webmasters/docs/search-engine-optimization-starter-guide.pdf</a>
 
 </p>
