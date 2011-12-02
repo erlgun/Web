@@ -609,6 +609,40 @@ li.sitemap_links a:active {
 	text-decoration: underline;
 }
 
+table.schedule a:link {
+	color: #1e1e1e;
+	text-decoration: none;
+}
+table.schedule a:visited {
+	color: #1e1e1e;
+	text-decoration: none;
+}
+table.schedule a:hover {
+	color: #1e1e1e;
+	text-decoration: underline;
+}
+table.schedule a:active {
+	color: #41342d;
+	text-decoration: underline;
+}
+
+div.event_stub a:link {
+	color: #1e1e1e;
+	text-decoration: none;
+}
+div.event_stub a:visited {
+	color: #1e1e1e;
+	text-decoration: none;
+}
+div.event_stub a:hover {
+	color: #1e1e1e;
+	text-decoration: underline;
+}
+div.event_stub a:active {
+	color: #41342d;
+	text-decoration: underline;
+}
+
 #footer_links a:link {
 	text-decoration: none;
 	color: #f5cd72;
@@ -661,41 +695,6 @@ li.sitemap_links a:active {
 }
 
 
-div.event_stub a:link {
-	color: #1e1e1e;
-	text-decoration: none;
-}
-div.event_stub a:visited {
-	color: #1e1e1e;
-	text-decoration: none;
-}
-div.event_stub a:hover {
-	color: #1e1e1e;
-	text-decoration: underline;
-}
-div.event_stub a:active {
-	color: #41342d;
-	text-decoration: underline;
-}
-
-table.schedule a:link {
-	color: #1e1e1e;
-	text-decoration: none;
-}
-table.schedule a:visited {
-	color: #1e1e1e;
-	text-decoration: none;
-}
-table.schedule a:hover {
-	color: #1e1e1e;
-	text-decoration: underline;
-}
-table.schedule a:active {
-	color: #41342d;
-	text-decoration: underline;
-}
-
-
 /*  COLORS */
 /*
 All colors here, except link colors. Go to section LINK STYLING for link colors.
@@ -726,37 +725,18 @@ body {
 	border-left: 2px dotted #00111c;
 }
 
-li.facebook {
-	background-color: #3b5998;
-	padding: 3px;
-}
-li.twitter {
-	background-color: #0084B4;
-	padding: 3px;
-}
-li.tickets {
-	background-color: #ccc1a3;
-	border: solid red;
-	padding: 3px;
-}
-li.header_menu_items {
-/*	background-color: #41342d;*/
-	padding: 3px;
-}
-
-
 #header_banner ul {
 	color:#f5cd72;
+}
+
+#menu {
+	border: 2px solid #1e1e1e;
+	background-color: #7f8d53;
 }
 
 #under_menu {
 	background-color: #CCC1A3;
 	border-top: 2px solid #41342d;
-	
-}
-#menu {
-	border: 2px solid #1e1e1e;
-	background-color: #7f8d53;
 }
 
 #content {
@@ -769,22 +749,36 @@ li.header_menu_items {
 	background-color: #7f8d53;
 }
 
-iframe {
-	background-color: #d8dfea;
-}
-#face {
-	background-color: #d8dfea;
-}
-
 #footer {
 	background-color: #41342d;
 	color: #f5cd72;
 	border: 2px solid #1e1e1e;
 }
 
+li.facebook {
+	background-color: #3b5998;
+	padding: 3px;
+}
+
+li.twitter {
+	background-color: #0084B4;
+	padding: 3px;
+}
+
+li.tickets {
+	background-color: #ccc1a3;
+	border: solid red;
+	padding: 3px;
+}
+
+li.header_menu_items {
+	padding: 3px;
+}
+
 li.button {
 	background-color: #41342d;
 }
+
 li.active {
 	background-color: #1e1e1e;
 }
