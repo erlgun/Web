@@ -1,4 +1,3 @@
-
 				<div id="sidebar_menu">
 					<ul class="sidebar_menu_items">
 <?php

@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 $current = 'Sidekart';
 $folder = '1';
 include '../inc/top.inc.php';

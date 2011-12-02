@@ -4,11 +4,14 @@ $folder = '1';
 include '../inc/top.inc.php';
 include '../inc/menu.inc.php';
 ?>
+
 				<div id="sidebar">
-					<lh><strong>E-post:</strong></lh>
-					<li><a href="mailto:festival@cosmicwind.org?subject=Henvendelse fra kulquinox.no">festival@cosmicwind.org</a></li>	
-					<lh><strong>Telefon:</strong></lh>
-					<li>0047 400 48 413</li>
+				<ul>
+					<li><strong>E-post:</strong></li>
+					<li><a href="mailto:festival@cosmicwind.org?subject=Henvendelse$20fra$20kulquinox.no">festival@cosmicwind.org</a></li>	
+					<li><strong>Telefon:</strong></li>
+					<li>+ 47 400 48 413</li>
+				</ul>
 				</div>
 				<div id="inner_content">
 					<h2>Kontakt Kulquinox via skjema</h2>
@@ -31,7 +34,6 @@ include '../inc/menu.inc.php';
 						<textarea cols=42 rows=5 name="message" id="melding"></textarea><br />
 						<input type="submit" value="Send inn" name="send">
 					</form>
-
 <?php
 $name			=	$_REQUEST['name'];
 $phone			=	$_REQUEST['phone'];
@@ -41,7 +43,40 @@ $message		=	$_REQUEST['message'];
 
 if (isset($_REQUEST['send'])) {
 	if ((!$name) or (!$phone) or (!$email) or (!$whatContact) or (!$message)) {
-	die('<br />Du fylte ikke ut skjema fullstendig, vennligst se at alle feltene er fylt ut før du sender inn skjemaet.');
+	die('<br /><p>Du fylte ikke ut skjema fullstendig, vennligst se at alle feltene er fylt ut før du sender inn skjemaet.</p>					</div> <!-- END OF #inner_content -->
+					</div> <!-- END OF #content -->
+					<div id="footer">
+						<div id="copyright_and_footer_links">
+							<div id="footer_links">	
+								<p>
+									<a href="./sidekart.php">Sidekart</a> | <a href="./kontakt.php">Kontakt Kulquinox</a>
+
+								</p>
+
+							</div>
+							<div id="copyright">
+								<p>
+									Copyright &copy; 2011 Kulquinox
+								</p>	
+							</div>
+						</div>
+
+						<div id="to_top">
+							<p>
+								<a href="#top">Til toppen av siden</a>
+							</p>
+						</div>
+						<div id="validators">
+							<p>
+								<a href="http://validator.w3.org/check?uri=referer">Valider HTML5 med W3C</a> | 
+								<a href="http://jigsaw.w3.org/css-validator/check/referer">Valider CSS med W3C</a>
+
+							</p>
+						</div>
+					</div> <!-- END OF #footer -->
+				</div> <!-- END OF #wrap -->
+			</body>
+		</html>'); // Quick and dirty solution to the problem where die stops the php-script. An undynamic fix that works temporarily. I will now be able to go to sleep...
 	} else {
 		mail('nicolaig@broadpark.no', 'Kulquinox.no skjema angående '.$whatContact, "Henvendelse fra ".$name."\n Avsenders e-post: ".$email."\n Avsenders tlf.nr.: ".$phone."\n\n".$message);
 		echo 'Takk for at du tok kontakt med Kulquinox, vi vil svare deg så fort som mulig.';
@@ -49,7 +84,7 @@ if (isset($_REQUEST['send'])) {
 	
 }
 ?>
-				</div><!-- END OF #inner_content -->
+				</div> <!-- END OF #inner_content -->
 <?php
 include '../inc/bottom.inc.php';
 ?>

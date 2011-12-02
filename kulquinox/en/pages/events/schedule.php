@@ -7,7 +7,6 @@ include '../../inc/menu.inc.php';
 <h2>Schedule</h2>
 <h3>March 23</h3>
 		<table class = "schedule">
-				
 				<tr>
 					<th>Time</th> 
 					<th>Bakgårdsscenen</th>
@@ -35,7 +34,7 @@ include '../../inc/menu.inc.php';
 				<tr>
 					<td>21.45 - 23.00</td>
 					<td><a href="./artists/assula.php">Assula</a></td>
-					<td><a href="./artists/tuva_tariq.php">Tuva & Tariq</a></td>
+					<td><a href="./artists/tuva_tariq.php">Tuva &amp; Tariq</a></td>
 					<td><a href="./artists/astro-gastro-jam.php">Astro-Gastro-JAM</a></td>
 				</tr>	
 
@@ -74,8 +73,6 @@ include '../../inc/menu.inc.php';
 					<td><a href="./artists/khanstrings.php">Khanstrings</a></td>
 					<td></td>
 				</tr>
-
-
 		</table>		
 <?php
 include '../../inc/bottom.inc.php';

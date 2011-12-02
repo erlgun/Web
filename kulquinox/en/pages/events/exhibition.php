@@ -7,6 +7,7 @@ include '../../inc/menu.inc.php';
 					<h2>Exhibition</h2>
 					<p>
 						There are currently not any art ready for Kulquinox
+					</p>
 <?php
 include '../../inc/bottom.inc.php';
 ?>

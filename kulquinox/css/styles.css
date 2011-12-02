@@ -732,6 +732,26 @@ div.event_stub a:active {
 	text-decoration: underline;
 }
 
+#sidebar a:link {
+	color: #0A328D;
+	text-decoration: underline;
+	
+}
+#sidebar a:visited {
+	color: #0A328D;
+	text-decoration: underline;
+	
+}
+#sidebar a:hover {
+	color: #0A328D;
+	text-decoration: underline;
+	
+}
+#sidebar a:active {
+	color: #0A328D;
+	text-decoration: underline;
+	
+}
 #footer_links a:link {
 	text-decoration: none;
 	color: #f5cd72;

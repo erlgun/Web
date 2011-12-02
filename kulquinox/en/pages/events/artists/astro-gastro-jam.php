@@ -16,7 +16,7 @@ include '../../../inc/artist_menu.inc.php';
 							The band will play on many strange things, things you would not think it was possible to use in a band context. This is the MUST-SEE concert of the festival.
 						</p>
 					</div>
-					</div>
+				</div>
 <?php
 include '../../../inc/bottom.inc.php';
 ?>
