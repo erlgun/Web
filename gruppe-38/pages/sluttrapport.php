@@ -266,6 +266,9 @@ Websiden støtter tekst til tale programmer og tekstbaserte nettlesere f.eks. Lyn
 <p>
 Under utviklingen av nettsiden hadde vi flere prototyper av websiden, og sirklet oss til slutt inn på det resultatet som vi var ute etter. Vi synes at samarbeidet har gått bra, og er godt fornøyd med resultatet.
 </p>
+<p>
+<a href="#top">Til toppen</a>
+</p>	
 <a id="Hoveddel"></a>
 <h3>2. Hoveddel</h3>
 
@@ -347,6 +350,9 @@ WCAG:
 <p>
 Kontaktskjemaet vårt følger WCAG AA i den forstand at brukerne får en feilmelding hvis de ikke har fylt ut et eller flere felt. Kontaktsiden har også en alternativ metode for å kontakte festivalen. Dette eventuelt om et skjema ikke skulle sendes grunnet feil på klient- eller serverside.
 </p>
+<p>
+<a href="#top">Til toppen</a>
+</p>
 <a id="Utvikling_og_metode"></a>
 <h4>2.2 Utvikling og metode</h4>
 
@@ -387,6 +393,9 @@ Vi bestemte oss også for omfattende brukertesting for å sikre et best mulig resu
 </p>
 <p>
 Som sikkerhetslagring brukte vi fra starten Dropbox, men gikk etterhvert også over til Git for å ha bedre versjonskontroll.
+</p>
+<p>
+<a href="#top">Til toppen</a>
 </p>
 <a id="Resultater"></a>
 <h4>2.3 Resultater</h4>
@@ -538,6 +547,11 @@ Vi har valgt å kun holde oss til HTML 5, CSS 2.1 og PHP. Dette har vi kompetanse
 Websiden følger WCAG sine krav om at websider fortsatt skal være lesbar med dobbel skriftstørrelse. Dette fungerer helt ned til oppløsningen 1024 x 768. Websiden fungerer også helt ned til 800 x 600, men da ikke med dobbel skriftstørrelse.
 </p>
 <p>
+Størrelse på fonten i brødtekst er angitt i em isteden for i px. At font er angitt i em betyr at den da vises i den fonten brukeren på klientsiden har satt som standard isteden for i den pixelstørrelsen vi har valgt.
+Dette betyr at en bruker med nedsatt syn vil ha en større font størrelse som standard og dermed får opp siden med større tekst.
+Dette gjør at vi slipper å ha en alternativ CSS, i tillegg til at vanlige brukere vil få opp siden med normal font størrelse.
+</p>
+<p>
 Nettsiden har sin egen brødsmulesti med knapper som til en hver tid viser hvor på websiden du er, dette gjør det veldig lett å navigere, dette er også selvsagt mulig med kun tastaturet.
 Det finnes også et sidekart som er oversiktlig og lett å bruke.
 </p>
@@ -546,7 +560,9 @@ Innholdet på siden er relevant informasjon, som er skrevet lett og med korte set
 Dette gjelder ikke bare tekst med også bilder, vi har valgt å kun ha med bilder som gir mening, ikke bare for  å være dekorative. Dette sikrer festivalen og brukere en solid, gjennomtenkt og funksjonell side.
 </p>
 
-
+<p>
+<a href="#top">Til toppen</a>
+</p>
 <a id="Evaluering"></a>
 <h4>2.4 Evaluering av resultat(nettsiden)</h4>
 <p>
@@ -600,6 +616,9 @@ Etter vår mening er koden godt strukturert, dette vil gjøre utviklerjobben sener
 </p>
 <p>
 Styret i Kulquinox er fornøyd med det resultatet vi har kommer til.
+</p>
+<p>
+<a href="#top">Til toppen</a>
 </p>
 <a id="Avslutningsdel"></a>
 <h3>3. Avslutningsdel</h3>
@@ -661,7 +680,9 @@ Sent i prosjektet  ble en del filnavn og mappenavn i produktsiden endret. Dette 
 <p>
 Det er vanskelig å si hvor godt resultatet er før artistsidene til vårens festival kan publiseres. Resultatet avhenger mye av hvordan brukergruppen opplever å finne frem til relevant informasjon og hvorvidt produktsiden gir dem lyst til å oppsøke festivalen. Siden kan være en design- og strukturmessig suksess men ha manglende kommersiell suksess. I forhold til produktmålet vi har satt oss er vi derimot fornøyd med det endelige resultatet.
 </p>
-
+<p>
+<a href="#top">Til toppen</a>
+</p>
 <a id="Tiltak_videre_arbeid"></a>
 <h4>3.2 Forslag til tiltak og videre arbeid</h4>
 <p>
@@ -682,7 +703,9 @@ Websiden skal også være tilgjengelig på spansk, det er noe vi vil gjøre i nærmes
 <p>
 Under menyene film, teater og utstilling, vil vi bruke samme system som er blitt gjort under artister, dette legges ut forløpende etter som vi får vite om nye bookinger til vårens festival.
 </p>
-
+<p>
+<a href="#top">Til toppen</a>
+</p>
 <a id="Henvisningsdel"></a>
 <h3>4 Henvisningsdel</h3>
 
@@ -712,7 +735,9 @@ Git: Vi har ikke brukt Git konsekvent gjennom hele prosjektet og den som har sen
 <p>
 git://github.com/erWulf/Web.git (Link til read only access av vårt repository.)
 </p>
-
+<p>
+<a href="#top">Til toppen</a>
+</p>
 <a id="Kildehenvisninger"></a>
 <h4>4.2 Kildehenvisninger</h4>
 
